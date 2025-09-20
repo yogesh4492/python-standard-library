@@ -1,0 +1,66 @@
+{
+  "documentId": "10042104",
+  "audioId": 10042104,
+  "audioFileNamePath": "shaip-production-bucket/eztrans/EZBS/data/Swar/audio/24564/20221214/[CGKDLI_125537.jpg]_Chhattisgarh_Kabirdham_20221213060847144_74169.wav",
+  "imageFileNamePath": "shaip-production-bucket/eztrans/EZBS/data/Swar/audio/24564/20221214/[CGKDLI_125537.jpg]_Chhattisgarh_Kabirdham_20221213060847144.jpg",
+  "delivery": "audio",
+  "segments": [
+    {
+      "segmentId": "100001",
+      "start": 1.34,
+      "end": 4.453,
+      "content": "No Transcription Required",
+      "segmentType": "Speech",
+      "active": null
+    },
+    {
+      "segmentId": "1000011",
+      "start": 4.453,
+      "end": 11.912,
+      "content": "No Transcription Required",
+      "segmentType": "Speech",
+      "active": null
+    },
+    {
+      "segmentId": "1000021",
+      "start": 12.23,
+      "end": 16.772,
+      "content": "No Transcription Required",
+      "segmentType": "Speech",
+      "active": null
+    },
+    {
+      "segmentId": "1000031",
+      "start": 17.609,
+      "end": 20.027,
+      "content": "No Transcription Required",
+      "segmentType": "Speech",
+      "active": null
+    }
+  ],
+  "speakerMetadata": {
+    "speakerId": "74169",
+    "phoneBrand": "INFINIX MOBILITY LIMITED",
+    "phoneModel": "Infinix X655D",
+    "gender": "Male",
+    "age": 47,
+    "eduction": "below 10th",
+    "speakerPincode": "491995",
+    "socioEconomic": "Upper",
+    "languageDuringRecording": "hindi",
+    "languageSpoken": "Hindi",
+    "stayYears": "kabirdham (47)"
+  },
+  "transcriberMetadata": {
+    "transcriberId": 24712,
+    "gender": null,
+    "age": null,
+    "eduction": null,
+    "pincode": "",
+    "socioEconomic": null,
+    "experienceYears": 0,
+    "languagesRead": null,
+    "languagesWrite": null,
+    "languagesSpeak": null
+  }
+}

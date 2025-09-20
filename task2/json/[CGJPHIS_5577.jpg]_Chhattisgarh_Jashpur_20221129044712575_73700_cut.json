@@ -1,0 +1,50 @@
+{
+    "documentId": "10018640",
+    "audioId": 10018640,
+    "audioFileNamePath": "shaip-production-bucket/eztrans/EZBS/data/Swar/audio/24567/20221213/[CGJPHIS_5577.jpg]_Chhattisgarh_Jashpur_20221129044712575_73700.wav",
+    "imageFileNamePath": "shaip-production-bucket/shaip-app/data/2/4/image/Chhattisgarh-Jashpur/20221129/[CGJPHIS_5577.jpg]_Chhattisgarh_Jashpur_20221129044712575.jpg",
+    "delivery": "audio",
+    "segments": [
+        {
+            "segmentId": "100001",
+            "start": 0.592,
+            "end": 8.855,
+            "content": "ये जो पहाड़ दिखत है ये हमारे जसपुर करके और इठन आज भी घूम के लेकिन मुर्ग इसलिए आए क्योंकि ठंड से ठड़ाई",
+            "segmentType": "Speech",
+            "active": true
+        },
+        {
+            "segmentId": "1000011",
+            "start": 9.108,
+            "end": 18.823,
+            "content": "No Transcription Required",
+            "segmentType": "Speech",
+            "active": null
+        }
+    ],
+    "speakerMetadata": {
+        "speakerId": "73700",
+        "phoneBrand": "Xiaomi",
+        "phoneModel": "M2006C3LII",
+        "gender": "Female",
+        "age": 37,
+        "eduction": "12th pass",
+        "speakerPincode": "496224",
+        "socioEconomic": "Lower Middle",
+        "languageDuringRecording": "Chhattisgarhi",
+        "languageSpoken": "Hindi,Chhattisgarhi",
+        "stayYears": "Jashpur(30)"
+    },
+    "transcriberMetadata": {
+        "transcriberId": 26997,
+        "gender": "Female",
+        "age": 22,
+        "eduction": "graduate",
+        "pincode": "380024",
+        "socioEconomic": "Upper",
+        "experienceYears": 4,
+        "languagesRead": "English",
+        "languagesWrite": "English",
+        "languagesSpeak": "English"
+    }
+}

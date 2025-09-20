@@ -1,0 +1,55 @@
+{
+  "value" : {
+    "segments" : [ {
+      "transcriptionData" : {
+        "content" : "यह चित्र मुझे बहुत अच्छा लगा इसमें लाइब बेरी{लाइब्रेरी} {laibrary}"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "CG-Kabirdham" ],
+      "speakerId" : "9997554",
+      "segmentId" : "100001",
+      "start" : 1.340,
+      "end" : 4.453,
+      "editableSegment" : true
+    }, {
+      "transcriptionData" : { },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "CG-Kabirdham" ],
+      "speakerId" : "9997554",
+      "segmentId" : "1000011",
+      "start" : 4.453,
+      "end" : 11.912,
+      "editableSegment" : false
+    } ],
+    "speakers" : [ {
+      "speakerId" : "9997554",
+      "gender" : "Male",
+      "speakerNativity" : "Native",
+      "languages" : [ "CG-Kabirdham" ]
+    } ],
+    "taskStatus" : {
+      "segmentation" : {
+        "workflowStatus" : "COMPLETE",
+        "workflowType" : "LABEL"
+      },
+      "transcription" : {
+        "workflowStatus" : "COMPLETE",
+        "workflowType" : "LABEL"
+      },
+      "speakerId" : {
+        "workflowStatus" : "COMPLETE",
+        "workflowType" : "LABEL"
+      }
+    },
+    "conventionInfo" : {
+      "masterConventionName" : "AWSTranscriptionGuidelines.2.9:en_US",
+      "customAddendum" : "en_US"
+    }
+  },
+  "type" : {
+    "name" : "MULTI_SPEAKER_LONG_FORM_TRANSCRIPTION",
+    "version" : "22.0"
+  }
+}
