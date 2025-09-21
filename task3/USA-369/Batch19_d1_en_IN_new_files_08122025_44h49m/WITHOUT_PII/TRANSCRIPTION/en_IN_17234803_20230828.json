@@ -1,0 +1,493 @@
+{
+  "value" : {
+    "domains" : [ "Telecom and Service" ],
+    "topics" : [ "Travel" ],
+    "callingCompany" : "Service Offering ",
+    "segments" : [ {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Music",
+      "segmentId" : "100001",
+      "start" : 1.062,
+      "end" : 4.199
+    }, {
+      "transcriptionData" : {
+        "content" : "Your call is very important to us. Please stay on the line. You'll be transferred to the next available agent."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "6b07e04b-645c-4ee2-aed5-197b8aa4551d",
+      "segmentId" : "100046",
+      "start" : 4.199,
+      "end" : 8.210
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Music",
+      "segmentId" : "100002",
+      "start" : 10.082,
+      "end" : 20.495
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Music",
+      "segmentId" : "100003",
+      "start" : 29.455,
+      "end" : 38.990
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Music",
+      "segmentId" : "100004",
+      "start" : 59.459,
+      "end" : 70.301
+    }, {
+      "transcriptionData" : {
+        "content" : "Your call is very important to us. Please stay on the line. You'll be transferred to the next available agent."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "6b07e04b-645c-4ee2-aed5-197b8aa4551d",
+      "segmentId" : "100005",
+      "start" : 70.981,
+      "end" : 75.136
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Music",
+      "segmentId" : "100006",
+      "start" : 80.861,
+      "end" : 91.488
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Music",
+      "segmentId" : "100007",
+      "start" : 122.453,
+      "end" : 126.757
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Music",
+      "segmentId" : "100008",
+      "start" : 126.757,
+      "end" : 137.219
+    }, {
+      "transcriptionData" : {
+        "content" : "Your call is very important to us. Please stay on the line. You'll be transferred to the next available agent."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "6b07e04b-645c-4ee2-aed5-197b8aa4551d",
+      "segmentId" : "100009",
+      "start" : 137.810,
+      "end" : 141.978
+    }, {
+      "transcriptionData" : {
+        "content" : "Thank you for calling reservations. My name is [redacted-name-Agent] and how may [noise] I help you?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2309",
+      "segmentId" : "100010",
+      "start" : 150.213,
+      "end" : 153.925
+    }, {
+      "transcriptionData" : {
+        "content" : "Hi there. #um I cannot #uh check in to my flight in the morning. I wonder if you can help me out."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2310",
+      "segmentId" : "100011",
+      "start" : 154.921,
+      "end" : 161.587
+    }, {
+      "transcriptionData" : {
+        "content" : "(()) [noise] number"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2309",
+      "segmentId" : "100012",
+      "start" : 163.223,
+      "end" : 165.738
+    }, {
+      "transcriptionData" : {
+        "content" : "#uh [redacted-number-other]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2310",
+      "segmentId" : "100013",
+      "start" : 166.835,
+      "end" : 169.467
+    }, {
+      "transcriptionData" : {
+        "content" : "[redacted-number-other] and then"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2309",
+      "segmentId" : "100014",
+      "start" : 172.100,
+      "end" : 173.940
+    }, {
+      "transcriptionData" : {
+        "content" : "[redacted-number-other]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2310",
+      "segmentId" : "100015",
+      "start" : 174.840,
+      "end" : 178.760
+    }, {
+      "transcriptionData" : {
+        "content" : "All right, [redacted-number-other]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2309",
+      "segmentId" : "100016",
+      "start" : 180.436,
+      "end" : 185.026
+    }, {
+      "transcriptionData" : {
+        "content" : "No. [redacted-number-other]."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2310",
+      "segmentId" : "100017",
+      "start" : 186.697,
+      "end" : 192.788
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay and your name?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2309",
+      "segmentId" : "100018",
+      "start" : 194.206,
+      "end" : 196.349
+    }, {
+      "transcriptionData" : {
+        "content" : "[redacted-name-Customer]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2310",
+      "segmentId" : "100019",
+      "start" : 197.479,
+      "end" : 198.539
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100020",
+      "start" : 200.568,
+      "end" : 202.061
+    }, {
+      "transcriptionData" : {
+        "content" : "[redacted-name-Customer] [redacted-name-Customer]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2309",
+      "segmentId" : "100047",
+      "start" : 202.061,
+      "end" : 202.839
+    }, {
+      "transcriptionData" : {
+        "content" : "[redacted-name-Customer]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2310",
+      "segmentId" : "100021",
+      "start" : 203.419,
+      "end" : 210.946
+    }, {
+      "transcriptionData" : {
+        "content" : "[redacted-name-Customer]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2310",
+      "segmentId" : "100023",
+      "start" : 211.799,
+      "end" : 212.397
+    }, {
+      "transcriptionData" : {
+        "content" : "[redacted-name-Customer]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2309",
+      "segmentId" : "100024",
+      "start" : 212.398,
+      "end" : 215.603
+    }, {
+      "transcriptionData" : {
+        "content" : "No. [redacted-name-Customer]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2310",
+      "segmentId" : "100025",
+      "start" : 216.312,
+      "end" : 222.742
+    }, {
+      "transcriptionData" : {
+        "content" : "All right, so it's [redacted-name-Customer]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2309",
+      "segmentId" : "100026",
+      "start" : 224.519,
+      "end" : 232.899
+    }, {
+      "transcriptionData" : {
+        "content" : "No it's not that, okay [redacted-name-Customer]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2310",
+      "segmentId" : "100027",
+      "start" : 233.693,
+      "end" : 241.574
+    }, {
+      "transcriptionData" : {
+        "content" : "[redacted-name-Customer]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2310",
+      "segmentId" : "100029",
+      "start" : 243.479,
+      "end" : 248.172
+    }, {
+      "transcriptionData" : {
+        "content" : "[redacted-name-Customer]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2310",
+      "segmentId" : "100031",
+      "start" : 249.779,
+      "end" : 262.145
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay. And can you provide me with the departure city and the destination?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2309",
+      "segmentId" : "100032",
+      "start" : 264.878,
+      "end" : 270.464
+    }, {
+      "transcriptionData" : {
+        "content" : "Yeah, I'm flying from [redacted-location]."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2310",
+      "segmentId" : "100033",
+      "start" : 271.818,
+      "end" : 274.598
+    }, {
+      "transcriptionData" : {
+        "content" : "[redacted-location]. All right, [bg-speech] let me see. [bg-speech] Just hold on the line for me"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2309",
+      "segmentId" : "100034",
+      "start" : 276.138,
+      "end" : 283.492
+    }, {
+      "transcriptionData" : {
+        "content" : "Don't you, do you need confirmation number or travel [noise] reservation <initial>ID</initial>?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2310",
+      "segmentId" : "100036",
+      "start" : 294.098,
+      "end" : 299.098
+    }, {
+      "transcriptionData" : {
+        "content" : "Just the confirmation numbers."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2309",
+      "segmentId" : "100037",
+      "start" : 301.295,
+      "end" : 303.404
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2310",
+      "segmentId" : "100038",
+      "start" : 304.147,
+      "end" : 304.703
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] Did you booked it with the travel agency? [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2309",
+      "segmentId" : "100039",
+      "start" : 305.108,
+      "end" : 307.418
+    }, {
+      "transcriptionData" : {
+        "content" : "No, it's #uh by [redacted-name-Company]."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2310",
+      "segmentId" : "100040",
+      "start" : 309.040,
+      "end" : 312.143
+    }, {
+      "transcriptionData" : {
+        "content" : "[redacted-name-Company]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2309",
+      "segmentId" : "100048",
+      "start" : 312.871,
+      "end" : 315.551
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay. [bg-speech] #uh Let me see. [no-speech] Apart from this, don't you have any airline confirmation number ma'am?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2309",
+      "segmentId" : "100043",
+      "start" : 317.579,
+      "end" : 327.653
+    }, {
+      "transcriptionData" : {
+        "content" : "See in this case, kindly call [redacted-name-Company]. They will be able to help you with the check in."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2309",
+      "segmentId" : "100044",
+      "start" : 330.407,
+      "end" : 335.385
+    } ],
+    "speakers" : [ {
+      "speakerId" : "RC_2309",
+      "gender" : "Male",
+      "speakerNativity" : "Unknown",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "Agent",
+      "country" : "India",
+      "city" : "Mumbai",
+      "age" : "26"
+    }, {
+      "speakerId" : "US281084",
+      "gender" : "Female",
+      "speakerNativity" : "Unknown",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "Agent",
+      "country" : "India",
+      "city" : "Mumbai",
+      "age" : "43"
+    }, {
+      "speakerId" : "RC_2310",
+      "gender" : "Female",
+      "speakerNativity" : "Unknown",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "Customer",
+      "country" : "USA",
+      "city" : "Los Angeles",
+      "age" : "32"
+    }, {
+      "speakerId" : "6b07e04b-645c-4ee2-aed5-197b8aa4551d",
+      "gender" : "Male",
+      "speakerNativity" : "Unknown",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "IVR",
+      "country" : "USA",
+      "city" : "Los Angeles",
+      "age" : "26"
+    }, {
+      "gender" : "Male",
+      "speakerNativity" : "Native",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "Speaker4",
+      "country" : "USA",
+      "city" : "Los Angeles",
+      "age" : "27"
+    } ],
+    "taskStatus" : {
+      "segmentation" : {
+        "workflowStatus" : "COMPLETE",
+        "workflowType" : "LABEL"
+      },
+      "transcription" : {
+        "workflowStatus" : "COMPLETE",
+        "workflowType" : "LABEL"
+      },
+      "speakerId" : {
+        "workflowStatus" : "COMPLETE",
+        "workflowType" : "LABEL"
+      }
+    },
+    "conventionInfo" : {
+      "masterConventionName" : "TranscriptionGuidelines.2.9:en_US",
+      "customAddendum" : "en_US"
+    },
+    "annotatorInfo" : {
+      "loginEncrypted" : "N/A",
+      "annotatorId" : "42329"
+    },
+    "primaryVariety" : "N/A",
+    "otherLanguages" : [ "N/A" ],
+    "primaryLanguage" : "en_IN"
+  },
+  "type" : {
+    "name" : "MULTI_SPEAKER_LONG_FORM_TRANSCRIPTION",
+    "version" : "21.0"
+  }
+}

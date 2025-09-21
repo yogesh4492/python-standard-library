@@ -1,0 +1,1100 @@
+{
+  "value" : {
+    "domains" : [ "Insurance" ],
+    "topics" : [ "Insurance Upgrade" ],
+    "callingCompany" : "Healthcare",
+    "segments" : [ {
+      "transcriptionData" : {
+        "content" : "[noise] [bg-speech] Hello, #uh very good morning to you. My name is [redacted-name-Agent], calling you from healthcare support, how are you doing today?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100001",
+      "start" : 0.000,
+      "end" : 7.805
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] Good. [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0912008",
+      "segmentId" : "100002",
+      "start" : 8.062,
+      "end" : 8.969
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] [bg-speech] Good to hear that, so the reason of my call is to inform you that, your Medicare has been upgraded and you are all qualified to receive some additional Medicare [noise] benefits at zero dollar cost to you."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100003",
+      "start" : 9.022,
+      "end" : 23.343
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] [noise] I hope that sounds good to you."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100004",
+      "start" : 23.423,
+      "end" : 25.743
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] Yes. [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0912008",
+      "segmentId" : "100005",
+      "start" : 25.783,
+      "end" : 26.755
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] [bg-speech] That's great. So, the benefits, which you are receiving today [noise] include your doctor co-pays and your [noise] specialist co-pays, and it will also cover your dental, vision, hearing, [noise] and your transportation benefits. [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100006",
+      "start" : 26.803,
+      "end" : 41.763
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] [bg-speech] And the best part you don't have to pay anything. All these benefits are at zero dollar premium to you. I hope that sounds good to you."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100007",
+      "start" : 42.003,
+      "end" : 50.903
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] [noise] Yeah. So, does it [noise] #uh matter for life (()) criteria, (()) group criteria like that? [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0912008",
+      "segmentId" : "100008",
+      "start" : 52.034,
+      "end" : 59.943
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] #uh No, there is no (()) criteria, sir, (()) it it there is no (()) criteria in these benefits. If you have Medicare, [noise] then you are eligible to receive the [noise] benefits. [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100009",
+      "start" : 60.003,
+      "end" : 69.204
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] [noise] So, sir, for this [noise] upgradation, I do believe you have Medicare part A and part B, both are [noise] active?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100010",
+      "start" : 69.304,
+      "end" : 75.862
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] Yes. [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0912008",
+      "segmentId" : "100011",
+      "start" : 75.884,
+      "end" : 77.060
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] [noise] And sir, I also so believe you [noise] make your own decisions regarding your Medicare, right? [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100012",
+      "start" : 77.104,
+      "end" : 82.105
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] [noise] Yes. [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0912008",
+      "segmentId" : "100013",
+      "start" : 82.204,
+      "end" : 83.253
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] That's great, and so like, could you please verify your Z I P code?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100014",
+      "start" : 83.344,
+      "end" : 87.544
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] [noise] Four three zero six eight. [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0912008",
+      "segmentId" : "100015",
+      "start" : 87.544,
+      "end" : 90.543
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] Okay sir, [noise] and you living Reyn~ [noise] [redacted-location], [redacted-location], right?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100016",
+      "start" : 90.604,
+      "end" : 97.104
+    }, {
+      "transcriptionData" : {
+        "content" : "Yes. [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0912008",
+      "segmentId" : "100017",
+      "start" : 97.428,
+      "end" : 97.867
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] Okay, and so like, do you receive any employment or [noise] retainment benefits from your [noise] previous job? [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100018",
+      "start" : 98.004,
+      "end" : 103.958
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] So [noise] #uh so #uh [noise] no [noise] nothing."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0912008",
+      "segmentId" : "100019",
+      "start" : 104.184,
+      "end" : 110.033
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] Okay sir, and so like do you receive any insurance like <initial>V A</initial> or TriCare?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100020",
+      "start" : 110.204,
+      "end" : 115.568
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] No no."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0912008",
+      "segmentId" : "100021",
+      "start" : 115.864,
+      "end" : 117.931
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] Okay. Also, maybe, like did you made any kind of changes in your Medicare plan in the last three months?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100022",
+      "start" : 118.285,
+      "end" : 124.259
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] [bg-speech] No changes. [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0912008",
+      "segmentId" : "100023",
+      "start" : 124.305,
+      "end" : 125.930
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] [noise] Okay sir, so sir like that I can see over here, you are all qualified to receive these [noise] additional Medicare [noise] benefits [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100024",
+      "start" : 126.132,
+      "end" : 133.265
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] [bg-speech] at zero dollar premium to you. [noise] So sir, [noise] like just for the [noise] last confirmation, like do you have the red, blue, and [noise] white [noise] Medicare card with you?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100025",
+      "start" : 133.325,
+      "end" : 142.305
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] [noise] Yeah. [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0912008",
+      "segmentId" : "100026",
+      "start" : 142.605,
+      "end" : 144.003
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] [noise] So sir, like can you please get the card and, if it's possible I will hold the line for you."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100027",
+      "start" : 144.325,
+      "end" : 149.200
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] Okay. [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0912008",
+      "segmentId" : "100028",
+      "start" : 149.858,
+      "end" : 150.432
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] [noise] Okay sir."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100029",
+      "start" : 150.905,
+      "end" : 151.664
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] Just a second."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0912008",
+      "segmentId" : "100030",
+      "start" : 151.965,
+      "end" : 154.955
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] Okay sir."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100031",
+      "start" : 155.165,
+      "end" : 156.685
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Noise",
+      "segmentId" : "100076",
+      "start" : 156.685,
+      "end" : 163.245
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] #uh To to do #uh [noise] let me see, [noise] this is the different one. [noise] #uh This I'm checking [noise] okay. [noise] This [noise] #uh"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0912008",
+      "segmentId" : "100032",
+      "start" : 163.443,
+      "end" : 170.446
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] [bg-speech] Okay sir, no problem."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100033",
+      "start" : 170.463,
+      "end" : 171.847
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] Okay. [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0912008",
+      "segmentId" : "100034",
+      "start" : 171.925,
+      "end" : 173.065
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] And so like, could you please, verify if you like, how [noise] do you spell your first and your last name?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100035",
+      "start" : 173.095,
+      "end" : 177.500
+    }, {
+      "transcriptionData" : {
+        "content" : "#uh First name, [noise] [redacted-name-Customer]. [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0912008",
+      "segmentId" : "100036",
+      "start" : 178.462,
+      "end" : 180.436
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] Yeah, how do you spell it?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100037",
+      "start" : 181.166,
+      "end" : 182.697
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] [redacted-name-Customer]. [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0912008",
+      "segmentId" : "100038",
+      "start" : 182.866,
+      "end" : 186.022
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] [noise] [redacted-name-Customer], and how do you spell your last name?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100039",
+      "start" : 186.086,
+      "end" : 190.713
+    }, {
+      "transcriptionData" : {
+        "content" : "Tu #uh [redacted-name-Customer], not Pu~ #uh [redacted-name-Customer] [noise] that's first name, [redacted-name-Customer]."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0912008",
+      "segmentId" : "100040",
+      "start" : 190.766,
+      "end" : 197.886
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] [bg-speech] [redacted-name-Customer], right?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100041",
+      "start" : 198.266,
+      "end" : 201.918
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] T U T U R E Y, yeah. [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0912008",
+      "segmentId" : "100042",
+      "start" : 202.086,
+      "end" : 204.230
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] Yeah, I got it [noise] sir."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100043",
+      "start" : 204.601,
+      "end" : 206.002
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] And last name #hm [redacted-name-Customer]."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0912008",
+      "segmentId" : "100044",
+      "start" : 206.066,
+      "end" : 211.064
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] [noise] Yeah, I got it."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100045",
+      "start" : 211.469,
+      "end" : 212.566
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Noise",
+      "segmentId" : "100046",
+      "start" : 212.826,
+      "end" : 214.823
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] Yeah, I I got the card. Yeah."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0912008",
+      "segmentId" : "100089",
+      "start" : 214.841,
+      "end" : 216.363
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] [noise] Okay okay, that's great sir, and Mr. [redacted-name-Customer], like, could you please help me out with your date of birth? What's your birth date?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100047",
+      "start" : 216.548,
+      "end" : 223.826
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] [redacted-dob]."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0912008",
+      "segmentId" : "100048",
+      "start" : 224.176,
+      "end" : 231.987
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] Okay, its [redacted-dob] [noise] okay sir. It's [redacted-dob],"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100049",
+      "start" : 232.288,
+      "end" : 237.081
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] [bg-speech] [redacted-dob], [noise] okay. [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100050",
+      "start" : 237.507,
+      "end" : 240.326
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] Yeah."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0912008",
+      "segmentId" : "100090",
+      "start" : 240.328,
+      "end" : 240.701
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] So, so, sir, like [noise] right now, what I will do, I will connect your call to one of my verification officer, like he will quickly verify some of your details, sir. Then, he will transfer your call"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100091",
+      "start" : 240.724,
+      "end" : 252.147
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] [noise] to the licensed agent. And sir, like the licensed agent will be asking for you if the nearest he is from your own city with the same Z I P code of [redacted-location], [redacted-location], [redacted-number-other]."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100051",
+      "start" : 252.147,
+      "end" : 263.667
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] [bg-speech] And sir, like he will be asking for your Medicare <initial>I D</initial> number, because sir,"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100052",
+      "start" : 263.667,
+      "end" : 268.487
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] [bg-speech] with the help of your number, he will look into that like, what all are the other more additional Medicare benefits, [noise] you can receive on your existing Medicare plan. And sir, he will also be (()), he will just take your precious fifteen to twenty minutes."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100053",
+      "start" : 268.567,
+      "end" : 282.708
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] And will be setting sending you all the paperwork regarding these benefits at your mailing [noise] address. [noise] So, sir, like could you please [noise] help me out what's your exact [noise] mailing address? So, we can send you the paperwork."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100054",
+      "start" : 282.848,
+      "end" : 293.363
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] Okay, [redacted-number-other], #uh [noise] [redacted-location] [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0912008",
+      "segmentId" : "100055",
+      "start" : 294.562,
+      "end" : 301.598
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] #uh Which road? [bg-speech]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100056",
+      "start" : 301.835,
+      "end" : 303.148
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] [redacted-location] [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0912008",
+      "segmentId" : "100057",
+      "start" : 303.328,
+      "end" : 305.249
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Noise",
+      "segmentId" : "100092",
+      "start" : 305.261,
+      "end" : 307.008
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] [bg-speech] Okay sir, [noise] #uh [redacted-location], [noise] [redacted-location], [noise] [redacted-location], right?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100058",
+      "start" : 307.368,
+      "end" : 314.052
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] Yeah."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0912008",
+      "segmentId" : "100059",
+      "start" : 314.643,
+      "end" : 315.223
+    }, {
+      "transcriptionData" : {
+        "content" : "[redacted-number-other]."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0912008",
+      "segmentId" : "100077",
+      "start" : 315.223,
+      "end" : 316.718
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] [noise] Yeah, I got it and sir, like the [noise] licensed agent, will be asking for your Medicare <initial>I D</initial> number, just simply help me out, with your number, so he [noise] can look into that like what you are all the other more additional Medicare benefits"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100060",
+      "start" : 317.444,
+      "end" : 330.848
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] [noise] at zero dollar premium to you and sir, before connecting the call, I believe you understood this call is all about your additional Medicare benefits, okay. Thank you."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100061",
+      "start" : 330.988,
+      "end" : 341.067
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] Okay. [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0912008",
+      "segmentId" : "100078",
+      "start" : 341.067,
+      "end" : 341.899
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] [bg-speech] #uh Okay sir, please be on the line, on the line I will connect the call,"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100079",
+      "start" : 341.899,
+      "end" : 344.545
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] right now, right now. [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100062",
+      "start" : 344.546,
+      "end" : 346.068
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] Okay."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0912008",
+      "segmentId" : "100080",
+      "start" : 346.068,
+      "end" : 346.729
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay. [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100081",
+      "start" : 346.729,
+      "end" : 347.419
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] Yeah. And sir, like along with the Medicare, do you have Medicaid as well?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100083",
+      "start" : 347.429,
+      "end" : 351.245
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] [bg-speech] #uh What's that?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0912008",
+      "segmentId" : "100063",
+      "start" : 351.589,
+      "end" : 354.164
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] #uh Sir like, do you have [noise] Medicaid as well?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100064",
+      "start" : 354.738,
+      "end" : 357.185
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] Medicaid, yeah."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0912008",
+      "segmentId" : "100065",
+      "start" : 358.703,
+      "end" : 359.873
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] [bg-speech] Okay, okay sir. So [noise] sir, and so like, the verification [noise] officer will ask you, [noise] do you want to speak to the licensed agent, [noise] just simply [noise] tell him, yes [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100084",
+      "start" : 359.873,
+      "end" : 369.109
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] [noise] and help the licensed agent with your Medicare <initial>I D</initial> number, so he can be helping you to receive the best benefits, okay."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100066",
+      "start" : 369.229,
+      "end" : 375.308
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0912008",
+      "segmentId" : "100067",
+      "start" : 376.068,
+      "end" : 376.473
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] Yeah. Please be on the line, here we go, [bg-speech] I'm connecting your call."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "segmentId" : "100068",
+      "start" : 376.810,
+      "end" : 379.849
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Noise",
+      "segmentId" : "100085",
+      "start" : 379.850,
+      "end" : 383.329
+    }, {
+      "transcriptionData" : {
+        "content" : "Hello [redacted-name-Customer]. [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "db64e0a8-d309-4b96-a1d3-36ca66cedcd3",
+      "segmentId" : "100069",
+      "start" : 383.442,
+      "end" : 385.726
+    }, {
+      "transcriptionData" : {
+        "content" : "Hello. [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0912008",
+      "segmentId" : "100086",
+      "start" : 385.726,
+      "end" : 389.070
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] Hello, this is [redacted-name-other-staff]. I'm from [redacted-name-Company]. #uh Hi, am speaking (()) with [redacted-name-Customer], right?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "de789bb5-55f6-4bd0-a74c-f3e8573ba6df",
+      "segmentId" : "100070",
+      "start" : 389.298,
+      "end" : 398.834
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] Yeah."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0912008",
+      "segmentId" : "100087",
+      "start" : 398.834,
+      "end" : 399.132
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] Hello. [bg-speech]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "de789bb5-55f6-4bd0-a74c-f3e8573ba6df",
+      "segmentId" : "100088",
+      "start" : 399.135,
+      "end" : 399.878
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] Alright. Hi, this is from [redacted-name-Company]. #um Can I confirm your age, is that [redacted-age]? Is that correct?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "de789bb5-55f6-4bd0-a74c-f3e8573ba6df",
+      "segmentId" : "100071",
+      "start" : 400.030,
+      "end" : 407.807
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] What's that? [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0912008",
+      "segmentId" : "100072",
+      "start" : 408.010,
+      "end" : 410.250
+    }, {
+      "transcriptionData" : {
+        "content" : "#um Can I confirm your age? Is that you are [redacted-age] years old, is that [noise] correct? [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "de789bb5-55f6-4bd0-a74c-f3e8573ba6df",
+      "segmentId" : "100073",
+      "start" : 410.695,
+      "end" : 416.095
+    }, {
+      "transcriptionData" : {
+        "content" : "Yes. [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0912008",
+      "segmentId" : "100074",
+      "start" : 416.635,
+      "end" : 417.310
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] Alright. [noise] Thank you so [noise] much. [noise] Now (()) [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "de789bb5-55f6-4bd0-a74c-f3e8573ba6df",
+      "segmentId" : "100075",
+      "start" : 417.390,
+      "end" : 421.090
+    } ],
+    "speakers" : [ {
+      "speakerId" : "HJ0911509",
+      "gender" : "Male",
+      "speakerNativity" : "Unknown",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "Agent",
+      "country" : "India",
+      "city" : "Mumbai",
+      "age" : "24"
+    }, {
+      "speakerId" : "HJ2308052",
+      "gender" : "Female",
+      "speakerNativity" : "Unknown",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "Agent",
+      "country" : "India",
+      "city" : "Mumbai",
+      "age" : "55"
+    }, {
+      "speakerId" : "80688f3b-d401-4c5d-a68e-3a4e66b86ec1",
+      "gender" : "Male",
+      "speakerNativity" : "NonNative",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "Agent1",
+      "country" : "India",
+      "city" : "Mumbai",
+      "age" : "27"
+    }, {
+      "speakerId" : "de789bb5-55f6-4bd0-a74c-f3e8573ba6df",
+      "gender" : "Female",
+      "speakerNativity" : "NonNative",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "Agent2",
+      "country" : "India",
+      "city" : "Mumbai",
+      "age" : "23"
+    }, {
+      "speakerId" : "HJ0912008",
+      "gender" : "Male",
+      "speakerNativity" : "Native",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "Customer",
+      "country" : "USA",
+      "city" : "Los Angeles",
+      "age" : "65"
+    }, {
+      "speakerId" : "02c7bfc9-f554-491c-a40b-7e0aadb8c09d",
+      "gender" : "Male",
+      "speakerNativity" : "NonNative",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "IVR",
+      "country" : "India",
+      "city" : "Mumbai",
+      "age" : "25"
+    }, {
+      "speakerId" : "6a303569-caf8-406d-8688-30b281feef7a",
+      "gender" : "Male",
+      "speakerNativity" : "NonNative",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "IVR",
+      "country" : "INDIA",
+      "city" : "MUMBAI",
+      "age" : "23"
+    }, {
+      "speakerId" : "80f9dd6d-5d3b-4df0-a211-6b245f779dcb",
+      "gender" : "Male",
+      "speakerNativity" : "NonNative",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "IVR!",
+      "country" : "INDIA",
+      "city" : "MUMBAI",
+      "age" : "27"
+    }, {
+      "speakerId" : "db64e0a8-d309-4b96-a1d3-36ca66cedcd3",
+      "gender" : "Male",
+      "speakerNativity" : "NonNative",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "IVR1",
+      "country" : "INDIA",
+      "city" : "MUMBAI",
+      "age" : "28"
+    } ],
+    "taskStatus" : {
+      "segmentation" : {
+        "workflowStatus" : "COMPLETE",
+        "workflowType" : "LABEL"
+      },
+      "transcription" : {
+        "workflowStatus" : "COMPLETE",
+        "workflowType" : "LABEL"
+      },
+      "speakerId" : {
+        "workflowStatus" : "COMPLETE",
+        "workflowType" : "LABEL"
+      }
+    },
+    "conventionInfo" : {
+      "masterConventionName" : "TranscriptionGuidelines.2.9:en_US",
+      "customAddendum" : "en_US"
+    },
+    "annotatorInfo" : {
+      "loginEncrypted" : "N/A",
+      "annotatorId" : "40984"
+    },
+    "primaryVariety" : "N/A",
+    "otherLanguages" : [ "N/A" ],
+    "primaryLanguage" : "en_IN"
+  },
+  "type" : {
+    "name" : "MULTI_SPEAKER_LONG_FORM_TRANSCRIPTION",
+    "version" : "21.0"
+  }
+}

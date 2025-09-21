@@ -1,0 +1,225 @@
+{
+  "value" : {
+    "domains" : [ "Telecom and Service" ],
+    "topics" : [ "Travel" ],
+    "callingCompany" : "Service Offering ",
+    "segments" : [ {
+      "transcriptionData" : {
+        "content" : "[music] Your call is very important to us. Please stay on the line. We will transfer to the next available agent."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "f8a6f07e-3877-4da2-9503-b787ebf1ecc7",
+      "segmentId" : "100001",
+      "start" : 1.332,
+      "end" : 8.965
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Music",
+      "segmentId" : "100002",
+      "start" : 10.292,
+      "end" : 22.405
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Music",
+      "segmentId" : "100003",
+      "start" : 22.706,
+      "end" : 33.232
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Music",
+      "segmentId" : "100014",
+      "start" : 33.265,
+      "end" : 43.791
+    }, {
+      "transcriptionData" : {
+        "content" : "Thank you for holding the line, your call has been connected to the reservation desk. This is [redacted-name-Agent]. How can I help you?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2225",
+      "segmentId" : "100013",
+      "start" : 44.193,
+      "end" : 50.937
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay, I currently don't need a reservation desk. My name is [redacted-name-Customer]. My husband flew on your airline, [redacted-name-Company], back from #uh [redacted-location] #uh maybe [redacted-location]."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2226",
+      "segmentId" : "100005",
+      "start" : 51.956,
+      "end" : 64.876
+    }, {
+      "transcriptionData" : {
+        "content" : "and in doing so, when we got to the airport in [redacted-location] from there and to [redacted-location], and once we got into [redacted-location] the #uh his luggage had been damaged. We filed a claim. We went and did a claim."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2226",
+      "segmentId" : "100006",
+      "start" : 65.618,
+      "end" : 79.494
+    }, {
+      "transcriptionData" : {
+        "content" : "on it as a damaged flight [noise] and we have not heard anything since. We would like to know"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2226",
+      "segmentId" : "100007",
+      "start" : 79.500,
+      "end" : 86.117
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100015",
+      "start" : 86.118,
+      "end" : 86.894
+    }, {
+      "transcriptionData" : {
+        "content" : "claim."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2226",
+      "segmentId" : "100016",
+      "start" : 86.934,
+      "end" : 87.573
+    }, {
+      "transcriptionData" : {
+        "content" : "Miss you have dialed the wrong number actually. [noise] This is not [redacted-name-Company]."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2225",
+      "segmentId" : "100008",
+      "start" : 87.691,
+      "end" : 93.040
+    }, {
+      "transcriptionData" : {
+        "content" : "Oh okay, (())"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2226",
+      "segmentId" : "100009",
+      "start" : 94.610,
+      "end" : 96.692
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100017",
+      "start" : 96.753,
+      "end" : 97.512
+    }, {
+      "transcriptionData" : {
+        "content" : "[laugh] This is this is the global reservation desk. This is the third party."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2225",
+      "segmentId" : "100010",
+      "start" : 97.973,
+      "end" : 102.676
+    }, {
+      "transcriptionData" : {
+        "content" : "Well, shoot, okay. Thank you."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281076",
+      "segmentId" : "100011",
+      "start" : 104.144,
+      "end" : 106.405
+    }, {
+      "transcriptionData" : {
+        "content" : "No problem thank you"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2225",
+      "segmentId" : "100012",
+      "start" : 107.283,
+      "end" : 108.413
+    } ],
+    "speakers" : [ {
+      "speakerId" : "RC_2225",
+      "gender" : "Male",
+      "speakerNativity" : "Unknown",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "Agent",
+      "country" : "India",
+      "city" : "Mumbai",
+      "age" : "28"
+    }, {
+      "speakerId" : "US281076",
+      "gender" : "Male",
+      "speakerNativity" : "Unknown",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "Agent",
+      "country" : "India",
+      "city" : "Mumbai",
+      "age" : "55"
+    }, {
+      "speakerId" : "RC_2226",
+      "gender" : "Female",
+      "speakerNativity" : "Unknown",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "Customer",
+      "country" : "USA",
+      "city" : "Los Angeles",
+      "age" : "52"
+    }, {
+      "speakerId" : "f8a6f07e-3877-4da2-9503-b787ebf1ecc7",
+      "gender" : "Female",
+      "speakerNativity" : "Native",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "IVR",
+      "country" : "US",
+      "city" : "LA",
+      "age" : "20"
+    } ],
+    "taskStatus" : {
+      "segmentation" : {
+        "workflowStatus" : "COMPLETE",
+        "workflowType" : "LABEL"
+      },
+      "transcription" : {
+        "workflowStatus" : "COMPLETE",
+        "workflowType" : "LABEL"
+      },
+      "speakerId" : {
+        "workflowStatus" : "COMPLETE",
+        "workflowType" : "LABEL"
+      }
+    },
+    "conventionInfo" : {
+      "masterConventionName" : "TranscriptionGuidelines.2.9:en_US",
+      "customAddendum" : "en_US"
+    },
+    "annotatorInfo" : {
+      "loginEncrypted" : "N/A",
+      "annotatorId" : "42326"
+    },
+    "primaryVariety" : "N/A",
+    "otherLanguages" : [ "N/A" ],
+    "primaryLanguage" : "en_IN"
+  },
+  "type" : {
+    "name" : "MULTI_SPEAKER_LONG_FORM_TRANSCRIPTION",
+    "version" : "21.0"
+  }
+}

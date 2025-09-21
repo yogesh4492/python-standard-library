@@ -1,0 +1,552 @@
+{
+  "value" : {
+    "domains" : [ "E-commerce / Finance" ],
+    "topics" : [ "Banking" ],
+    "callingCompany" : "My365credit.com",
+    "segments" : [ {
+      "transcriptionData" : {
+        "content" : "It said hit, [noise] it said next."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "DECC419",
+      "segmentId" : "100001",
+      "start" : 0.390,
+      "end" : 4.077
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100034",
+      "start" : 4.960,
+      "end" : 5.802
+    }, {
+      "transcriptionData" : {
+        "content" : "Is that a new page?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "DECA419",
+      "segmentId" : "100002",
+      "start" : 7.974,
+      "end" : 8.947
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100035",
+      "start" : 10.840,
+      "end" : 11.797
+    }, {
+      "transcriptionData" : {
+        "content" : "it should take to the new page, sir."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "DECA419",
+      "segmentId" : "100036",
+      "start" : 12.180,
+      "end" : 13.790
+    }, {
+      "transcriptionData" : {
+        "content" : "All right. It's now saying a trial was already been used for [noise] #uh this customer because the details and schedule advance, so I'm already in there."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "DECC419",
+      "segmentId" : "100003",
+      "start" : 15.327,
+      "end" : 26.082
+    }, {
+      "transcriptionData" : {
+        "content" : "And it,"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "DECC419",
+      "segmentId" : "100038",
+      "start" : 27.167,
+      "end" : 27.510
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100046",
+      "start" : 27.510,
+      "end" : 27.867
+    }, {
+      "transcriptionData" : {
+        "content" : "it only goes right here, card holds (())"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "DECC419",
+      "segmentId" : "100047",
+      "start" : 27.874,
+      "end" : 31.281
+    }, {
+      "transcriptionData" : {
+        "content" : "All right."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "DECA419",
+      "segmentId" : "100048",
+      "start" : 33.157,
+      "end" : 33.807
+    }, {
+      "transcriptionData" : {
+        "content" : "So it's got nothing to do with me. It's just [noise] something. It won't let it go any further."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "DECC419",
+      "segmentId" : "100049",
+      "start" : 33.987,
+      "end" : 38.571
+    }, {
+      "transcriptionData" : {
+        "content" : "No problem. Just #uh [bg-speech] close this page and go back to my three-sixty-five credit [noise] and hit on loans,"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "DECA419",
+      "segmentId" : "100005",
+      "start" : 39.150,
+      "end" : 47.784
+    }, {
+      "transcriptionData" : {
+        "content" : "okay? You need to select, [no-speech] once you hit on the three lines, you need to select loan. All right?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "DECA419",
+      "segmentId" : "100006",
+      "start" : 47.980,
+      "end" : 55.010
+    }, {
+      "transcriptionData" : {
+        "content" : "All right."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "DECC419",
+      "segmentId" : "100027",
+      "start" : 55.010,
+      "end" : 55.766
+    }, {
+      "transcriptionData" : {
+        "content" : "Yes, sir."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "DECA419",
+      "segmentId" : "100028",
+      "start" : 56.417,
+      "end" : 57.014
+    }, {
+      "transcriptionData" : {
+        "content" : "#uh [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "DECC419",
+      "segmentId" : "100007",
+      "start" : 69.444,
+      "end" : 70.970
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Babble",
+      "segmentId" : "100008",
+      "start" : 71.269,
+      "end" : 85.218
+    }, {
+      "transcriptionData" : {
+        "content" : "#uh [noise] [bg-speech] All right, I'm all the way back here to begin. #uh See your credit score report monitoring. [noise] Oh, god damn!"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "DECC419",
+      "segmentId" : "100009",
+      "start" : 85.278,
+      "end" : 95.202
+    }, {
+      "transcriptionData" : {
+        "content" : "Its good"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "DECC419",
+      "segmentId" : "100010",
+      "start" : 95.560,
+      "end" : 96.040
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100039",
+      "start" : 96.040,
+      "end" : 96.920
+    }, {
+      "transcriptionData" : {
+        "content" : "close. [bg-speech] You need to close this page. Don't do"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "DECA419",
+      "segmentId" : "100040",
+      "start" : 96.940,
+      "end" : 99.710
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100050",
+      "start" : 99.737,
+      "end" : 100.404
+    }, {
+      "transcriptionData" : {
+        "content" : "Just [noise] close it."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "DECA419",
+      "segmentId" : "100051",
+      "start" : 100.404,
+      "end" : 101.187
+    }, {
+      "transcriptionData" : {
+        "content" : "All right. [noise] I'm back to where is three sixty my credit."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "DECC419",
+      "segmentId" : "100011",
+      "start" : 105.004,
+      "end" : 109.107
+    }, {
+      "transcriptionData" : {
+        "content" : "[redacted-ip-url]. It's my"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "DECA419",
+      "segmentId" : "100012",
+      "start" : 111.374,
+      "end" : 114.100
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100032",
+      "start" : 114.120,
+      "end" : 116.648
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay. I'm back to where I need to be, the My Credit Score"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "DECC419",
+      "segmentId" : "100013",
+      "start" : 118.200,
+      "end" : 123.350
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100052",
+      "start" : 124.194,
+      "end" : 125.047
+    }, {
+      "transcriptionData" : {
+        "content" : "Lemme go to the loans."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "DECC419",
+      "segmentId" : "100053",
+      "start" : 125.047,
+      "end" : 125.860
+    }, {
+      "transcriptionData" : {
+        "content" : "Loans, yes, sir. That's correct."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "DECA419",
+      "segmentId" : "100014",
+      "start" : 126.534,
+      "end" : 128.014
+    }, {
+      "transcriptionData" : {
+        "content" : "#uh [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "DECC419",
+      "segmentId" : "100054",
+      "start" : 131.200,
+      "end" : 131.998
+    }, {
+      "transcriptionData" : {
+        "content" : "and #uh hit on [no-speech] zippy loan."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "DECA419",
+      "segmentId" : "100055",
+      "start" : 135.990,
+      "end" : 139.074
+    }, {
+      "transcriptionData" : {
+        "content" : "Do you see that zippy loan?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "DECA419",
+      "segmentId" : "100015",
+      "start" : 141.670,
+      "end" : 143.247
+    }, {
+      "transcriptionData" : {
+        "content" : "No, I'm looking for it."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "DECC419",
+      "segmentId" : "100016",
+      "start" : 143.874,
+      "end" : 145.464
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "DECA419",
+      "segmentId" : "100029",
+      "start" : 146.150,
+      "end" : 146.584
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Babble",
+      "segmentId" : "100030",
+      "start" : 149.722,
+      "end" : 160.690
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Babble",
+      "segmentId" : "100017",
+      "start" : 160.692,
+      "end" : 174.816
+    }, {
+      "transcriptionData" : {
+        "content" : "Hello? You clicked [noise] on it?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "DECA419",
+      "segmentId" : "100018",
+      "start" : 180.860,
+      "end" : 182.784
+    }, {
+      "transcriptionData" : {
+        "content" : "No, it's, it's, #uh [no-speech] it says kickoff."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "DECC419",
+      "segmentId" : "100019",
+      "start" : 182.881,
+      "end" : 188.277
+    }, {
+      "transcriptionData" : {
+        "content" : "No, not that one. Just one step back."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "DECA419",
+      "segmentId" : "100020",
+      "start" : 189.757,
+      "end" : 191.634
+    }, {
+      "transcriptionData" : {
+        "content" : "#um #uh"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "DECC419",
+      "segmentId" : "100043",
+      "start" : 192.579,
+      "end" : 193.301
+    }, {
+      "transcriptionData" : {
+        "content" : "All right, Zippy Loans."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "DECC419",
+      "segmentId" : "100021",
+      "start" : 196.420,
+      "end" : 197.944
+    }, {
+      "transcriptionData" : {
+        "content" : "Yeah, hit on that."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "DECA419",
+      "segmentId" : "100022",
+      "start" : 198.254,
+      "end" : 199.184
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Noise",
+      "segmentId" : "100033",
+      "start" : 202.874,
+      "end" : 205.241
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100023",
+      "start" : 210.930,
+      "end" : 211.640
+    }, {
+      "transcriptionData" : {
+        "content" : "Yeah, I'm gonna leave you alone. Take your time to complete this application form."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "DECA419",
+      "segmentId" : "100024",
+      "start" : 212.301,
+      "end" : 216.454
+    }, {
+      "transcriptionData" : {
+        "content" : "So"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "DECA419",
+      "segmentId" : "100025",
+      "start" : 216.954,
+      "end" : 217.187
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100044",
+      "start" : 217.194,
+      "end" : 217.959
+    }, {
+      "transcriptionData" : {
+        "content" : "our lenders will call you back, and they will let you know the interest rate and pay back policies. [noise] And if all goes well, the loan amount will be wired into your account within next twenty-four hours. All right, sir?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "DECA419",
+      "segmentId" : "100045",
+      "start" : 217.959,
+      "end" : 227.981
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] All right."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "DECC419",
+      "segmentId" : "100031",
+      "start" : 228.794,
+      "end" : 229.467
+    }, {
+      "transcriptionData" : {
+        "content" : "Thank you so much. Have a wonderful day. [bg-speech] Bye bye. [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "DECA419",
+      "segmentId" : "100026",
+      "start" : 230.510,
+      "end" : 233.396
+    } ],
+    "speakers" : [ {
+      "speakerId" : "DECA419",
+      "gender" : "Male",
+      "speakerNativity" : "NonNative",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "Agent",
+      "country" : "India",
+      "city" : "Mumbai",
+      "age" : "28"
+    }, {
+      "speakerId" : "DECC419",
+      "gender" : "Male",
+      "speakerNativity" : "Native",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "Customer",
+      "country" : "USA",
+      "city" : "Los Angeles",
+      "age" : "33"
+    } ],
+    "taskStatus" : {
+      "segmentation" : {
+        "workflowStatus" : "COMPLETE",
+        "workflowType" : "LABEL"
+      },
+      "transcription" : {
+        "workflowStatus" : "COMPLETE",
+        "workflowType" : "LABEL"
+      },
+      "speakerId" : {
+        "workflowStatus" : "COMPLETE",
+        "workflowType" : "LABEL"
+      }
+    },
+    "conventionInfo" : {
+      "masterConventionName" : "TranscriptionGuidelines.2.9:en_US",
+      "customAddendum" : "en_US"
+    },
+    "annotatorInfo" : {
+      "loginEncrypted" : "N/A",
+      "annotatorId" : "42257"
+    },
+    "primaryVariety" : "N/A",
+    "otherLanguages" : [ "N/A" ],
+    "primaryLanguage" : "en_IN"
+  },
+  "type" : {
+    "name" : "MULTI_SPEAKER_LONG_FORM_TRANSCRIPTION",
+    "version" : "21.0"
+  }
+}

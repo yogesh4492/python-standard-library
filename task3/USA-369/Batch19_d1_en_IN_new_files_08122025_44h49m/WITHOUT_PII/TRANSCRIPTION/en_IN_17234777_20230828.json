@@ -1,0 +1,2091 @@
+{
+  "value" : {
+    "domains" : [ "Insurance" ],
+    "topics" : [ "Insurance Upgrade" ],
+    "callingCompany" : "Medicare",
+    "segments" : [ {
+      "transcriptionData" : {
+        "content" : "Hello, there. Good afternoon. My name is [redacted-name-Agent], a verification officer. How are you doing today?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100001",
+      "start" : 0.554,
+      "end" : 6.103
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] Pretty good."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100002",
+      "start" : 6.674,
+      "end" : 7.858
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100091",
+      "start" : 7.994,
+      "end" : 9.380
+    }, {
+      "transcriptionData" : {
+        "content" : "Better. I've felt kind of bad for a couple of days, but, I'm getting better."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100092",
+      "start" : 9.380,
+      "end" : 15.035
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100003",
+      "start" : 15.147,
+      "end" : 15.856
+    }, {
+      "transcriptionData" : {
+        "content" : "Good to hear. [laugh]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100093",
+      "start" : 15.856,
+      "end" : 17.723
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100094",
+      "start" : 17.856,
+      "end" : 18.676
+    }, {
+      "transcriptionData" : {
+        "content" : "Are you taking your medicine?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100095",
+      "start" : 18.966,
+      "end" : 20.950
+    }, {
+      "transcriptionData" : {
+        "content" : "Am I what?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100004",
+      "start" : 22.492,
+      "end" : 23.414
+    }, {
+      "transcriptionData" : {
+        "content" : "Are you taking your medicine, Ms. [redacted-name-Customer]?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100005",
+      "start" : 23.771,
+      "end" : 26.194
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100006",
+      "start" : 26.247,
+      "end" : 27.131
+    }, {
+      "transcriptionData" : {
+        "content" : "I'm not having to take any medicine."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100096",
+      "start" : 27.131,
+      "end" : 30.113
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100007",
+      "start" : 30.502,
+      "end" : 31.529
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100008",
+      "start" : 31.535,
+      "end" : 32.589
+    }, {
+      "transcriptionData" : {
+        "content" : "God for that. [laugh]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100097",
+      "start" : 32.589,
+      "end" : 34.114
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] Okay. [laugh] So because, Mrs. [redacted-name-Customer], this is a good news for you. Because ma'am, this is about your health here because, I will be providing your additional Medicare benefits that you may qualify for today at no cost."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100009",
+      "start" : 35.512,
+      "end" : 48.749
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] So, I believe that Mrs. [redacted-name-Customer], that you are Medicare card holder with a part A and B. Correct?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100010",
+      "start" : 49.200,
+      "end" : 55.783
+    }, {
+      "transcriptionData" : {
+        "content" : "Well, yes. I got Medicare and medical and #uh"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100011",
+      "start" : 56.038,
+      "end" : 59.530
+    }, {
+      "transcriptionData" : {
+        "content" : "Yes."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100098",
+      "start" : 59.530,
+      "end" : 60.034
+    }, {
+      "transcriptionData" : {
+        "content" : "Yeah, and I, I'm thanking God, just like I said that I haven't"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100099",
+      "start" : 60.074,
+      "end" : 65.017
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100100",
+      "start" : 65.017,
+      "end" : 66.458
+    }, {
+      "transcriptionData" : {
+        "content" : "You know, I go, I get up in the morning about seven thirty, and I go"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100012",
+      "start" : 66.469,
+      "end" : 70.468
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100101",
+      "start" : 70.468,
+      "end" : 71.228
+    }, {
+      "transcriptionData" : {
+        "content" : "nice walk."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100102",
+      "start" : 71.228,
+      "end" : 72.263
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100013",
+      "start" : 72.303,
+      "end" : 73.912
+    }, {
+      "transcriptionData" : {
+        "content" : "walk and come then, back home, and fix a little bit of breakfast, and take care of my house."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100103",
+      "start" : 73.912,
+      "end" : 82.112
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100104",
+      "start" : 82.112,
+      "end" : 84.877
+    }, {
+      "transcriptionData" : {
+        "content" : "I'm, I'm very happy. I'm taking care of myself, and I always have."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100014",
+      "start" : 84.968,
+      "end" : 89.343
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100015",
+      "start" : 89.556,
+      "end" : 90.598
+    }, {
+      "transcriptionData" : {
+        "content" : "#uh They, [noise] they don't realize they know I, I don't know if you know I'm #uh [bg-speech] [laugh] and"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100105",
+      "start" : 90.598,
+      "end" : 99.306
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100106",
+      "start" : 99.306,
+      "end" : 100.345
+    }, {
+      "transcriptionData" : {
+        "content" : "very young, but at least I'm taking care of myself."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100107",
+      "start" : 100.345,
+      "end" : 103.992
+    }, {
+      "transcriptionData" : {
+        "content" : "Yes, perfect. But ma'am, on your Medicare, do you have your Medicare Part A and B? [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100016",
+      "start" : 103.993,
+      "end" : 109.723
+    }, {
+      "transcriptionData" : {
+        "content" : "I guess that would be that."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100017",
+      "start" : 110.219,
+      "end" : 112.580
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100108",
+      "start" : 112.754,
+      "end" : 113.832
+    }, {
+      "transcriptionData" : {
+        "content" : "Medicare and MediCal."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100109",
+      "start" : 113.832,
+      "end" : 115.523
+    }, {
+      "transcriptionData" : {
+        "content" : "Yes."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100018",
+      "start" : 115.838,
+      "end" : 116.432
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100110",
+      "start" : 116.432,
+      "end" : 118.351
+    }, {
+      "transcriptionData" : {
+        "content" : "in my purse forever."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100019",
+      "start" : 118.431,
+      "end" : 120.127
+    }, {
+      "transcriptionData" : {
+        "content" : "Perfect. [laugh] And ma'am, do you have your Medicare Part A and B. Correct?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100020",
+      "start" : 120.682,
+      "end" : 125.609
+    }, {
+      "transcriptionData" : {
+        "content" : "Yes."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100021",
+      "start" : 126.357,
+      "end" : 127.010
+    }, {
+      "transcriptionData" : {
+        "content" : "Perfect because,"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100022",
+      "start" : 127.370,
+      "end" : 128.196
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100076",
+      "start" : 128.240,
+      "end" : 130.080
+    }, {
+      "transcriptionData" : {
+        "content" : "with red, white and blue and [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100023",
+      "start" : 130.131,
+      "end" : 132.495
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100077",
+      "start" : 132.636,
+      "end" : 134.168
+    }, {
+      "transcriptionData" : {
+        "content" : "[laugh] That's it"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100078",
+      "start" : 134.183,
+      "end" : 135.152
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100111",
+      "start" : 135.152,
+      "end" : 136.998
+    }, {
+      "transcriptionData" : {
+        "content" : "got the dark #uh"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100112",
+      "start" : 136.998,
+      "end" : 138.748
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100113",
+      "start" : 138.848,
+      "end" : 139.345
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] The dark top. Yeah, perfect. The Medicaid. Because Mrs. [redacted-name-Customer] today you can forward down your copays, premiums and prescription costs up to zero dollar."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100024",
+      "start" : 139.346,
+      "end" : 148.617
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] Getting your dental vision, any coverage, and also Mrs. [redacted-name-Customer], you may get up to a one hundred forty-eight dollars money back. On your social security."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100025",
+      "start" : 148.777,
+      "end" : 159.978
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] And a lot more, which definitely save your money every month. Okay?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100026",
+      "start" : 160.098,
+      "end" : 164.676
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100027",
+      "start" : 164.809,
+      "end" : 165.893
+    }, {
+      "transcriptionData" : {
+        "content" : "[redacted-name-Customer] I will help you to get all the additional benefits."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100028",
+      "start" : 165.905,
+      "end" : 169.814
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100114",
+      "start" : 170.215,
+      "end" : 171.908
+    }, {
+      "transcriptionData" : {
+        "content" : "Do you have the employer's coverage retirement plan, or Tricare for life insurance? [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100115",
+      "start" : 171.973,
+      "end" : 177.618
+    }, {
+      "transcriptionData" : {
+        "content" : "That would be nice, yes."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100029",
+      "start" : 178.531,
+      "end" : 180.313
+    }, {
+      "transcriptionData" : {
+        "content" : "#uh So do you have the employer's coverage retirement plan or"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100030",
+      "start" : 181.121,
+      "end" : 184.847
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100116",
+      "start" : 184.847,
+      "end" : 186.375
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100031",
+      "start" : 186.881,
+      "end" : 187.921
+    }, {
+      "transcriptionData" : {
+        "content" : "#uh have any of that"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100117",
+      "start" : 187.921,
+      "end" : 189.414
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100118",
+      "start" : 189.414,
+      "end" : 192.111
+    }, {
+      "transcriptionData" : {
+        "content" : "I, #uh you know, I just like I said, I, I just [noise] take care of myself,"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100119",
+      "start" : 192.629,
+      "end" : 197.960
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100120",
+      "start" : 197.960,
+      "end" : 200.358
+    }, {
+      "transcriptionData" : {
+        "content" : "I #uh I'm doing a good thin~ good things."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100032",
+      "start" : 201.051,
+      "end" : 205.158
+    }, {
+      "transcriptionData" : {
+        "content" : "Yes. You're a strong, independent woman. Mrs. [redacted-name-Customer]."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100033",
+      "start" : 205.571,
+      "end" : 209.640
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100079",
+      "start" : 209.724,
+      "end" : 212.680
+    }, {
+      "transcriptionData" : {
+        "content" : "[redacted-name-Agent]."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100080",
+      "start" : 212.680,
+      "end" : 214.736
+    }, {
+      "transcriptionData" : {
+        "content" : "Oh, yeah, that's nice. Yeah. #uh You know, [redacted-name-Agent], I, I just, #uh you know when I started taking care of myself, you know, and then, when I got a car I, I take care of it. I,"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100034",
+      "start" : 214.772,
+      "end" : 227.421
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100035",
+      "start" : 227.515,
+      "end" : 233.961
+    }, {
+      "transcriptionData" : {
+        "content" : "Since I was [redacted-age]."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100121",
+      "start" : 233.961,
+      "end" : 235.283
+    }, {
+      "transcriptionData" : {
+        "content" : "Wow!"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100036",
+      "start" : 236.041,
+      "end" : 236.933
+    }, {
+      "transcriptionData" : {
+        "content" : "And #uh"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100037",
+      "start" : 237.037,
+      "end" : 238.119
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100122",
+      "start" : 238.119,
+      "end" : 239.863
+    }, {
+      "transcriptionData" : {
+        "content" : "Do you know that place [redacted-location]. Yeah, I was, #uh you know, lived over there for many years. And then I got married."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100123",
+      "start" : 239.863,
+      "end" : 249.711
+    }, {
+      "transcriptionData" : {
+        "content" : "#uh And we got a divorce. I mean, he was, well, he is,"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100038",
+      "start" : 250.233,
+      "end" : 255.116
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100124",
+      "start" : 255.116,
+      "end" : 256.907
+    }, {
+      "transcriptionData" : {
+        "content" : "He's, he's there somewhere. But,"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100125",
+      "start" : 256.907,
+      "end" : 259.028
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100126",
+      "start" : 259.162,
+      "end" : 262.412
+    }, {
+      "transcriptionData" : {
+        "content" : "son and he works in the hospital."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100039",
+      "start" : 262.453,
+      "end" : 264.989
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100127",
+      "start" : 265.371,
+      "end" : 266.731
+    }, {
+      "transcriptionData" : {
+        "content" : "And she's, she's wonderful too. And she treats me good."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100128",
+      "start" : 266.731,
+      "end" : 270.575
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100129",
+      "start" : 270.833,
+      "end" : 272.474
+    }, {
+      "transcriptionData" : {
+        "content" : "#uh You know they, they live in [redacted-location]."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100130",
+      "start" : 272.810,
+      "end" : 275.361
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100040",
+      "start" : 275.912,
+      "end" : 280.456
+    }, {
+      "transcriptionData" : {
+        "content" : "So, because as you are entitled for the benefits, your first and last name here is [redacted-name-Customer]. Right?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100042",
+      "start" : 280.596,
+      "end" : 287.402
+    }, {
+      "transcriptionData" : {
+        "content" : "Yes, #uh #hm"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100081",
+      "start" : 287.402,
+      "end" : 288.856
+    }, {
+      "transcriptionData" : {
+        "content" : "Perfect. And your date of birth here is on [redacted-dob]."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100082",
+      "start" : 289.027,
+      "end" : 294.754
+    }, {
+      "transcriptionData" : {
+        "content" : "Thank you, #uh th~ thank you. [laugh]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100045",
+      "start" : 295.037,
+      "end" : 297.223
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100131",
+      "start" : 297.223,
+      "end" : 298.524
+    }, {
+      "transcriptionData" : {
+        "content" : "#uh Belated happy birthday to you, Mrs. [redacted-name-Customer]."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100132",
+      "start" : 298.524,
+      "end" : 301.811
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100046",
+      "start" : 301.836,
+      "end" : 304.228
+    }, {
+      "transcriptionData" : {
+        "content" : "You, you sound like a very nice lady."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100133",
+      "start" : 304.228,
+      "end" : 306.806
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100134",
+      "start" : 308.361,
+      "end" : 311.293
+    }, {
+      "transcriptionData" : {
+        "content" : "[laugh] You don't sound like it. You are."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100135",
+      "start" : 311.293,
+      "end" : 313.366
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100136",
+      "start" : 313.366,
+      "end" : 316.512
+    }, {
+      "transcriptionData" : {
+        "content" : "I really, and #uh I like people like yourself."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100047",
+      "start" : 316.557,
+      "end" : 320.309
+    }, {
+      "transcriptionData" : {
+        "content" : "Yeah, thank you. [laugh]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100048",
+      "start" : 320.838,
+      "end" : 322.745
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100137",
+      "start" : 323.048,
+      "end" : 326.475
+    }, {
+      "transcriptionData" : {
+        "content" : "Just chat with me."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100049",
+      "start" : 326.529,
+      "end" : 327.749
+    }, {
+      "transcriptionData" : {
+        "content" : "#uh [laugh] But right now I will provide your additional Medicare benefits. Okay? [laugh]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100050",
+      "start" : 328.796,
+      "end" : 334.504
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100139",
+      "start" : 334.504,
+      "end" : 335.841
+    }, {
+      "transcriptionData" : {
+        "content" : "Currently residing at [redacted-location],"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100140",
+      "start" : 335.841,
+      "end" : 341.375
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100051",
+      "start" : 341.387,
+      "end" : 342.683
+    }, {
+      "transcriptionData" : {
+        "content" : "[redacted-location] with the Z I P code of [redacted-location]. Correct?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100141",
+      "start" : 342.683,
+      "end" : 346.989
+    }, {
+      "transcriptionData" : {
+        "content" : "Right. [noise] Exactly it."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100052",
+      "start" : 347.013,
+      "end" : 348.916
+    }, {
+      "transcriptionData" : {
+        "content" : "And #uh [laugh]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100053",
+      "start" : 348.917,
+      "end" : 350.673
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100142",
+      "start" : 350.673,
+      "end" : 351.980
+    }, {
+      "transcriptionData" : {
+        "content" : "that I am calling is [redacted-number-phone-fax]. Correct?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100143",
+      "start" : 351.982,
+      "end" : 357.483
+    }, {
+      "transcriptionData" : {
+        "content" : "Yes, [redacted-number-phone-fax]."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100054",
+      "start" : 357.801,
+      "end" : 360.861
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100083",
+      "start" : 361.063,
+      "end" : 362.766
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay. [laugh] So just in case the call gets disconnected, you give us the permission to call you back. Right?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100055",
+      "start" : 363.349,
+      "end" : 369.558
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100056",
+      "start" : 369.653,
+      "end" : 373.192
+    }, {
+      "transcriptionData" : {
+        "content" : "Give me back chat."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100144",
+      "start" : 373.192,
+      "end" : 374.857
+    }, {
+      "transcriptionData" : {
+        "content" : "#uh [laugh] Yes ma'am. [laugh] So, again, so just to give you a quick information. Also, please make sure you have your Medicare card handy."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100057",
+      "start" : 375.676,
+      "end" : 387.178
+    }, {
+      "transcriptionData" : {
+        "content" : "To get the upgraded [redacted-other-date] Medicare benefits, because our licensed agent in your state may need to check all the benefits, you qualified to receive, and this would also help to expedite the process. Okay? Mrs. [redacted-name-Customer]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100058",
+      "start" : 387.278,
+      "end" : 401.251
+    }, {
+      "transcriptionData" : {
+        "content" : "Yes."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100084",
+      "start" : 401.386,
+      "end" : 402.146
+    }, {
+      "transcriptionData" : {
+        "content" : "Thank you so much."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100085",
+      "start" : 402.146,
+      "end" : 403.012
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100145",
+      "start" : 403.759,
+      "end" : 404.989
+    }, {
+      "transcriptionData" : {
+        "content" : "Yes. So, that's all I need. I will really appreciate it to stay back on the call, for the next fifteen to twenty minutes of your precious time and talk to my licensed agent to get all the additional benefits. Okay?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100060",
+      "start" : 405.255,
+      "end" : 416.664
+    }, {
+      "transcriptionData" : {
+        "content" : "What #uh what do I have to do?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100061",
+      "start" : 417.552,
+      "end" : 419.711
+    }, {
+      "transcriptionData" : {
+        "content" : "So, I just need you to stay back on the call for the next fifteen to twenty minutes of your precious time to talk to my licensed agent. Okay?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100063",
+      "start" : 420.432,
+      "end" : 428.211
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay, go on."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100086",
+      "start" : 428.428,
+      "end" : 429.679
+    }, {
+      "transcriptionData" : {
+        "content" : "Thank you. [laugh] So, I am now going to make an inbound call on your behalf. Do I have your approval to do so?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100087",
+      "start" : 429.679,
+      "end" : 436.615
+    }, {
+      "transcriptionData" : {
+        "content" : "Oh, fine."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100065",
+      "start" : 436.784,
+      "end" : 437.860
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100146",
+      "start" : 437.916,
+      "end" : 439.701
+    }, {
+      "transcriptionData" : {
+        "content" : "You're doing what you have to do."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100147",
+      "start" : 439.701,
+      "end" : 441.796
+    }, {
+      "transcriptionData" : {
+        "content" : "Thank you, Mrs. [redacted-name-Customer]. So, I am now placing that call for you. You may hear some brief music. However, our representative will be on the line shortly to assist you."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100066",
+      "start" : 443.073,
+      "end" : 454.589
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100067",
+      "start" : 454.840,
+      "end" : 457.347
+    }, {
+      "transcriptionData" : {
+        "content" : "How can I help you? [laugh] Please tell them you need additional Medicare benefits. So ma'am, they will ask your basic details like your name, date of birth, address. So, please provide them to get the upgraded benefits. Okay?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100068",
+      "start" : 457.354,
+      "end" : 469.600
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100070",
+      "start" : 470.001,
+      "end" : 476.563
+    }, {
+      "transcriptionData" : {
+        "content" : "I am in work right now. I want to chat with you, but you know. [laugh]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100089",
+      "start" : 476.641,
+      "end" : 480.899
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100071",
+      "start" : 480.957,
+      "end" : 482.980
+    }, {
+      "transcriptionData" : {
+        "content" : "Yeah. [laugh] Yes. Mrs. [redacted-name-Customer]. Thank you so much for your kindness. And you're so good at being a strong, independent woman right"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "100072",
+      "start" : 483.847,
+      "end" : 492.536
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100090",
+      "start" : 492.589,
+      "end" : 496.336
+    }, {
+      "transcriptionData" : {
+        "content" : "It's #uh people they #uh they don't believe me that I'm #uh (()) #uh old, as old as I am, and I said, you know I'm I'm here this way because I, I took, took care of myself."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100073",
+      "start" : 496.337,
+      "end" : 509.784
+    }, {
+      "transcriptionData" : {
+        "content" : "When I was younger, my mother passed away very early, and then my auntie"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100074",
+      "start" : 509.922,
+      "end" : 516.169
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100148",
+      "start" : 516.289,
+      "end" : 517.552
+    }, {
+      "transcriptionData" : {
+        "content" : "in and, took care of me, and my younger sister"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100149",
+      "start" : 517.552,
+      "end" : 521.350
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100150",
+      "start" : 521.612,
+      "end" : 523.657
+    }, {
+      "transcriptionData" : {
+        "content" : "Never get to"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100075",
+      "start" : 523.658,
+      "end" : 524.772
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100151",
+      "start" : 524.772,
+      "end" : 526.049
+    }, {
+      "transcriptionData" : {
+        "content" : "seen her in years and years and years."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100152",
+      "start" : 526.049,
+      "end" : 528.144
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100153",
+      "start" : 528.144,
+      "end" : 530.032
+    }, {
+      "transcriptionData" : {
+        "content" : "You know I'm"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "100154",
+      "start" : 530.032,
+      "end" : 530.794
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "200001",
+      "start" : 530.817,
+      "end" : 531.853
+    }, {
+      "transcriptionData" : {
+        "content" : "communication?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "200037",
+      "start" : 531.853,
+      "end" : 532.934
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "200038",
+      "start" : 533.548,
+      "end" : 534.763
+    }, {
+      "transcriptionData" : {
+        "content" : "Do you have?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "200036",
+      "start" : 534.763,
+      "end" : 535.705
+    }, {
+      "transcriptionData" : {
+        "content" : "No. She's so very, #uh she's kind of well, stuffy."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "200003",
+      "start" : 535.715,
+      "end" : 540.580
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "200039",
+      "start" : 540.580,
+      "end" : 543.888
+    }, {
+      "transcriptionData" : {
+        "content" : "there and #uh I, I don't even know what part is whatever."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "200040",
+      "start" : 543.888,
+      "end" : 548.328
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "200004",
+      "start" : 548.368,
+      "end" : 552.064
+    }, {
+      "transcriptionData" : {
+        "content" : "Yeah, I take, [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "200041",
+      "start" : 552.064,
+      "end" : 553.512
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "200042",
+      "start" : 553.512,
+      "end" : 555.731
+    }, {
+      "transcriptionData" : {
+        "content" : "Yeah."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "200007",
+      "start" : 556.775,
+      "end" : 557.316
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "200043",
+      "start" : 557.356,
+      "end" : 559.107
+    }, {
+      "transcriptionData" : {
+        "content" : "You're so young over the phone."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "200044",
+      "start" : 559.429,
+      "end" : 561.303
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "200045",
+      "start" : 561.303,
+      "end" : 563.363
+    }, {
+      "transcriptionData" : {
+        "content" : "saying, and it's"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "200008",
+      "start" : 563.442,
+      "end" : 564.522
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "200046",
+      "start" : 564.522,
+      "end" : 566.917
+    }, {
+      "transcriptionData" : {
+        "content" : "it has been because, I take care of myself. I have been since I was [redacted-age] I started #uh driving."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "200047",
+      "start" : 566.917,
+      "end" : 575.129
+    }, {
+      "transcriptionData" : {
+        "content" : "And #uh not, I wasn't supposed to at that time, but I did [laugh] and that was a long time. I've dri~ I've been driving, and #uh I take care of myself, and #uh"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "200009",
+      "start" : 575.469,
+      "end" : 587.189
+    }, {
+      "transcriptionData" : {
+        "content" : "#uh And I, I just, #uh I en~ I enjoy life. I just make sure"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "200010",
+      "start" : 587.449,
+      "end" : 592.844
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "200048",
+      "start" : 592.844,
+      "end" : 593.504
+    }, {
+      "transcriptionData" : {
+        "content" : "care of myself. I get up in the morning, and go out and take a #uh walk,"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "200049",
+      "start" : 593.504,
+      "end" : 598.728
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "200011",
+      "start" : 599.149,
+      "end" : 601.097
+    }, {
+      "transcriptionData" : {
+        "content" : "You know just life is right, if you take care of it."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "200050",
+      "start" : 601.097,
+      "end" : 605.106
+    }, {
+      "transcriptionData" : {
+        "content" : "Yes, perfect. That's (())"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "200012",
+      "start" : 605.735,
+      "end" : 608.104
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "200013",
+      "start" : 608.492,
+      "end" : 610.377
+    }, {
+      "transcriptionData" : {
+        "content" : "Nice lady."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "200051",
+      "start" : 610.420,
+      "end" : 611.437
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "200052",
+      "start" : 612.732,
+      "end" : 616.980
+    }, {
+      "transcriptionData" : {
+        "content" : "Sometime, and we can chat."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "200015",
+      "start" : 617.010,
+      "end" : 618.760
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "200053",
+      "start" : 619.042,
+      "end" : 620.773
+    }, {
+      "transcriptionData" : {
+        "content" : "called me this morning, and I love tacos."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "200054",
+      "start" : 620.773,
+      "end" : 623.676
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "200055",
+      "start" : 624.126,
+      "end" : 627.284
+    }, {
+      "transcriptionData" : {
+        "content" : "[laugh] We'll, #uh we'll make some tacos. And I said make"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "200016",
+      "start" : 627.298,
+      "end" : 630.913
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "200056",
+      "start" : 630.913,
+      "end" : 631.570
+    }, {
+      "transcriptionData" : {
+        "content" : "#uh We can"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "200057",
+      "start" : 631.570,
+      "end" : 632.445
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "200058",
+      "start" : 632.445,
+      "end" : 633.512
+    }, {
+      "transcriptionData" : {
+        "content" : "buy some. And she says no, no, I want to make them. She's a [laugh] #uh really a good cook. So, I said, well, you're"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "200059",
+      "start" : 633.512,
+      "end" : 640.381
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "200017",
+      "start" : 640.382,
+      "end" : 643.810
+    }, {
+      "transcriptionData" : {
+        "content" : "going to have some tacos."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "200061",
+      "start" : 643.817,
+      "end" : 645.445
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "200062",
+      "start" : 645.825,
+      "end" : 648.500
+    }, {
+      "transcriptionData" : {
+        "content" : "sometime,"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "200018",
+      "start" : 648.537,
+      "end" : 649.330
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "200063",
+      "start" : 649.330,
+      "end" : 650.135
+    }, {
+      "transcriptionData" : {
+        "content" : "Oh, honey, you, you're more than welcome to come to see me."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "200019",
+      "start" : 650.136,
+      "end" : 653.787
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "200064",
+      "start" : 653.787,
+      "end" : 655.836
+    }, {
+      "transcriptionData" : {
+        "content" : "#uh We can chat. Where are you at?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "200065",
+      "start" : 656.010,
+      "end" : 658.382
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay then. I am working in a verification department, so ma'am. I want you to be happy always, okay?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "200020",
+      "start" : 659.244,
+      "end" : 665.693
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "200021",
+      "start" : 665.756,
+      "end" : 666.883
+    }, {
+      "transcriptionData" : {
+        "content" : "bless you"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "200066",
+      "start" : 666.899,
+      "end" : 667.550
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "200067",
+      "start" : 667.550,
+      "end" : 671.336
+    }, {
+      "transcriptionData" : {
+        "content" : "If I get there."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "200068",
+      "start" : 671.336,
+      "end" : 672.161
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "200069",
+      "start" : 672.161,
+      "end" : 674.133
+    }, {
+      "transcriptionData" : {
+        "content" : "me or hurts,"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "200070",
+      "start" : 674.197,
+      "end" : 675.256
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "200022",
+      "start" : 675.275,
+      "end" : 675.729
+    }, {
+      "transcriptionData" : {
+        "content" : "Pray for you. Yes,"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "200071",
+      "start" : 675.729,
+      "end" : 676.922
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "200023",
+      "start" : 676.948,
+      "end" : 679.148
+    }, {
+      "transcriptionData" : {
+        "content" : "saying, I love"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "200072",
+      "start" : 679.148,
+      "end" : 680.074
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "200073",
+      "start" : 680.074,
+      "end" : 683.579
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "200024",
+      "start" : 684.519,
+      "end" : 686.418
+    }, {
+      "transcriptionData" : {
+        "content" : "picture of the Lord right in front of me, up on the wall. And I look at that, and I pray a lot. And I li~ I like it. The only scene I had a beautiful cat. I love my,"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "200074",
+      "start" : 686.418,
+      "end" : 698.740
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "200075",
+      "start" : 698.763,
+      "end" : 708.429
+    }, {
+      "transcriptionData" : {
+        "content" : "Because it #uh it literally broke my heart, just like a"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "200076",
+      "start" : 708.429,
+      "end" : 711.886
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "200026",
+      "start" : 711.933,
+      "end" : 713.402
+    }, {
+      "transcriptionData" : {
+        "content" : "[redacted-others] was with me for since it was a"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "200077",
+      "start" : 713.402,
+      "end" : 715.900
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "200027",
+      "start" : 715.959,
+      "end" : 721.330
+    }, {
+      "transcriptionData" : {
+        "content" : "So, Mrs. [redacted-name-Customer],"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "200078",
+      "start" : 721.330,
+      "end" : 722.284
+    }, {
+      "transcriptionData" : {
+        "content" : "Yes."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "200079",
+      "start" : 722.284,
+      "end" : 722.915
+    }, {
+      "transcriptionData" : {
+        "content" : "What I'm going to do now is to transfer you to one of my licensed agents. So stay on the phone. Okay?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "200080",
+      "start" : 722.915,
+      "end" : 728.096
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "200028",
+      "start" : 728.213,
+      "end" : 729.934
+    }, {
+      "transcriptionData" : {
+        "content" : "Thank you very much for your kindness. Okay, thank you."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "200035",
+      "start" : 729.934,
+      "end" : 732.709
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "200081",
+      "start" : 732.709,
+      "end" : 735.668
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay. I'd be happy with the rest of the day. Okay."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "200082",
+      "start" : 736.229,
+      "end" : 738.685
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "200083",
+      "start" : 738.685,
+      "end" : 740.713
+    }, {
+      "transcriptionData" : {
+        "content" : "always. Thank you."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231095",
+      "segmentId" : "200084",
+      "start" : 740.742,
+      "end" : 741.815
+    }, {
+      "transcriptionData" : {
+        "content" : "Hello, good afternoon. This is [redacted-name-Agent] from [redacted-name-Company] on a recorded line."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "1bc3c983-b646-4f59-aa08-959eb0df110a",
+      "segmentId" : "200030",
+      "start" : 748.406,
+      "end" : 752.520
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "200031",
+      "start" : 752.966,
+      "end" : 754.120
+    }, {
+      "transcriptionData" : {
+        "content" : "you have Medicare A and B?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "1bc3c983-b646-4f59-aa08-959eb0df110a",
+      "segmentId" : "200085",
+      "start" : 754.146,
+      "end" : 756.106
+    }, {
+      "transcriptionData" : {
+        "content" : "Yes."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231429",
+      "segmentId" : "200034",
+      "start" : 756.786,
+      "end" : 757.526
+    }, {
+      "transcriptionData" : {
+        "content" : "Thank you. Can you also verify [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "1bc3c983-b646-4f59-aa08-959eb0df110a",
+      "segmentId" : "200033",
+      "start" : 759.446,
+      "end" : 761.948
+    } ],
+    "speakers" : [ {
+      "speakerId" : "HJ231095",
+      "gender" : "Female",
+      "speakerNativity" : "NonNative",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "Agent",
+      "country" : "India",
+      "city" : "Mumbai",
+      "age" : "35"
+    }, {
+      "speakerId" : "b7973354-b025-4634-adf4-a1a5646fab33",
+      "gender" : "Female",
+      "speakerNativity" : "NonNative",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "Agent 2",
+      "country" : "India",
+      "city" : "Mumbai",
+      "age" : "23"
+    }, {
+      "speakerId" : "1bc3c983-b646-4f59-aa08-959eb0df110a",
+      "gender" : "Female",
+      "speakerNativity" : "NonNative",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "Agent1",
+      "country" : "India",
+      "city" : "Mumbai",
+      "age" : "23"
+    }, {
+      "speakerId" : "HJ231429",
+      "gender" : "Female",
+      "speakerNativity" : "Native",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "Customer",
+      "country" : "USA",
+      "city" : "Los Angeles",
+      "age" : "85"
+    } ],
+    "taskStatus" : {
+      "segmentation" : {
+        "workflowStatus" : "COMPLETE",
+        "workflowType" : "LABEL"
+      },
+      "transcription" : {
+        "workflowStatus" : "COMPLETE",
+        "workflowType" : "LABEL"
+      },
+      "speakerId" : {
+        "workflowStatus" : "COMPLETE",
+        "workflowType" : "LABEL"
+      }
+    },
+    "conventionInfo" : {
+      "masterConventionName" : "TranscriptionGuidelines.2.9:en_US",
+      "customAddendum" : "en_US"
+    },
+    "annotatorInfo" : {
+      "loginEncrypted" : "N/A",
+      "annotatorId" : "42258"
+    },
+    "primaryVariety" : "N/A",
+    "otherLanguages" : [ "N/A" ],
+    "primaryLanguage" : "en_IN"
+  },
+  "type" : {
+    "name" : "MULTI_SPEAKER_LONG_FORM_TRANSCRIPTION",
+    "version" : "21.0"
+  }
+}

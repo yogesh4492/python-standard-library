@@ -1,0 +1,771 @@
+{
+  "value" : {
+    "domains" : [ "Insurance" ],
+    "topics" : [ "Health" ],
+    "callingCompany" : "Service Offering",
+    "segments" : [ {
+      "transcriptionData" : {
+        "content" : "Hello. May I speak with [redacted-name-Customer]?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0924011",
+      "segmentId" : "100001",
+      "start" : 1.375,
+      "end" : 3.142
+    }, {
+      "transcriptionData" : {
+        "content" : "This is she."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0930231",
+      "segmentId" : "100026",
+      "start" : 4.102,
+      "end" : 5.114
+    }, {
+      "transcriptionData" : {
+        "content" : "This is [redacted-name-Agent], and I'm calling to verify your information for the delivery of your [noise] aid free C O V I D nineteen kit at home test. Okay?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0924011",
+      "segmentId" : "100027",
+      "start" : 6.182,
+      "end" : 14.362
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0930231",
+      "segmentId" : "100002",
+      "start" : 15.751,
+      "end" : 16.540
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay. [noise] #uh So remember, [redacted-name-Customer], this is a <initial>C M S</initial> [noise] Medicare sponsored service being offered at no cost to you, [noise] no copay, and with no deduction from your available healthcare benefits. All right?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0924011",
+      "segmentId" : "100028",
+      "start" : 17.422,
+      "end" : 28.628
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0930231",
+      "segmentId" : "100003",
+      "start" : 29.475,
+      "end" : 30.203
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay, [noise] #uh so just for verification purposes, may I have your full name?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0924011",
+      "segmentId" : "100029",
+      "start" : 30.923,
+      "end" : 35.263
+    }, {
+      "transcriptionData" : {
+        "content" : "May you have what?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0930231",
+      "segmentId" : "100030",
+      "start" : 38.443,
+      "end" : 39.543
+    }, {
+      "transcriptionData" : {
+        "content" : "#uh Just for verification purpose, may I have your full name? [no-speech] Your name?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0924011",
+      "segmentId" : "100004",
+      "start" : 40.627,
+      "end" : 46.043
+    }, {
+      "transcriptionData" : {
+        "content" : "[redacted-name-Customer]."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0930231",
+      "segmentId" : "100031",
+      "start" : 46.823,
+      "end" : 48.463
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay, [redacted-name-Customer]. [noise] And what is your date of birth?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0924011",
+      "segmentId" : "100032",
+      "start" : 49.483,
+      "end" : 53.165
+    }, {
+      "transcriptionData" : {
+        "content" : "[redacted-dob]."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0930231",
+      "segmentId" : "100005",
+      "start" : 55.628,
+      "end" : 57.613
+    }, {
+      "transcriptionData" : {
+        "content" : "[redacted-dob]. Okay, [noise] and I have your phone number here as [redacted-number-phone-fax], correct?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0924011",
+      "segmentId" : "100033",
+      "start" : 58.454,
+      "end" : 66.263
+    }, {
+      "transcriptionData" : {
+        "content" : "Yes."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0930231",
+      "segmentId" : "100034",
+      "start" : 66.743,
+      "end" : 67.363
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay. [noise] And #uh I have your current residing address as [redacted-location]. Correct? [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0924011",
+      "segmentId" : "100006",
+      "start" : 68.318,
+      "end" : 77.623
+    }, {
+      "transcriptionData" : {
+        "content" : "Yes."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0930231",
+      "segmentId" : "100035",
+      "start" : 78.123,
+      "end" : 78.790
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay. [noise] And, and I have your #uh I have your Medicare <initial>I D</initial> as [redacted-others]. Correct?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0924011",
+      "segmentId" : "100007",
+      "start" : 79.763,
+      "end" : 89.856
+    }, {
+      "transcriptionData" : {
+        "content" : "Yes."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0930231",
+      "segmentId" : "100036",
+      "start" : 92.063,
+      "end" : 92.798
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay, [noise] and are you ready to have your aid free test kit shipped to you as soon as possible?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0924011",
+      "segmentId" : "100008",
+      "start" : 93.763,
+      "end" : 98.787
+    }, {
+      "transcriptionData" : {
+        "content" : "(()) what kind of test ma'am?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0930231",
+      "segmentId" : "100037",
+      "start" : 99.743,
+      "end" : 101.512
+    }, {
+      "transcriptionData" : {
+        "content" : "#uh Free C O V I D nineteen test kit. The kit we are providing you is C O V I D nineteen test kit. So are you ready to have your aid free test kit shipped to you as soon as possible?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0924011",
+      "segmentId" : "100009",
+      "start" : 102.473,
+      "end" : 111.650
+    }, {
+      "transcriptionData" : {
+        "content" : "Yes."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0930231",
+      "segmentId" : "100038",
+      "start" : 112.284,
+      "end" : 112.867
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay, [noise] and we want you to know that these tests are being shipped to you by [redacted-name-Company], [noise] a licensed Medicare service organization. Okay?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0924011",
+      "segmentId" : "100010",
+      "start" : 113.678,
+      "end" : 123.244
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0930231",
+      "segmentId" : "100039",
+      "start" : 124.004,
+      "end" : 124.598
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay. And as a courtesy, you will continue to receive eight tests a month during this health emergency, and if at any time you wish to cancel monthly delivery, [noise] please call the number service [redacted-number-phone-fax] number provided in your package. Okay?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0924011",
+      "segmentId" : "100011",
+      "start" : 125.137,
+      "end" : 138.991
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0930231",
+      "segmentId" : "100012",
+      "start" : 139.598,
+      "end" : 140.479
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay, [noise] so thank you so much for your time. Have a nice day."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0924011",
+      "segmentId" : "100040",
+      "start" : 141.024,
+      "end" : 143.844
+    }, {
+      "transcriptionData" : {
+        "content" : "Thank you."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0930231",
+      "segmentId" : "100041",
+      "start" : 144.804,
+      "end" : 145.534
+    }, {
+      "transcriptionData" : {
+        "content" : "#uh And ma'am, before letting you go, I just want to confirm that it here also shows you have arthritis in your back, knees, shoulders. Correct?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0924011",
+      "segmentId" : "100013",
+      "start" : 146.564,
+      "end" : 154.644
+    }, {
+      "transcriptionData" : {
+        "content" : "Yes."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0930231",
+      "segmentId" : "100042",
+      "start" : 155.244,
+      "end" : 155.952
+    }, {
+      "transcriptionData" : {
+        "content" : "Oh, okay. [noise] #uh So, ma'am #uh as a part of your Medicare health benefit, we are also going to provide you soft and flexible braces for your pain relief. [noise] And the best part is it will be ((little)) no cost to you, covered by your Medicare health insurance. Okay?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0924011",
+      "segmentId" : "100014",
+      "start" : 156.845,
+      "end" : 170.497
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0930231",
+      "segmentId" : "100015",
+      "start" : 171.678,
+      "end" : 172.324
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay, [noise] so just to make sure the brace fits you correctly, I would like to know how tall are you?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0924011",
+      "segmentId" : "100043",
+      "start" : 173.144,
+      "end" : 177.944
+    }, {
+      "transcriptionData" : {
+        "content" : "Five two."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0930231",
+      "segmentId" : "100044",
+      "start" : 179.224,
+      "end" : 180.124
+    }, {
+      "transcriptionData" : {
+        "content" : "Five two. Okay, [noise] and how much do you weigh?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0924011",
+      "segmentId" : "100045",
+      "start" : 180.984,
+      "end" : 183.355
+    }, {
+      "transcriptionData" : {
+        "content" : "Oh, one ninety-two."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0930231",
+      "segmentId" : "100016",
+      "start" : 185.768,
+      "end" : 187.566
+    }, {
+      "transcriptionData" : {
+        "content" : "One ninety-two. Okay, [noise] and what is your waist size? Is it like a small, large, or medium?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0924011",
+      "segmentId" : "100046",
+      "start" : 188.234,
+      "end" : 192.828
+    }, {
+      "transcriptionData" : {
+        "content" : "Large."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0930231",
+      "segmentId" : "100047",
+      "start" : 194.632,
+      "end" : 195.320
+    }, {
+      "transcriptionData" : {
+        "content" : "Large. Okay, [noise] and how much would you rate your pain level from one to ten when it hurts you the most?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0924011",
+      "segmentId" : "100017",
+      "start" : 195.976,
+      "end" : 201.565
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] #uh Sometimes as high as ten."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0930231",
+      "segmentId" : "100048",
+      "start" : 203.187,
+      "end" : 206.727
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] Oh, so sorry to hear about that. [noise] Okay, and do you have any primary doctor who is aware about your pain condition?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0924011",
+      "segmentId" : "100018",
+      "start" : 207.745,
+      "end" : 214.866
+    }, {
+      "transcriptionData" : {
+        "content" : "Yes."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0930231",
+      "segmentId" : "100049",
+      "start" : 215.681,
+      "end" : 216.352
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay, can you please tell me the first name of your doctor?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0924011",
+      "segmentId" : "100050",
+      "start" : 217.294,
+      "end" : 219.772
+    }, {
+      "transcriptionData" : {
+        "content" : "#uh Doctor [redacted-others]."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0930231",
+      "segmentId" : "100051",
+      "start" : 223.131,
+      "end" : 225.039
+    }, {
+      "transcriptionData" : {
+        "content" : "Doctor [redacted-others]."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0924011",
+      "segmentId" : "100052",
+      "start" : 226.905,
+      "end" : 229.205
+    }, {
+      "transcriptionData" : {
+        "content" : "Spell it again."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0930231",
+      "segmentId" : "100053",
+      "start" : 231.218,
+      "end" : 232.180
+    }, {
+      "transcriptionData" : {
+        "content" : "#uh [redacted-others]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0924011",
+      "segmentId" : "100054",
+      "start" : 233.169,
+      "end" : 235.350
+    }, {
+      "transcriptionData" : {
+        "content" : "[redacted-others]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0930231",
+      "segmentId" : "100020",
+      "start" : 238.060,
+      "end" : 240.001
+    }, {
+      "transcriptionData" : {
+        "content" : "[redacted-others]. Okay, okay I got it. [noise] And #uh do you go to see this doctor in the same city in [redacted-location]?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0924011",
+      "segmentId" : "100055",
+      "start" : 241.478,
+      "end" : 247.265
+    }, {
+      "transcriptionData" : {
+        "content" : "Yes."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0930231",
+      "segmentId" : "100056",
+      "start" : 247.872,
+      "end" : 248.408
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay, I got it. And when was the last time you visited your doctor?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0924011",
+      "segmentId" : "100021",
+      "start" : 249.258,
+      "end" : 252.862
+    }, {
+      "transcriptionData" : {
+        "content" : "#um"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0930231",
+      "segmentId" : "100066",
+      "start" : 255.265,
+      "end" : 256.142
+    }, {
+      "transcriptionData" : {
+        "content" : "I think it was [redacted-other-date]. I got to go again in [redacted-other-date]."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0930231",
+      "segmentId" : "100057",
+      "start" : 258.545,
+      "end" : 262.366
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay, okay. Okay, I got it. And #uh li~ like the last time you visited your doctor, was it like, between six months or between twelve months?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0924011",
+      "segmentId" : "100022",
+      "start" : 263.800,
+      "end" : 271.987
+    }, {
+      "transcriptionData" : {
+        "content" : "#uh It was four months."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0930231",
+      "segmentId" : "100058",
+      "start" : 274.713,
+      "end" : 276.466
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay, okay, [noise] and is your doctor named Doctor [redacted-others]?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0924011",
+      "segmentId" : "100023",
+      "start" : 277.338,
+      "end" : 281.264
+    }, {
+      "transcriptionData" : {
+        "content" : "Yes."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0930231",
+      "segmentId" : "100059",
+      "start" : 281.842,
+      "end" : 282.304
+    }, {
+      "transcriptionData" : {
+        "content" : "And you go to see this doctor at [redacted-location]?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0924011",
+      "segmentId" : "100060",
+      "start" : 283.322,
+      "end" : 287.184
+    }, {
+      "transcriptionData" : {
+        "content" : "Yes."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0930231",
+      "segmentId" : "100061",
+      "start" : 287.978,
+      "end" : 288.571
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay, I got it. I got it. Okay, so now we are all done here. And what you have to do is just expect a followup call [noise] in the next twenty-four to forty-eight hours in order to get your"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0924011",
+      "segmentId" : "100024",
+      "start" : 289.331,
+      "end" : 302.154
+    }, {
+      "transcriptionData" : {
+        "content" : "#uh braces to be shipped at your doorstep. Okay?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0924011",
+      "segmentId" : "100025",
+      "start" : 302.294,
+      "end" : 305.146
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0930231",
+      "segmentId" : "100062",
+      "start" : 305.777,
+      "end" : 306.526
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay. Thank you so much for your time and cooperation. Have a lovely day."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0924011",
+      "segmentId" : "100063",
+      "start" : 307.117,
+      "end" : 310.286
+    }, {
+      "transcriptionData" : {
+        "content" : "Thank you."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0930231",
+      "segmentId" : "100064",
+      "start" : 310.957,
+      "end" : 311.646
+    }, {
+      "transcriptionData" : {
+        "content" : "Bye bye."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ0924011",
+      "segmentId" : "100065",
+      "start" : 312.326,
+      "end" : 312.955
+    } ],
+    "speakers" : [ {
+      "speakerId" : "HJ0924011",
+      "gender" : "Male",
+      "speakerNativity" : "Unknown",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "Agent",
+      "country" : "India",
+      "city" : "Mumbai",
+      "age" : "26"
+    }, {
+      "speakerId" : "HJ0930231",
+      "gender" : "Female",
+      "speakerNativity" : "Unknown",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "Customer",
+      "country" : "USA",
+      "city" : "Los Angeles",
+      "age" : "82"
+    } ],
+    "taskStatus" : {
+      "segmentation" : {
+        "workflowStatus" : "COMPLETE",
+        "workflowType" : "LABEL"
+      },
+      "transcription" : {
+        "workflowStatus" : "COMPLETE",
+        "workflowType" : "LABEL"
+      },
+      "speakerId" : {
+        "workflowStatus" : "COMPLETE",
+        "workflowType" : "LABEL"
+      }
+    },
+    "conventionInfo" : {
+      "masterConventionName" : "TranscriptionGuidelines.2.9:en_US",
+      "customAddendum" : "en_US"
+    },
+    "annotatorInfo" : {
+      "loginEncrypted" : "N/A",
+      "annotatorId" : "35950"
+    },
+    "primaryVariety" : "N/A",
+    "otherLanguages" : [ "N/A" ],
+    "primaryLanguage" : "en_IN"
+  },
+  "type" : {
+    "name" : "MULTI_SPEAKER_LONG_FORM_TRANSCRIPTION",
+    "version" : "21.0"
+  }
+}

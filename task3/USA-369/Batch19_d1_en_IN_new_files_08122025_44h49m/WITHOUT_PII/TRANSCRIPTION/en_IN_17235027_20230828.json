@@ -1,0 +1,729 @@
+{
+  "value" : {
+    "domains" : [ "Telecom and Service" ],
+    "topics" : [ "Travel" ],
+    "callingCompany" : "Service Offering ",
+    "segments" : [ {
+      "transcriptionData" : {
+        "content" : "[music] Your call is very important to us. Please stay on the line and you'll be transferred to the next available agent."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "4b788509-c3a0-490d-965a-eb88a38e19c4",
+      "segmentId" : "100001",
+      "start" : 1.564,
+      "end" : 9.371
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Music",
+      "segmentId" : "100002",
+      "start" : 10.451,
+      "end" : 24.604
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Music",
+      "segmentId" : "100003",
+      "start" : 24.605,
+      "end" : 39.263
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Music",
+      "segmentId" : "100004",
+      "start" : 39.264,
+      "end" : 52.465
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Music",
+      "segmentId" : "100048",
+      "start" : 52.716,
+      "end" : 65.471
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Music",
+      "segmentId" : "100005",
+      "start" : 65.591,
+      "end" : 71.408
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] Your call is very important to us. Please stay on the line and you'll be transferred to the next available agent."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "4b788509-c3a0-490d-965a-eb88a38e19c4",
+      "segmentId" : "100049",
+      "start" : 71.409,
+      "end" : 76.891
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Music",
+      "segmentId" : "100006",
+      "start" : 77.511,
+      "end" : 86.525
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Music",
+      "segmentId" : "100052",
+      "start" : 86.570,
+      "end" : 100.685
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Music",
+      "segmentId" : "100051",
+      "start" : 100.765,
+      "end" : 111.543
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] Reservations. You're talking to [redacted-name-Agent]. How can I help you?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281082",
+      "segmentId" : "100007",
+      "start" : 111.845,
+      "end" : 115.079
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Noise",
+      "segmentId" : "100008",
+      "start" : 115.585,
+      "end" : 118.092
+    }, {
+      "transcriptionData" : {
+        "content" : "#uh Hi #um [noise] [bg-speech] I'd like to book a flight on #uh [redacted-name-Company], #uh leaving [redacted-location] at twenty two ten."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2290",
+      "segmentId" : "100009",
+      "start" : 118.292,
+      "end" : 129.952
+    }, {
+      "transcriptionData" : {
+        "content" : "Just bear with me, sir. What is your departure city? [noise] May I know?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281082",
+      "segmentId" : "100010",
+      "start" : 132.164,
+      "end" : 135.025
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] #uh [redacted-location]."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2290",
+      "segmentId" : "100011",
+      "start" : 135.432,
+      "end" : 136.885
+    }, {
+      "transcriptionData" : {
+        "content" : "Going to which place?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281082",
+      "segmentId" : "100012",
+      "start" : 138.839,
+      "end" : 139.936
+    }, {
+      "transcriptionData" : {
+        "content" : "Going [redacted-location]."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2290",
+      "segmentId" : "100013",
+      "start" : 140.925,
+      "end" : 142.425
+    }, {
+      "transcriptionData" : {
+        "content" : "Leaving on what date? [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281082",
+      "segmentId" : "100014",
+      "start" : 143.884,
+      "end" : 145.672
+    }, {
+      "transcriptionData" : {
+        "content" : "#uh Tonight."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2290",
+      "segmentId" : "100015",
+      "start" : 145.977,
+      "end" : 146.924
+    }, {
+      "transcriptionData" : {
+        "content" : "You, you said you need a flight for tonight?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281082",
+      "segmentId" : "100016",
+      "start" : 149.909,
+      "end" : 152.052
+    }, {
+      "transcriptionData" : {
+        "content" : "Yes. Yeah, that's [redacted-name-Company]. I was just told that there's still flights or still seats available per the agent."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2290",
+      "segmentId" : "100017",
+      "start" : 152.643,
+      "end" : 159.376
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] Going on [redacted-other-date]. Returning on what date?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281082",
+      "segmentId" : "100018",
+      "start" : 159.572,
+      "end" : 162.605
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Noise",
+      "segmentId" : "100019",
+      "start" : 162.805,
+      "end" : 165.805
+    }, {
+      "transcriptionData" : {
+        "content" : "No, just one way."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2290",
+      "segmentId" : "100066",
+      "start" : 165.805,
+      "end" : 167.003
+    }, {
+      "transcriptionData" : {
+        "content" : "For how many passengers you need that?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281082",
+      "segmentId" : "100020",
+      "start" : 167.982,
+      "end" : 169.872
+    }, {
+      "transcriptionData" : {
+        "content" : "For two."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2290",
+      "segmentId" : "100021",
+      "start" : 170.463,
+      "end" : 171.205
+    }, {
+      "transcriptionData" : {
+        "content" : "For two, you said?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281082",
+      "segmentId" : "100022",
+      "start" : 173.465,
+      "end" : 174.425
+    }, {
+      "transcriptionData" : {
+        "content" : "Yes."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2290",
+      "segmentId" : "100023",
+      "start" : 175.019,
+      "end" : 175.445
+    }, {
+      "transcriptionData" : {
+        "content" : "You'll be flying in which class of service?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281082",
+      "segmentId" : "100024",
+      "start" : 176.723,
+      "end" : 178.850
+    }, {
+      "transcriptionData" : {
+        "content" : "Service?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2290",
+      "segmentId" : "100025",
+      "start" : 181.280,
+      "end" : 181.766
+    }, {
+      "transcriptionData" : {
+        "content" : "Beg your pardon? [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281082",
+      "segmentId" : "100026",
+      "start" : 183.406,
+      "end" : 184.366
+    }, {
+      "transcriptionData" : {
+        "content" : "#uh Sorry. We~ [noise] which path? Economy."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2290",
+      "segmentId" : "100027",
+      "start" : 184.857,
+      "end" : 187.146
+    }, {
+      "transcriptionData" : {
+        "content" : "You'll fly in economy or business?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281082",
+      "segmentId" : "100028",
+      "start" : 187.912,
+      "end" : 189.802
+    }, {
+      "transcriptionData" : {
+        "content" : "Economy please."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2290",
+      "segmentId" : "100029",
+      "start" : 190.392,
+      "end" : 191.236
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Babble",
+      "segmentId" : "100030",
+      "start" : 191.446,
+      "end" : 197.226
+    }, {
+      "transcriptionData" : {
+        "content" : "So #uh you're looking for the flight, which is leaving at, uh, ten thirty-five <initial>P M</initial>? [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281082",
+      "segmentId" : "100031",
+      "start" : 197.412,
+      "end" : 204.553
+    }, {
+      "transcriptionData" : {
+        "content" : "That's right. [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2290",
+      "segmentId" : "100032",
+      "start" : 204.820,
+      "end" : 205.543
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100053",
+      "start" : 205.544,
+      "end" : 207.647
+    }, {
+      "transcriptionData" : {
+        "content" : "At least #uh it departs at twenty-two ten [redacted-name-Company]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2290",
+      "segmentId" : "100054",
+      "start" : 208.033,
+      "end" : 211.906
+    }, {
+      "transcriptionData" : {
+        "content" : "Sir, the cheapest option what I can check is the flight leaving at #uh ten thirty-five <initial>P M</initial> from"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281082",
+      "segmentId" : "100033",
+      "start" : 218.693,
+      "end" : 225.419
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100055",
+      "start" : 225.420,
+      "end" : 226.153
+    }, {
+      "transcriptionData" : {
+        "content" : "Tonight"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281082",
+      "segmentId" : "100056",
+      "start" : 226.154,
+      "end" : 226.806
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100057",
+      "start" : 227.326,
+      "end" : 228.305
+    }, {
+      "transcriptionData" : {
+        "content" : "Go ahead please."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281082",
+      "segmentId" : "100058",
+      "start" : 228.306,
+      "end" : 229.206
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100034",
+      "start" : 229.886,
+      "end" : 230.815
+    }, {
+      "transcriptionData" : {
+        "content" : "we're having a la~ lay over in [redacted-location], and then will be arriving in [redacted-location] by six forty fifty-four in the morning."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281082",
+      "segmentId" : "100059",
+      "start" : 230.816,
+      "end" : 236.900
+    }, {
+      "transcriptionData" : {
+        "content" : "No #um I, I, I wanna get on [redacted-name-Company]."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2290",
+      "segmentId" : "100035",
+      "start" : 237.473,
+      "end" : 241.087
+    }, {
+      "transcriptionData" : {
+        "content" : "Is there no, I, I was told there's seats available."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2290",
+      "segmentId" : "100067",
+      "start" : 242.207,
+      "end" : 244.342
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] No, there is no seat on that now, sir."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281082",
+      "segmentId" : "100036",
+      "start" : 248.706,
+      "end" : 251.075
+    }, {
+      "transcriptionData" : {
+        "content" : "#uh The guy at the the desk"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2290",
+      "segmentId" : "100037",
+      "start" : 252.486,
+      "end" : 255.463
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100060",
+      "start" : 255.464,
+      "end" : 256.306
+    }, {
+      "transcriptionData" : {
+        "content" : "The only two seats remaining are on the flight leaving at eleven thirty-five <initial>P M</initial>"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281082",
+      "segmentId" : "100038",
+      "start" : 256.708,
+      "end" : 260.828
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Noise",
+      "segmentId" : "100062",
+      "start" : 260.828,
+      "end" : 266.175
+    }, {
+      "transcriptionData" : {
+        "content" : "for two passengers."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281082",
+      "segmentId" : "100063",
+      "start" : 266.175,
+      "end" : 267.646
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay. [bg-speech] I'll, I'll pass on that then."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2290",
+      "segmentId" : "100039",
+      "start" : 267.916,
+      "end" : 270.608
+    }, {
+      "transcriptionData" : {
+        "content" : "Beg your pardon?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281082",
+      "segmentId" : "100040",
+      "start" : 272.405,
+      "end" : 273.063
+    }, {
+      "transcriptionData" : {
+        "content" : "I I won't do that. [bg-speech] Okay."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2290",
+      "segmentId" : "100041",
+      "start" : 273.569,
+      "end" : 277.012
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] You won't do that or you're willing to do"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281082",
+      "segmentId" : "100042",
+      "start" : 278.013,
+      "end" : 280.240
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100061",
+      "start" : 280.241,
+      "end" : 280.627
+    }, {
+      "transcriptionData" : {
+        "content" : "No, I'm not, I'm not willing to do that."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2290",
+      "segmentId" : "100043",
+      "start" : 280.747,
+      "end" : 282.769
+    }, {
+      "transcriptionData" : {
+        "content" : "Sir. You need a flight you're saying that for eleven ten?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281082",
+      "segmentId" : "100044",
+      "start" : 284.200,
+      "end" : 287.693
+    }, {
+      "transcriptionData" : {
+        "content" : "I, I have a"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2290",
+      "segmentId" : "100045",
+      "start" : 289.583,
+      "end" : 290.898
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100064",
+      "start" : 290.898,
+      "end" : 291.429
+    }, {
+      "transcriptionData" : {
+        "content" : "scheduled for tomorrow morning already, so it doesn't, (()) doesn't do me any good to go to [redacted-location] tonight"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2290",
+      "segmentId" : "100065",
+      "start" : 291.429,
+      "end" : 297.008
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] Then, have a blessed day."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281082",
+      "segmentId" : "100046",
+      "start" : 298.257,
+      "end" : 299.388
+    }, {
+      "transcriptionData" : {
+        "content" : "Yeah. Okay. Bye."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2290",
+      "segmentId" : "100047",
+      "start" : 300.350,
+      "end" : 301.328
+    } ],
+    "speakers" : [ {
+      "speakerId" : "RC_2289",
+      "gender" : "Male",
+      "speakerNativity" : "Unknown",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "Agent",
+      "country" : "India",
+      "city" : "Mumbai",
+      "age" : "30"
+    }, {
+      "speakerId" : "US281082",
+      "gender" : "Male",
+      "speakerNativity" : "Unknown",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "Agent",
+      "country" : "India",
+      "city" : "Mumbai",
+      "age" : "60"
+    }, {
+      "speakerId" : "RC_2290",
+      "gender" : "Male",
+      "speakerNativity" : "Unknown",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "Customer",
+      "country" : "USA",
+      "city" : "Los Angeles",
+      "age" : "32"
+    }, {
+      "speakerId" : "4b788509-c3a0-490d-965a-eb88a38e19c4",
+      "gender" : "Female",
+      "speakerNativity" : "Native",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "IVR",
+      "country" : "US",
+      "city" : "LA",
+      "age" : "20"
+    }, {
+      "gender" : "Female",
+      "speakerNativity" : "NonNative",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "Speaker4",
+      "country" : "unknown",
+      "city" : "unknown",
+      "age" : "24"
+    }, {
+      "gender" : "Female",
+      "speakerNativity" : "NonNative",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "Speaker5",
+      "country" : "Unknown",
+      "city" : "Unknown",
+      "age" : "23"
+    }, {
+      "gender" : "Female",
+      "speakerNativity" : "NonNative",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "Speaker6",
+      "country" : "Unknown",
+      "city" : "Unknown",
+      "age" : "22"
+    } ],
+    "taskStatus" : {
+      "segmentation" : {
+        "workflowStatus" : "COMPLETE",
+        "workflowType" : "LABEL"
+      },
+      "transcription" : {
+        "workflowStatus" : "COMPLETE",
+        "workflowType" : "LABEL"
+      },
+      "speakerId" : {
+        "workflowStatus" : "COMPLETE",
+        "workflowType" : "LABEL"
+      }
+    },
+    "conventionInfo" : {
+      "masterConventionName" : "TranscriptionGuidelines.2.9:en_US",
+      "customAddendum" : "en_US"
+    },
+    "annotatorInfo" : {
+      "loginEncrypted" : "N/A",
+      "annotatorId" : "42093"
+    },
+    "primaryVariety" : "N/A",
+    "otherLanguages" : [ "N/A" ],
+    "primaryLanguage" : "en_IN"
+  },
+  "type" : {
+    "name" : "MULTI_SPEAKER_LONG_FORM_TRANSCRIPTION",
+    "version" : "21.0"
+  }
+}

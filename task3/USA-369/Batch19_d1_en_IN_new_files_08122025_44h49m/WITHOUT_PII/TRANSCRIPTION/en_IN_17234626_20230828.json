@@ -1,0 +1,1029 @@
+{
+  "value" : {
+    "domains" : [ "E-commerce / Finance" ],
+    "topics" : [ "Banking" ],
+    "callingCompany" : "Loan Forgiveness",
+    "segments" : [ {
+      "transcriptionData" : {
+        "content" : "If I can, how may I help?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ232049",
+      "segmentId" : "100001",
+      "start" : 0.000,
+      "end" : 1.660
+    }, {
+      "transcriptionData" : {
+        "content" : "My name is [redacted-name-Agent] and I'm calling from [redacted-name-Company]. How you doing today? ."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231507",
+      "segmentId" : "100063",
+      "start" : 2.427,
+      "end" : 7.760
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] I'm not feeling great, [noise] but how are you?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ232049",
+      "segmentId" : "100002",
+      "start" : 7.760,
+      "end" : 10.842
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] Okay. Actually, this call is about your student [noise] loan forgiveness program which is offered by department of education and if you qualify for this program, then your student loan will be forgiven by department of education directly okay."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231507",
+      "segmentId" : "100004",
+      "start" : 12.395,
+      "end" : 25.135
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] #uh #hm"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ232049",
+      "segmentId" : "100005",
+      "start" : 25.912,
+      "end" : 26.792
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay, so I just need to ask some basic qualifying questions to see if you can qualify for this program or not. Can I ask you the questions?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231507",
+      "segmentId" : "100064",
+      "start" : 26.792,
+      "end" : 34.872
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] Sure."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ232049",
+      "segmentId" : "100065",
+      "start" : 35.412,
+      "end" : 36.138
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay, so what's your loan balance? Is it more than four thousand?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231507",
+      "segmentId" : "100007",
+      "start" : 36.863,
+      "end" : 40.694
+    }, {
+      "transcriptionData" : {
+        "content" : "I believe so. [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ232049",
+      "segmentId" : "100008",
+      "start" : 42.196,
+      "end" : 43.780
+    }, {
+      "transcriptionData" : {
+        "content" : "Sorry? [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231507",
+      "segmentId" : "100009",
+      "start" : 44.509,
+      "end" : 45.509
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] I believe so."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ232049",
+      "segmentId" : "100066",
+      "start" : 45.509,
+      "end" : 47.087
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] Okay. And are you in school?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231507",
+      "segmentId" : "100067",
+      "start" : 47.091,
+      "end" : 50.122
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] No."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ232049",
+      "segmentId" : "100068",
+      "start" : 50.122,
+      "end" : 51.264
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay, are you in any kind of active bankruptcy?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231507",
+      "segmentId" : "100069",
+      "start" : 51.264,
+      "end" : 54.697
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] No."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ232049",
+      "segmentId" : "100070",
+      "start" : 55.443,
+      "end" : 56.219
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay. This program is totally dependent on your family size and annual gross income. So, can you please tell me what's your family size including yourself?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231507",
+      "segmentId" : "100010",
+      "start" : 56.928,
+      "end" : 66.239
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] Myself. That's it."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ232049",
+      "segmentId" : "100071",
+      "start" : 66.239,
+      "end" : 68.099
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] [noise] Okay. And what's your annual gross income?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231507",
+      "segmentId" : "100011",
+      "start" : 68.725,
+      "end" : 72.529
+    }, {
+      "transcriptionData" : {
+        "content" : "About thirteen."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ232049",
+      "segmentId" : "100072",
+      "start" : 73.258,
+      "end" : 74.427
+    }, {
+      "transcriptionData" : {
+        "content" : "Thirteen thousand. Okay, so [noise] you can definitely qualify for this program. Now I'm going to transfer your call to one of my senior enrollment specialist. He will assist you further about this program,"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231507",
+      "segmentId" : "100012",
+      "start" : 75.608,
+      "end" : 86.954
+    }, {
+      "transcriptionData" : {
+        "content" : "and he will prepare your documents. So, can you please stay online?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231507",
+      "segmentId" : "100013",
+      "start" : 86.954,
+      "end" : 90.294
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] Thanks."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ232049",
+      "segmentId" : "100073",
+      "start" : 91.306,
+      "end" : 92.186
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay, I'm transferring your call. It is very beneficial for you. Please be patient."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231507",
+      "segmentId" : "100074",
+      "start" : 92.468,
+      "end" : 97.597
+    }, {
+      "transcriptionData" : {
+        "content" : "Alright. [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ232049",
+      "segmentId" : "100014",
+      "start" : 98.930,
+      "end" : 99.499
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Noise",
+      "segmentId" : "100089",
+      "start" : 99.499,
+      "end" : 105.826
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] Hold while we connect your call."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "88460cdb-12f8-4071-83f5-316378740aee",
+      "segmentId" : "100015",
+      "start" : 108.649,
+      "end" : 110.759
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Music",
+      "segmentId" : "100075",
+      "start" : 111.288,
+      "end" : 123.890
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Music",
+      "segmentId" : "100016",
+      "start" : 123.990,
+      "end" : 135.874
+    }, {
+      "transcriptionData" : {
+        "content" : "Hello. Hi, this is [redacted-name-Agent]. I have a client interested in the program, who is not in school, no bankruptcy, family size is one, annual gross income thirteen thousand, loan more than four thousand. Can I transfer?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231507",
+      "segmentId" : "100017",
+      "start" : 137.351,
+      "end" : 148.539
+    }, {
+      "transcriptionData" : {
+        "content" : "Sure, go ahead."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "85ca5d60-0f3f-4127-b648-76d4670d32a9",
+      "segmentId" : "100018",
+      "start" : 150.162,
+      "end" : 150.685
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay. [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ231507",
+      "segmentId" : "100019",
+      "start" : 151.102,
+      "end" : 152.170
+    }, {
+      "transcriptionData" : {
+        "content" : "Hi, how you doing today? Good [noise] afternoon. Good morning."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "85ca5d60-0f3f-4127-b648-76d4670d32a9",
+      "segmentId" : "100020",
+      "start" : 154.032,
+      "end" : 156.575
+    }, {
+      "transcriptionData" : {
+        "content" : "(())."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ232049",
+      "segmentId" : "100021",
+      "start" : 157.942,
+      "end" : 158.532
+    }, {
+      "transcriptionData" : {
+        "content" : "Yes, my name is [redacted-name-Agent-affiliate]. I'm (()) [redacted-name-Company]. #uh I do see that you do pre-qualify for the forgiveness options that are offered by Department of Education. So let's go ahead and get you into this program to get you out of forgiveness."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "85ca5d60-0f3f-4127-b648-76d4670d32a9",
+      "segmentId" : "100022",
+      "start" : 159.241,
+      "end" : 173.095
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] Okay."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ232049",
+      "segmentId" : "100023",
+      "start" : 173.488,
+      "end" : 174.511
+    }, {
+      "transcriptionData" : {
+        "content" : "Your phone number [redacted-number-phone-fax]. Is that correct?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "85ca5d60-0f3f-4127-b648-76d4670d32a9",
+      "segmentId" : "100090",
+      "start" : 174.511,
+      "end" : 179.423
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100024",
+      "start" : 179.862,
+      "end" : 181.499
+    }, {
+      "transcriptionData" : {
+        "content" : "May I have your first name and last name please?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "85ca5d60-0f3f-4127-b648-76d4670d32a9",
+      "segmentId" : "100025",
+      "start" : 181.500,
+      "end" : 183.710
+    }, {
+      "transcriptionData" : {
+        "content" : "[redacted-name-Customer]. [no-speech] #um my last name is #uh [redacted-name-Customer]but I believe my my (()) you know [noise] #uh [redacted-name-Customer]. I'm not sure"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ232049",
+      "segmentId" : "100026",
+      "start" : 184.638,
+      "end" : 193.717
+    }, {
+      "transcriptionData" : {
+        "content" : "All right, no problem at all. We'll find that out for you, okay. Can you provide me your date of birth, please?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "85ca5d60-0f3f-4127-b648-76d4670d32a9",
+      "segmentId" : "100027",
+      "start" : 193.977,
+      "end" : 198.678
+    }, {
+      "transcriptionData" : {
+        "content" : "[redacted-dob]."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ232049",
+      "segmentId" : "100028",
+      "start" : 199.538,
+      "end" : 201.074
+    }, {
+      "transcriptionData" : {
+        "content" : "Thank you. All right, just for filling out the federal application for your forgiveness, I also need your #uh you tell me. [redacted-dob] is your date of birth, right?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "85ca5d60-0f3f-4127-b648-76d4670d32a9",
+      "segmentId" : "100029",
+      "start" : 202.694,
+      "end" : 211.655
+    }, {
+      "transcriptionData" : {
+        "content" : "Yes."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ232049",
+      "segmentId" : "100030",
+      "start" : 212.296,
+      "end" : 212.819
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay, I need to provide me your [noise] social please."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "85ca5d60-0f3f-4127-b648-76d4670d32a9",
+      "segmentId" : "100031",
+      "start" : 213.410,
+      "end" : 215.350
+    }, {
+      "transcriptionData" : {
+        "content" : "[redacted-number-other] (())"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ232049",
+      "segmentId" : "100032",
+      "start" : 216.160,
+      "end" : 219.721
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] Is that [redacted-number-other], correct?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "85ca5d60-0f3f-4127-b648-76d4670d32a9",
+      "segmentId" : "100033",
+      "start" : 220.601,
+      "end" : 224.800
+    }, {
+      "transcriptionData" : {
+        "content" : "Correct."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ232049",
+      "segmentId" : "100034",
+      "start" : 224.974,
+      "end" : 225.795
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] I need you to provide me your mailing address. I will also send it to your mailing address."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "85ca5d60-0f3f-4127-b648-76d4670d32a9",
+      "segmentId" : "100035",
+      "start" : 226.505,
+      "end" : 230.167
+    }, {
+      "transcriptionData" : {
+        "content" : "[redacted-number-other] [redacted-location]. [redacted-number-other] Just stop. [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ232049",
+      "segmentId" : "100036",
+      "start" : 231.440,
+      "end" : 243.650
+    }, {
+      "transcriptionData" : {
+        "content" : "That your dog?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "85ca5d60-0f3f-4127-b648-76d4670d32a9",
+      "segmentId" : "100037",
+      "start" : 243.650,
+      "end" : 244.744
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100038",
+      "start" : 244.942,
+      "end" : 247.244
+    }, {
+      "transcriptionData" : {
+        "content" : "(()) like hold on (()) I'm like #er it might be a movie she's watching [laugh] (()) dog right behind her."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "85ca5d60-0f3f-4127-b648-76d4670d32a9",
+      "segmentId" : "100039",
+      "start" : 247.245,
+      "end" : 253.176
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100091",
+      "start" : 253.176,
+      "end" : 254.863
+    }, {
+      "transcriptionData" : {
+        "content" : "(()) imagine."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "85ca5d60-0f3f-4127-b648-76d4670d32a9",
+      "segmentId" : "100092",
+      "start" : 254.863,
+      "end" : 257.420
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100040",
+      "start" : 257.622,
+      "end" : 258.625
+    }, {
+      "transcriptionData" : {
+        "content" : "She has like four or five babies like well, yes too many babies, like yeah."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "85ca5d60-0f3f-4127-b648-76d4670d32a9",
+      "segmentId" : "100093",
+      "start" : 258.625,
+      "end" : 262.325
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100094",
+      "start" : 262.325,
+      "end" : 263.550
+    }, {
+      "transcriptionData" : {
+        "content" : "dogs and cats."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "85ca5d60-0f3f-4127-b648-76d4670d32a9",
+      "segmentId" : "100095",
+      "start" : 263.550,
+      "end" : 264.275
+    }, {
+      "transcriptionData" : {
+        "content" : "My my dog (())"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ232049",
+      "segmentId" : "100041",
+      "start" : 264.780,
+      "end" : 267.248
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100042",
+      "start" : 267.408,
+      "end" : 269.796
+    }, {
+      "transcriptionData" : {
+        "content" : "adorable, right?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "85ca5d60-0f3f-4127-b648-76d4670d32a9",
+      "segmentId" : "100096",
+      "start" : 269.796,
+      "end" : 271.100
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100083",
+      "start" : 271.100,
+      "end" : 271.780
+    }, {
+      "transcriptionData" : {
+        "content" : "ZIP code in in [redacted-location]?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "85ca5d60-0f3f-4127-b648-76d4670d32a9",
+      "segmentId" : "100084",
+      "start" : 271.780,
+      "end" : 273.704
+    }, {
+      "transcriptionData" : {
+        "content" : "[redacted-location] There, enough!"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ232049",
+      "segmentId" : "100043",
+      "start" : 274.312,
+      "end" : 277.501
+    }, {
+      "transcriptionData" : {
+        "content" : "[redacted-location]. Correct?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "85ca5d60-0f3f-4127-b648-76d4670d32a9",
+      "segmentId" : "100044",
+      "start" : 278.193,
+      "end" : 280.290
+    }, {
+      "transcriptionData" : {
+        "content" : "[redacted-location]."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ232049",
+      "segmentId" : "100076",
+      "start" : 280.290,
+      "end" : 280.943
+    }, {
+      "transcriptionData" : {
+        "content" : "Oh, [redacted-location] thank you."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "85ca5d60-0f3f-4127-b648-76d4670d32a9",
+      "segmentId" : "100046",
+      "start" : 281.855,
+      "end" : 283.053
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ232049",
+      "segmentId" : "100047",
+      "start" : 283.054,
+      "end" : 283.475
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay. So let's go and continue with the process for you today. Now, based on your telling me [noise] (()) you only have one [noise] household family size. Is that right?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "85ca5d60-0f3f-4127-b648-76d4670d32a9",
+      "segmentId" : "100048",
+      "start" : 283.643,
+      "end" : 291.919
+    }, {
+      "transcriptionData" : {
+        "content" : "Yeah. I have my kid. [laugh]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ232049",
+      "segmentId" : "100049",
+      "start" : 292.408,
+      "end" : 294.865
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay, so how many kids you have?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "85ca5d60-0f3f-4127-b648-76d4670d32a9",
+      "segmentId" : "100050",
+      "start" : 295.072,
+      "end" : 296.418
+    }, {
+      "transcriptionData" : {
+        "content" : "Oh, I'm gonna my baby, my puppy. [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ232049",
+      "segmentId" : "100051",
+      "start" : 297.008,
+      "end" : 298.679
+    }, {
+      "transcriptionData" : {
+        "content" : "[laugh] So, it's you and how [noise] many kids?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "85ca5d60-0f3f-4127-b648-76d4670d32a9",
+      "segmentId" : "100052",
+      "start" : 299.387,
+      "end" : 301.947
+    }, {
+      "transcriptionData" : {
+        "content" : "I I have #uh two now. [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ232049",
+      "segmentId" : "100053",
+      "start" : 302.267,
+      "end" : 305.151
+    }, {
+      "transcriptionData" : {
+        "content" : "Hello."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "85ca5d60-0f3f-4127-b648-76d4670d32a9",
+      "segmentId" : "100077",
+      "start" : 305.151,
+      "end" : 305.963
+    }, {
+      "transcriptionData" : {
+        "content" : "Yes, I have two of."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ232049",
+      "segmentId" : "100078",
+      "start" : 305.963,
+      "end" : 307.281
+    }, {
+      "transcriptionData" : {
+        "content" : "Still with me."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "85ca5d60-0f3f-4127-b648-76d4670d32a9",
+      "segmentId" : "100079",
+      "start" : 307.281,
+      "end" : 308.659
+    }, {
+      "transcriptionData" : {
+        "content" : "Yes, I have"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ232049",
+      "segmentId" : "100080",
+      "start" : 308.659,
+      "end" : 309.440
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100085",
+      "start" : 309.440,
+      "end" : 309.840
+    }, {
+      "transcriptionData" : {
+        "content" : "Oh my God. [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ232049",
+      "segmentId" : "100086",
+      "start" : 309.840,
+      "end" : 311.622
+    }, {
+      "transcriptionData" : {
+        "content" : "Hello."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "85ca5d60-0f3f-4127-b648-76d4670d32a9",
+      "segmentId" : "100054",
+      "start" : 312.044,
+      "end" : 312.348
+    }, {
+      "transcriptionData" : {
+        "content" : "Hello, can you hear me?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ232049",
+      "segmentId" : "100055",
+      "start" : 312.533,
+      "end" : 313.689
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100087",
+      "start" : 314.700,
+      "end" : 315.400
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] Can you hear me?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ232049",
+      "segmentId" : "100088",
+      "start" : 315.733,
+      "end" : 317.273
+    }, {
+      "transcriptionData" : {
+        "content" : "Hello."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "85ca5d60-0f3f-4127-b648-76d4670d32a9",
+      "segmentId" : "100081",
+      "start" : 317.400,
+      "end" : 317.883
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] Yeah [noise] can you hear me?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ232049",
+      "segmentId" : "100057",
+      "start" : 318.382,
+      "end" : 320.853
+    }, {
+      "transcriptionData" : {
+        "content" : "Hello ma'am, are you still there?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "85ca5d60-0f3f-4127-b648-76d4670d32a9",
+      "segmentId" : "100058",
+      "start" : 321.730,
+      "end" : 323.344
+    }, {
+      "transcriptionData" : {
+        "content" : "Yes, I am."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ232049",
+      "segmentId" : "100082",
+      "start" : 323.344,
+      "end" : 324.580
+    }, {
+      "transcriptionData" : {
+        "content" : "I'm here. [no-speech] [noise] I'm here."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "HJ232049",
+      "segmentId" : "100059",
+      "start" : 324.684,
+      "end" : 328.825
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay, thank you."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "85ca5d60-0f3f-4127-b648-76d4670d32a9",
+      "segmentId" : "100060",
+      "start" : 329.375,
+      "end" : 330.686
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Noise",
+      "segmentId" : "100097",
+      "start" : 330.686,
+      "end" : 335.720
+    }, {
+      "transcriptionData" : {
+        "content" : "All right. So let's go ahead and continue with this (()) today. [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "85ca5d60-0f3f-4127-b648-76d4670d32a9",
+      "segmentId" : "100062",
+      "start" : 339.871,
+      "end" : 342.920
+    } ],
+    "speakers" : [ {
+      "speakerId" : "85ca5d60-0f3f-4127-b648-76d4670d32a9",
+      "gender" : "Male",
+      "speakerNativity" : "Unknown",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "AGENT",
+      "country" : "Unknown",
+      "city" : "Unknown",
+      "age" : "23"
+    }, {
+      "speakerId" : "HJ231507",
+      "gender" : "Male",
+      "speakerNativity" : "Unknown",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "Agent",
+      "country" : "India",
+      "city" : "Mumbai",
+      "age" : "78"
+    }, {
+      "speakerId" : "HJ232049",
+      "gender" : "Female",
+      "speakerNativity" : "Unknown",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "Customer",
+      "country" : "USA",
+      "city" : "Los Angeles",
+      "age" : "54"
+    }, {
+      "speakerId" : "88460cdb-12f8-4071-83f5-316378740aee",
+      "gender" : "Unknown",
+      "speakerNativity" : "Unknown",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "IVR",
+      "country" : "Unknown",
+      "city" : "Unknown",
+      "age" : "18"
+    }, {
+      "gender" : "Unknown",
+      "speakerNativity" : "Unknown",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "Speaker3",
+      "country" : "NA",
+      "city" : "NA",
+      "age" : "23"
+    } ],
+    "taskStatus" : {
+      "segmentation" : {
+        "workflowStatus" : "COMPLETE",
+        "workflowType" : "LABEL"
+      },
+      "transcription" : {
+        "workflowStatus" : "COMPLETE",
+        "workflowType" : "LABEL"
+      },
+      "speakerId" : {
+        "workflowStatus" : "COMPLETE",
+        "workflowType" : "LABEL"
+      }
+    },
+    "conventionInfo" : {
+      "masterConventionName" : "TranscriptionGuidelines.2.9:en_US",
+      "customAddendum" : "en_US"
+    },
+    "annotatorInfo" : {
+      "loginEncrypted" : "N/A",
+      "annotatorId" : "42163"
+    },
+    "primaryVariety" : "N/A",
+    "otherLanguages" : [ "N/A" ],
+    "primaryLanguage" : "en_IN"
+  },
+  "type" : {
+    "name" : "MULTI_SPEAKER_LONG_FORM_TRANSCRIPTION",
+    "version" : "21.0"
+  }
+}

@@ -1,0 +1,623 @@
+{
+  "value" : {
+    "domains" : [ "Telecom and Service" ],
+    "topics" : [ "Travel" ],
+    "callingCompany" : "Service Offering ",
+    "segments" : [ {
+      "transcriptionData" : {
+        "content" : "[bg-speech] [music] Your call is very important to us. Please stay on the line and you'll be transferred to the next available agent."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "8a8fbfc4-a90d-461f-b398-38f7559322f6",
+      "segmentId" : "100001",
+      "start" : 0.863,
+      "end" : 8.722
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Music",
+      "segmentId" : "100002",
+      "start" : 10.382,
+      "end" : 24.962
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Music",
+      "segmentId" : "100039",
+      "start" : 24.962,
+      "end" : 39.496
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Music",
+      "segmentId" : "100040",
+      "start" : 39.497,
+      "end" : 53.983
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Music",
+      "segmentId" : "100041",
+      "start" : 53.984,
+      "end" : 57.721
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] Thank you for calling reservation. This is [redacted-name-Agent]. How can I help?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281077",
+      "segmentId" : "100005",
+      "start" : 58.077,
+      "end" : 61.203
+    }, {
+      "transcriptionData" : {
+        "content" : "Hi [redacted-name-Agent] ((and this is)) #uh I I would like to go to, travel to [redacted-location]."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2238",
+      "segmentId" : "100006",
+      "start" : 62.193,
+      "end" : 66.968
+    }, {
+      "transcriptionData" : {
+        "content" : "and #uh"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2238",
+      "segmentId" : "100007",
+      "start" : 67.610,
+      "end" : 68.371
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100042",
+      "start" : 68.371,
+      "end" : 68.985
+    }, {
+      "transcriptionData" : {
+        "content" : "like #uh and I don't have a, a date to return but I wanna go [noise] by by by the both ways. [bg-speech] Is it possible to do in a way like to I,"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2238",
+      "segmentId" : "100043",
+      "start" : 68.993,
+      "end" : 79.094
+    }, {
+      "transcriptionData" : {
+        "content" : "to, I make it, I I decide the date to when ready to come back [no-speech] [bg-speech] or if I buy"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2238",
+      "segmentId" : "100008",
+      "start" : 79.283,
+      "end" : 86.456
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100045",
+      "start" : 86.456,
+      "end" : 87.583
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] Yeah, I would like to buy a new booking, okay, [bg-speech] to do, but I'm not"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2238",
+      "segmentId" : "100010",
+      "start" : 88.383,
+      "end" : 93.800
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100046",
+      "start" : 93.800,
+      "end" : 94.142
+    }, {
+      "transcriptionData" : {
+        "content" : "the date that I'm returning."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2238",
+      "segmentId" : "100047",
+      "start" : 94.142,
+      "end" : 95.639
+    }, {
+      "transcriptionData" : {
+        "content" : "So my question is, is it possible just to have the date to go and then after I decide the [noise] date to come back?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2238",
+      "segmentId" : "100011",
+      "start" : 97.107,
+      "end" : 103.587
+    }, {
+      "transcriptionData" : {
+        "content" : "#uh No worries Miss. You can [noise] book n~. [noise] You can"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281077",
+      "segmentId" : "100012",
+      "start" : 105.157,
+      "end" : 108.430
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100048",
+      "start" : 108.430,
+      "end" : 109.190
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] [noise] It's possible?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2238",
+      "segmentId" : "100013",
+      "start" : 109.624,
+      "end" : 112.413
+    }, {
+      "transcriptionData" : {
+        "content" : "You can. You can book now, #uh one way and then you're planning to return, you can call us back, we'll book you a new flight to return."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281077",
+      "segmentId" : "100014",
+      "start" : 113.484,
+      "end" : 120.445
+    }, {
+      "transcriptionData" : {
+        "content" : "Oh, yeah. Okay, then I can, but I can, I can pay already. Go and then return (())"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2238",
+      "segmentId" : "100015",
+      "start" : 121.846,
+      "end" : 127.095
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100049",
+      "start" : 127.095,
+      "end" : 127.404
+    }, {
+      "transcriptionData" : {
+        "content" : "You can #uh you can book a flight for going, and when you are, when you will be planning [noise] to come back, you can [bg-speech] [noise] call us back and we will book the flight for you."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281077",
+      "segmentId" : "100016",
+      "start" : 127.410,
+      "end" : 136.944
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay and the and the price is gonna be more or all the same?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2238",
+      "segmentId" : "100017",
+      "start" : 137.524,
+      "end" : 141.353
+    }, {
+      "transcriptionData" : {
+        "content" : "It will depend on the seat, Miss. It will depend on seats. [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281077",
+      "segmentId" : "100018",
+      "start" : 142.004,
+      "end" : 146.344
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] Depend (()) the day?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2238",
+      "segmentId" : "100019",
+      "start" : 146.484,
+      "end" : 148.504
+    }, {
+      "transcriptionData" : {
+        "content" : "It will depend on. It will depend on seat. [bg-speech]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281077",
+      "segmentId" : "100020",
+      "start" : 150.365,
+      "end" : 152.896
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay, but if I if I just (()) because usually if I I choose the return day, [bg-speech] if I change I need to pay hun~ (()) to pay"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2238",
+      "segmentId" : "100021",
+      "start" : 154.499,
+      "end" : 165.155
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100062",
+      "start" : 165.155,
+      "end" : 168.524
+    }, {
+      "transcriptionData" : {
+        "content" : "sixty-two, there will be #uh there will be no change penalty charged, but there will be a fare difference like #uh #um"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281077",
+      "segmentId" : "100050",
+      "start" : 168.524,
+      "end" : 176.305
+    }, {
+      "transcriptionData" : {
+        "content" : "every flight have the different fares, so if y~ and every flight is having the fares according to the seat, so there will be the fare difference [noise] if"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281077",
+      "segmentId" : "100023",
+      "start" : 177.685,
+      "end" : 188.407
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100051",
+      "start" : 188.407,
+      "end" : 189.165
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay. Then (()) what price they gonna charge me now? Right now, if I take (()) only the way to go (()) go and come back and take only the way the date of to go, [noise] they gonna charge me right now the minimum price?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2238",
+      "segmentId" : "100024",
+      "start" : 190.165,
+      "end" : 205.092
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] [bg-speech] E~ if you want to book a flight, then I can help you with that."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281077",
+      "segmentId" : "100026",
+      "start" : 208.125,
+      "end" : 211.826
+    }, {
+      "transcriptionData" : {
+        "content" : "Oh yeah. Okay. [bg-speech] #uh I I mean, right, #er #um but it's possible to do that and you can do all these things over the phone."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2238",
+      "segmentId" : "100027",
+      "start" : 213.410,
+      "end" : 220.105
+    }, {
+      "transcriptionData" : {
+        "content" : "#uh You have to do over the phone, Miss. We we are not booking the flight at the airport [noise] nowadays [bg-speech] after C O V I D."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281077",
+      "segmentId" : "100028",
+      "start" : 221.743,
+      "end" : 228.646
+    }, {
+      "transcriptionData" : {
+        "content" : "Sorry?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2238",
+      "segmentId" : "100052",
+      "start" : 229.705,
+      "end" : 230.311
+    }, {
+      "transcriptionData" : {
+        "content" : "[bg-speech] [noise] You have to book the flight over the phone."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281077",
+      "segmentId" : "100053",
+      "start" : 230.846,
+      "end" : 234.217
+    }, {
+      "transcriptionData" : {
+        "content" : "#uh Yeah. Okay. [bg-speech] #uh Why? Because of the C O V I D?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2238",
+      "segmentId" : "100029",
+      "start" : 235.489,
+      "end" : 239.265
+    }, {
+      "transcriptionData" : {
+        "content" : "Yes."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281077",
+      "segmentId" : "100054",
+      "start" : 240.105,
+      "end" : 240.690
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100055",
+      "start" : 242.245,
+      "end" : 243.083
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] Yeah, no, just because, I mean, what if I start to do right now? I was just wondering if it's possible or not because I (()) in few minutes, my doctor is gonna call me back because (()) wait for an appointment."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2238",
+      "segmentId" : "100030",
+      "start" : 243.383,
+      "end" : 256.087
+    }, {
+      "transcriptionData" : {
+        "content" : "I think I I rather do after I finish my appointment [noise] to avoid"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2238",
+      "segmentId" : "100031",
+      "start" : 256.846,
+      "end" : 261.472
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100056",
+      "start" : 261.472,
+      "end" : 262.525
+    }, {
+      "transcriptionData" : {
+        "content" : "option. [bg-speech] I can give you option if you are not #uh [noise] confirmed to come back. I can give you (()) option to"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281077",
+      "segmentId" : "100032",
+      "start" : 262.525,
+      "end" : 270.076
+    }, {
+      "transcriptionData" : {
+        "content" : "like #uh you can book a one way right now and #uh rest you can book #uh when you will be planning to come back. [bg-speech] [noise]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281077",
+      "segmentId" : "100033",
+      "start" : 270.835,
+      "end" : 280.586
+    }, {
+      "transcriptionData" : {
+        "content" : "Okay."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2238",
+      "segmentId" : "100034",
+      "start" : 280.741,
+      "end" : 281.421
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100057",
+      "start" : 281.526,
+      "end" : 282.526
+    }, {
+      "transcriptionData" : {
+        "content" : "(())."
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281077",
+      "segmentId" : "100058",
+      "start" : 282.546,
+      "end" : 283.114
+    }, {
+      "transcriptionData" : {
+        "content" : "Let's say because I was"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2238",
+      "segmentId" : "100059",
+      "start" : 283.266,
+      "end" : 284.472
+    }, {
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Crosstalk",
+      "segmentId" : "100060",
+      "start" : 284.472,
+      "end" : 284.950
+    }, {
+      "transcriptionData" : {
+        "content" : "(()) I saw the price in the online, okay? #uh Online booking [noise] #uh in the [redacted-name-Company]. This is [redacted-name-Company], right?"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2238",
+      "segmentId" : "100061",
+      "start" : 284.950,
+      "end" : 293.684
+    }, {
+      "transcriptionData" : {
+        "content" : "This is the booking reservation desk [noise] to book on [redacted-name-Company]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281077",
+      "segmentId" : "100035",
+      "start" : 294.879,
+      "end" : 299.146
+    }, {
+      "transcriptionData" : {
+        "content" : "Yes, so I found the price (()) sun~ #uh sun~, this Sunday at night, from [redacted-location] to to #uh [redacted-location]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2238",
+      "segmentId" : "100036",
+      "start" : 299.206,
+      "end" : 311.026
+    }, {
+      "transcriptionData" : {
+        "content" : "[noise] [redacted-location]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "US281077",
+      "segmentId" : "100037",
+      "start" : 311.306,
+      "end" : 313.526
+    }, {
+      "transcriptionData" : {
+        "content" : "[redacted-location]"
+      },
+      "loudnessLevel" : "Normal",
+      "primaryType" : "Speech",
+      "language" : [ "en_IN" ],
+      "speakerId" : "RC_2238",
+      "segmentId" : "100038",
+      "start" : 313.666,
+      "end" : 314.886
+    } ],
+    "speakers" : [ {
+      "speakerId" : "RC_2237",
+      "gender" : "Female",
+      "speakerNativity" : "Unknown",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "Agent",
+      "country" : "India",
+      "city" : "Mumbai",
+      "age" : "28"
+    }, {
+      "speakerId" : "US281077",
+      "gender" : "Male",
+      "speakerNativity" : "Unknown",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "Agent",
+      "country" : "India",
+      "city" : "Mumbai",
+      "age" : "59"
+    }, {
+      "speakerId" : "RC_2238",
+      "gender" : "Female",
+      "speakerNativity" : "Unknown",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "Customer",
+      "country" : "USA",
+      "city" : "Los Angeles",
+      "age" : "37"
+    }, {
+      "speakerId" : "8a8fbfc4-a90d-461f-b398-38f7559322f6",
+      "gender" : "Female",
+      "speakerNativity" : "Native",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "IVR",
+      "country" : "USA",
+      "city" : "LA",
+      "age" : "20"
+    }, {
+      "gender" : "Male",
+      "speakerNativity" : "Native",
+      "languages" : [ "en_IN" ],
+      "speakerName" : "Speaker4",
+      "country" : "USA",
+      "city" : "Los Angeles",
+      "age" : "28"
+    } ],
+    "taskStatus" : {
+      "segmentation" : {
+        "workflowStatus" : "COMPLETE",
+        "workflowType" : "LABEL"
+      },
+      "transcription" : {
+        "workflowStatus" : "COMPLETE",
+        "workflowType" : "LABEL"
+      },
+      "speakerId" : {
+        "workflowStatus" : "COMPLETE",
+        "workflowType" : "LABEL"
+      }
+    },
+    "conventionInfo" : {
+      "masterConventionName" : "TranscriptionGuidelines.2.9:en_US",
+      "customAddendum" : "en_US"
+    },
+    "annotatorInfo" : {
+      "loginEncrypted" : "N/A",
+      "annotatorId" : "42327"
+    },
+    "primaryVariety" : "N/A",
+    "otherLanguages" : [ "N/A" ],
+    "primaryLanguage" : "en_IN"
+  },
+  "type" : {
+    "name" : "MULTI_SPEAKER_LONG_FORM_TRANSCRIPTION",
+    "version" : "21.0"
+  }
+}
