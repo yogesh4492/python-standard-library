@@ -10,7 +10,7 @@
         ],
         "speakerId": "DECA3131",
         "segmentId": "100001",
-        "start": "2",
+        "start": 2.0,
         "end": 3.012
     },
     {
@@ -24,7 +24,7 @@
         ],
         "speakerId": "DECA3382",
         "segmentId": "100002",
-        "start": "5.856",
+        "start": 5.856,
         "end": 4.413
     },
     {
@@ -38,7 +38,7 @@
         ],
         "speakerId": "DECA3131",
         "segmentId": "100003",
-        "start": "7.797",
+        "start": 7.797,
         "end": 10.758
     },
     {
@@ -52,7 +52,7 @@
         ],
         "speakerId": "DECA3382",
         "segmentId": "100004",
-        "start": "13.433",
+        "start": 13.433,
         "end": 11.99
     },
     {
@@ -66,7 +66,7 @@
         ],
         "speakerId": "DECA3131",
         "segmentId": "100005",
-        "start": "15.424",
+        "start": 15.424,
         "end": 16.043
     },
     {
@@ -80,7 +80,7 @@
         ],
         "speakerId": "DECA3382",
         "segmentId": "100006",
-        "start": "18.934",
+        "start": 18.934,
         "end": 17.862
     },
     {
@@ -94,7 +94,7 @@
         ],
         "speakerId": "DECA3131",
         "segmentId": "100007",
-        "start": "21.128",
+        "start": 21.128,
         "end": 21.119
     },
     {
@@ -108,7 +108,7 @@
         ],
         "speakerId": "DECA3382",
         "segmentId": "100008",
-        "start": "23.743",
+        "start": 23.743,
         "end": 22.267
     },
     {
@@ -122,7 +122,7 @@
         ],
         "speakerId": "DECA3131",
         "segmentId": "100009",
-        "start": "25.65",
+        "start": 25.65,
         "end": 29.283
     },
     {
@@ -136,7 +136,7 @@
         ],
         "speakerId": "DECA3382",
         "segmentId": "100010",
-        "start": "32.46",
+        "start": 32.46,
         "end": 32.602
     },
     {
@@ -150,7 +150,7 @@
         ],
         "speakerId": "DECA3131",
         "segmentId": "100011",
-        "start": "36.822",
+        "start": 36.822,
         "end": 39.698
     },
     {
@@ -164,14 +164,14 @@
         ],
         "speakerId": "DECA3382",
         "segmentId": "100012",
-        "start": "44.095",
+        "start": 44.095,
         "end": 45.811
     },
     {
         "loudnessLevel": "Normal",
         "primaryType": "Crosstalk",
         "segmentId": "100073",
-        "start": "47.811",
+        "start": 47.811,
         "end": 46.563
     },
     {
@@ -185,7 +185,7 @@
         ],
         "speakerId": "DECA3382",
         "segmentId": "100074",
-        "start": "48.642",
+        "start": 48.642,
         "end": 48.187
     },
     {
@@ -199,7 +199,7 @@
         ],
         "speakerId": "DECA3131",
         "segmentId": "100013",
-        "start": "51.334",
+        "start": 51.334,
         "end": 53.03
     },
     {
@@ -213,7 +213,7 @@
         ],
         "speakerId": "DECA3382",
         "segmentId": "100014",
-        "start": "55.789",
+        "start": 55.789,
         "end": 55.375
     },
     {
@@ -227,7 +227,7 @@
         ],
         "speakerId": "DECA3131",
         "segmentId": "100015",
-        "start": "60.524",
+        "start": 60.524,
         "end": 65.264
     },
     {
@@ -241,7 +241,7 @@
         ],
         "speakerId": "c86dd3a9-eb10-4b29-9af8-921500c0f770",
         "segmentId": "100016",
-        "start": "79.38",
+        "start": 79.38,
         "end": 79.604
     },
     {
@@ -255,21 +255,21 @@
         ],
         "speakerId": "DECA3131",
         "segmentId": "100017",
-        "start": "89.607",
+        "start": 89.607,
         "end": 87.995
     },
     {
         "loudnessLevel": "Normal",
         "primaryType": "Crosstalk",
         "segmentId": "100018",
-        "start": "92.273",
+        "start": 92.273,
         "end": 91.032
     },
     {
         "loudnessLevel": "Normal",
         "primaryType": "Crosstalk",
         "segmentId": "100019",
-        "start": "94.112",
+        "start": 94.112,
         "end": 93.201
     },
     {
@@ -283,7 +283,7 @@
         ],
         "speakerId": "DECA3131",
         "segmentId": "100075",
-        "start": "95.201",
+        "start": 95.201,
         "end": 93.73
     },
     {
@@ -297,21 +297,21 @@
         ],
         "speakerId": "DECA3131",
         "segmentId": "100049",
-        "start": "96.205",
+        "start": 96.205,
         "end": 95.24
     },
     {
         "loudnessLevel": "Normal",
         "primaryType": "Crosstalk",
         "segmentId": "100080",
-        "start": "97.24",
+        "start": 97.24,
         "end": 96.325
     },
     {
         "loudnessLevel": "Normal",
         "primaryType": "Crosstalk",
         "segmentId": "100077",
-        "start": "99.024",
+        "start": 99.024,
         "end": 97.597
     },
     {
@@ -325,7 +325,7 @@
         ],
         "speakerId": "DECA3131",
         "segmentId": "100020",
-        "start": "99.598",
+        "start": 99.598,
         "end": 109.105
     },
     {
@@ -339,7 +339,7 @@
         ],
         "speakerId": "cc8bed38-e765-4c74-a1d2-fd79dc56063c",
         "segmentId": "100021",
-        "start": "112.557",
+        "start": 112.557,
         "end": 111.029
     },
     {
@@ -353,7 +353,7 @@
         ],
         "speakerId": "DECA3131",
         "segmentId": "100022",
-        "start": "114.511",
+        "start": 114.511,
         "end": 114.868
     },
     {
@@ -367,7 +367,7 @@
         ],
         "speakerId": "cc8bed38-e765-4c74-a1d2-fd79dc56063c",
         "segmentId": "100069",
-        "start": "117.465",
+        "start": 117.465,
         "end": 116.365
     },
     {
@@ -381,7 +381,7 @@
         ],
         "speakerId": "cc8bed38-e765-4c74-a1d2-fd79dc56063c",
         "segmentId": "100024",
-        "start": "118.834",
+        "start": 118.834,
         "end": 117.844
     },
     {
@@ -395,7 +395,7 @@
         ],
         "speakerId": "DECA3382",
         "segmentId": "100051",
-        "start": "119.844",
+        "start": 119.844,
         "end": 118.572
     },
     {
@@ -409,7 +409,7 @@
         ],
         "speakerId": "cc8bed38-e765-4c74-a1d2-fd79dc56063c",
         "segmentId": "100025",
-        "start": "121.855",
+        "start": 121.855,
         "end": 121.045
     },
     {
@@ -423,7 +423,7 @@
         ],
         "speakerId": "DECA3382",
         "segmentId": "100052",
-        "start": "123.619",
+        "start": 123.619,
         "end": 122.251
     },
     {
@@ -437,7 +437,7 @@
         ],
         "speakerId": "cc8bed38-e765-4c74-a1d2-fd79dc56063c",
         "segmentId": "100026",
-        "start": "125.719",
+        "start": 125.719,
         "end": 137.469
     },
     {
@@ -451,7 +451,7 @@
         ],
         "speakerId": "cc8bed38-e765-4c74-a1d2-fd79dc56063c",
         "segmentId": "100027",
-        "start": "139.489",
+        "start": 139.489,
         "end": 142.435
     },
     {
@@ -465,7 +465,7 @@
         ],
         "speakerId": "DECA3382",
         "segmentId": "100053",
-        "start": "144.435",
+        "start": 144.435,
         "end": 144.921
     },
     {
@@ -479,7 +479,7 @@
         ],
         "speakerId": "cc8bed38-e765-4c74-a1d2-fd79dc56063c",
         "segmentId": "100054",
-        "start": "147.706",
+        "start": 147.706,
         "end": 148.51
     },
     {
@@ -493,7 +493,7 @@
         ],
         "speakerId": "DECA3382",
         "segmentId": "100070",
-        "start": "150.946",
+        "start": 150.946,
         "end": 149.622
     },
     {
@@ -507,7 +507,7 @@
         ],
         "speakerId": "cc8bed38-e765-4c74-a1d2-fd79dc56063c",
         "segmentId": "100028",
-        "start": "152.854",
+        "start": 152.854,
         "end": 158.161
     },
     {
@@ -521,7 +521,7 @@
         ],
         "speakerId": "DECA3382",
         "segmentId": "100030",
-        "start": "161.309",
+        "start": 161.309,
         "end": 160.166
     },
     {
@@ -535,7 +535,7 @@
         ],
         "speakerId": "cc8bed38-e765-4c74-a1d2-fd79dc56063c",
         "segmentId": "100055",
-        "start": "163.102",
+        "start": 163.102,
         "end": 166.209
     },
     {
@@ -549,7 +549,7 @@
         ],
         "speakerId": "DECA3382",
         "segmentId": "100056",
-        "start": "168.886",
+        "start": 168.886,
         "end": 167.766
     },
     {
@@ -563,14 +563,14 @@
         ],
         "speakerId": "cc8bed38-e765-4c74-a1d2-fd79dc56063c",
         "segmentId": "100057",
-        "start": "170.44",
+        "start": 170.44,
         "end": 172.226
     },
     {
         "loudnessLevel": "Normal",
         "primaryType": "Crosstalk",
         "segmentId": "100031",
-        "start": "174.346",
+        "start": 174.346,
         "end": 173.378
     },
     {
@@ -584,7 +584,7 @@
         ],
         "speakerId": "DECA3382",
         "segmentId": "100078",
-        "start": "175.394",
+        "start": 175.394,
         "end": 174.429
     },
     {
@@ -598,14 +598,14 @@
         ],
         "speakerId": "cc8bed38-e765-4c74-a1d2-fd79dc56063c",
         "segmentId": "100058",
-        "start": "176.667",
+        "start": 176.667,
         "end": 177.214
     },
     {
         "loudnessLevel": "Normal",
         "primaryType": "Crosstalk",
         "segmentId": "100079",
-        "start": "179.238",
+        "start": 179.238,
         "end": 177.727
     },
     {
@@ -619,7 +619,7 @@
         ],
         "speakerId": "DECA3382",
         "segmentId": "100059",
-        "start": "180.407",
+        "start": 180.407,
         "end": 178.937
     },
     {
@@ -633,7 +633,7 @@
         ],
         "speakerId": "cc8bed38-e765-4c74-a1d2-fd79dc56063c",
         "segmentId": "100060",
-        "start": "180.937",
+        "start": 180.937,
         "end": 181.007
     },
     {
@@ -647,7 +647,7 @@
         ],
         "speakerId": "DECA3382",
         "segmentId": "100032",
-        "start": "183.847",
+        "start": 183.847,
         "end": 185.988
     },
     {
@@ -661,7 +661,7 @@
         ],
         "speakerId": "cc8bed38-e765-4c74-a1d2-fd79dc56063c",
         "segmentId": "100033",
-        "start": "187.989",
+        "start": 187.989,
         "end": 190.901
     },
     {
@@ -675,7 +675,7 @@
         ],
         "speakerId": "cc8bed38-e765-4c74-a1d2-fd79dc56063c",
         "segmentId": "100061",
-        "start": "192.901",
+        "start": 192.901,
         "end": 192.004
     },
     {
@@ -689,7 +689,7 @@
         ],
         "speakerId": "DECA3382",
         "segmentId": "100071",
-        "start": "194.004",
+        "start": 194.004,
         "end": 193.075
     },
     {
@@ -703,7 +703,7 @@
         ],
         "speakerId": "cc8bed38-e765-4c74-a1d2-fd79dc56063c",
         "segmentId": "100034",
-        "start": "195.227",
+        "start": 195.227,
         "end": 207.075
     },
     {
@@ -717,7 +717,7 @@
         ],
         "speakerId": "cc8bed38-e765-4c74-a1d2-fd79dc56063c",
         "segmentId": "100035",
-        "start": "209.076",
+        "start": 209.076,
         "end": 219.248
     },
     {
@@ -731,7 +731,7 @@
         ],
         "speakerId": "cc8bed38-e765-4c74-a1d2-fd79dc56063c",
         "segmentId": "100036",
-        "start": "221.337",
+        "start": 221.337,
         "end": 233.244
     },
     {
@@ -745,7 +745,7 @@
         ],
         "speakerId": "cc8bed38-e765-4c74-a1d2-fd79dc56063c",
         "segmentId": "100037",
-        "start": "235.316",
+        "start": 235.316,
         "end": 244.915
     },
     {
@@ -759,7 +759,7 @@
         ],
         "speakerId": "cc8bed38-e765-4c74-a1d2-fd79dc56063c",
         "segmentId": "100038",
-        "start": "247.557",
+        "start": 247.557,
         "end": 258.479
     },
     {
@@ -773,7 +773,7 @@
         ],
         "speakerId": "cc8bed38-e765-4c74-a1d2-fd79dc56063c",
         "segmentId": "100039",
-        "start": "260.488",
+        "start": 260.488,
         "end": 268.642
     },
     {
@@ -787,7 +787,7 @@
         ],
         "speakerId": "DECA3382",
         "segmentId": "100040",
-        "start": "270.657",
+        "start": 270.657,
         "end": 274.683
     },
     {
@@ -801,7 +801,7 @@
         ],
         "speakerId": "cc8bed38-e765-4c74-a1d2-fd79dc56063c",
         "segmentId": "100041",
-        "start": "276.8",
+        "start": 276.8,
         "end": 280.576
     },
     {
@@ -815,7 +815,7 @@
         ],
         "speakerId": "DECA3382",
         "segmentId": "100062",
-        "start": "282.634",
+        "start": 282.634,
         "end": 285.485
     },
     {
@@ -829,7 +829,7 @@
         ],
         "speakerId": "cc8bed38-e765-4c74-a1d2-fd79dc56063c",
         "segmentId": "100063",
-        "start": "287.485",
+        "start": 287.485,
         "end": 285.846
     },
     {
@@ -843,7 +843,7 @@
         ],
         "speakerId": "cc8bed38-e765-4c74-a1d2-fd79dc56063c",
         "segmentId": "100043",
-        "start": "288.514",
+        "start": 288.514,
         "end": 290.127
     },
     {
@@ -857,7 +857,7 @@
         ],
         "speakerId": "DECA3382",
         "segmentId": "100044",
-        "start": "292.367",
+        "start": 292.367,
         "end": 291.693
     },
     {
@@ -871,7 +871,7 @@
         ],
         "speakerId": "cc8bed38-e765-4c74-a1d2-fd79dc56063c",
         "segmentId": "100045",
-        "start": "295.33",
+        "start": 295.33,
         "end": 294.493
     },
     {
@@ -885,7 +885,7 @@
         ],
         "speakerId": "cc8bed38-e765-4c74-a1d2-fd79dc56063c",
         "segmentId": "100072",
-        "start": "296.493",
+        "start": 296.493,
         "end": 298.058
     },
     {
@@ -899,7 +899,7 @@
         ],
         "speakerId": "DECA3382",
         "segmentId": "100064",
-        "start": "300.55",
+        "start": 300.55,
         "end": 298.886
     },
     {
@@ -913,7 +913,7 @@
         ],
         "speakerId": "cc8bed38-e765-4c74-a1d2-fd79dc56063c",
         "segmentId": "100065",
-        "start": "300.886",
+        "start": 300.886,
         "end": 299.69
     },
     {
@@ -927,7 +927,7 @@
         ],
         "speakerId": "DECA3382",
         "segmentId": "100066",
-        "start": "302.292",
+        "start": 302.292,
         "end": 301.01
     },
     {
@@ -941,7 +941,7 @@
         ],
         "speakerId": "cc8bed38-e765-4c74-a1d2-fd79dc56063c",
         "segmentId": "100067",
-        "start": "303.808",
+        "start": 303.808,
         "end": 307.302
     },
     {
@@ -955,7 +955,7 @@
         ],
         "speakerId": "DECA3382",
         "segmentId": "100046",
-        "start": "309.825",
+        "start": 309.825,
         "end": 308.247
     },
     {
@@ -969,7 +969,7 @@
         ],
         "speakerId": "cc8bed38-e765-4c74-a1d2-fd79dc56063c",
         "segmentId": "100047",
-        "start": "311.462",
+        "start": 311.462,
         "end": 312.567
     },
     {
@@ -983,7 +983,7 @@
         ],
         "speakerId": "DECA3382",
         "segmentId": "100048",
-        "start": "315.613",
+        "start": 315.613,
         "end": 320.031
     },
     {
@@ -997,7 +997,7 @@
         ],
         "speakerId": "DECA3382",
         "segmentId": "100068",
-        "start": "322.91",
+        "start": 322.91,
         "end": 322.465
     }
 ]

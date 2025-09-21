@@ -38,6 +38,7 @@ def main(csv,json,output):
         for i in read_json:
             if i['segmentId'] in segments:
                 i['start']=segments[i['segmentId']]
+                i['start']=float(i['start'])
 
     
         os.makedirs(output,exist_ok=True)
