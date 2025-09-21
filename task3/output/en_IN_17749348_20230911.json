@@ -901,4 +901,201 @@
         },
         "loudnessLevel": "Normal",
         "primaryType": "Speech",
-        
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "HJ3844",
+        "segmentId": "100047",
+        "start": "298.961",
+        "end": 300.417
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-name-Customer]. [noise] And then [redacted-name-Customer]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA3483",
+        "segmentId": "100050",
+        "start": "303.114",
+        "end": 304.431
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-name-Customer]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "HJ3844",
+        "segmentId": "100051",
+        "start": "308.07",
+        "end": 307.671
+    },
+    {
+        "transcriptionData": {
+            "content": "Yes [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA3483",
+        "segmentId": "100087",
+        "start": "309.931",
+        "end": 308.6
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay, [redacted-name-Customer] [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "HJ3844",
+        "segmentId": "100088",
+        "start": "310.6",
+        "end": 315.593
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] #um [noise] Okay. [redacted-name-Customer] can you please provide me your physical address? [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "HJ3844",
+        "segmentId": "100053",
+        "start": "319.141",
+        "end": 325.939
+    },
+    {
+        "transcriptionData": {
+            "content": "#um [redacted-location] [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA3483",
+        "segmentId": "100054",
+        "start": "328.219",
+        "end": 335.624
+    },
+    {
+        "transcriptionData": {
+            "content": "What's the city? (())"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "HJ3844",
+        "segmentId": "100055",
+        "start": "337.79",
+        "end": 337.795
+    },
+    {
+        "transcriptionData": {
+            "content": "#uh [redacted-location]. [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA3483",
+        "segmentId": "100056",
+        "start": "340.183",
+        "end": 350.97
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "100057",
+        "start": "357.092",
+        "end": 355.852
+    },
+    {
+        "transcriptionData": {
+            "content": "Wow. Those coupons really works."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA3483",
+        "segmentId": "100058",
+        "start": "359.269",
+        "end": 359.468
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] #um"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA3232",
+        "segmentId": "100089",
+        "start": "361.468",
+        "end": 360.034
+    },
+    {
+        "transcriptionData": {
+            "content": "[laugh]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA3483",
+        "segmentId": "100090",
+        "start": "362.034",
+        "end": 360.661
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] (())."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "da4023a7-1696-4e1f-95f9-c4122686d923",
+        "segmentId": "100059",
+        "start": "363.41",
+        "end": 362.83
+    },
+    {
+        "transcriptionData": {
+            "content": "Yes, [noise] street address [redacted-location] and then"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "HJ3844",
+        "segmentId": "100060",
+        "start": "365.244",
+        "end": 366.01
+    }
+]

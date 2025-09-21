@@ -1484,4 +1484,66 @@
         "primaryType": "Speech",
         "language": [
             "en_IN"
-        ]
+        ],
+        "speakerId": "RC_1396",
+        "segmentId": "200028",
+        "start": "673.93",
+        "end": 673.878
+    },
+    {
+        "transcriptionData": {
+            "content": "[bg-speech] Okay. And now Ms. [redacted-name-Customer], I'm just getting you connected to my senior verifier and he will be giving you your saving confirmation number [noise] that will stand as an approve of this reduction. [noise] So just be on line ma'am. I'm just getting you connected."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "d69a4bfb-ffd7-4e4c-a28b-807dc9bfc423",
+        "segmentId": "200029",
+        "start": "676.249",
+        "end": 688.29
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay ma'am."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "d69a4bfb-ffd7-4e4c-a28b-807dc9bfc423",
+        "segmentId": "200030",
+        "start": "690.33",
+        "end": 688.964
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay, thank you."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_1396",
+        "segmentId": "200031",
+        "start": "691.335",
+        "end": 690.567
+    },
+    {
+        "transcriptionData": {
+            "content": "[bg-speech] Yes, thank you, ma'am. Here we go, ma'am."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "d69a4bfb-ffd7-4e4c-a28b-807dc9bfc423",
+        "segmentId": "200032",
+        "start": "692.989",
+        "end": 692.812
+    }
+]
