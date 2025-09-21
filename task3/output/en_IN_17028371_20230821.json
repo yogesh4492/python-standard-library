@@ -1,0 +1,4503 @@
+[
+    {
+        "transcriptionData": {
+            "content": "[noise] Reservations. You're talking to [redacted-name-Agent]. How can I help you?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100001",
+        "start": "2.004",
+        "end": 5.493
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] [bg-speech] Is this [redacted-name-Company]?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "100002",
+        "start": "7.86",
+        "end": 8.632
+    },
+    {
+        "transcriptionData": {
+            "content": "[bg-speech] [noise] This is [redacted-name-Company]. What can I do for you? [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100003",
+        "start": "10.8",
+        "end": 11.497
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Okay, #uh I need to book [noise] a ticket from [redacted-location] to [redacted-location]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "100004",
+        "start": "14.18",
+        "end": 18.642
+    },
+    {
+        "transcriptionData": {
+            "content": "[bg-speech] [noise] Okay. [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100005",
+        "start": "21.76",
+        "end": 22.913
+    },
+    {
+        "transcriptionData": {
+            "content": "#uh It's for #uh [noise] for [redacted-name-Customer]. Born in [redacted-dob], two children."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "100006",
+        "start": "24.96",
+        "end": 31.815
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] No problem."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100007",
+        "start": "34.14",
+        "end": 33.542
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Is this <initial>U S</initial> dollars or Canadian?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "100008",
+        "start": "38.991",
+        "end": 40.103
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] I will check that for you. I'll give you the price in both <initial>U S</initial> dollars and Canadian, okay?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100009",
+        "start": "42.364",
+        "end": 44.997
+    },
+    {
+        "transcriptionData": {
+            "content": "#uh I need just Canadian. [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "100010",
+        "start": "47.02",
+        "end": 47.131
+    },
+    {
+        "transcriptionData": {
+            "content": "No problem. [noise] Give you in Canadian. [noise] [redacted-location]. What would be the departure da~ date?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100011",
+        "start": "49.3",
+        "end": 56.354
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] The departure date from [redacted-location] would be [redacted-other-date]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "100012",
+        "start": "58.869",
+        "end": 63.9
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] [redacted-other-date]?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100013",
+        "start": "66.16",
+        "end": 66.337
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Yeah."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "100076",
+        "start": "68.337",
+        "end": 67.443
+    },
+    {
+        "transcriptionData": {
+            "content": "And is there any return [noise] as well?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100077",
+        "start": "69.443",
+        "end": 69.787
+    },
+    {
+        "transcriptionData": {
+            "content": "#um Return would be, #uh [noise] [bg-speech] Oh my gosh, I have it marked down. Return would be [redacted-other-date]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "100014",
+        "start": "72.08",
+        "end": 79.042
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-other-date], okay. [noise] [bg-speech]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100015",
+        "start": "83.48",
+        "end": 87.9
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "100016",
+        "start": "90.4",
+        "end": 102.315
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "100017",
+        "start": "104.372",
+        "end": 112.419
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "100018",
+        "start": "114.43",
+        "end": 125.39
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "100019",
+        "start": "127.391",
+        "end": 128.849
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "100020",
+        "start": "130.877",
+        "end": 135.58
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] All right Miss, as per checking I have got the flights available here. #uh"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100021",
+        "start": "137.72",
+        "end": 140.543
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100088",
+        "start": "142.543",
+        "end": 141.37
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] #um the one that you are talking about [redacted-name-Company], #uh don't see any flight available with [redacted-name-Company] leaving on [redacted-other-date] [redacted-other-date]. [noise] But we have got a"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100022",
+        "start": "143.371",
+        "end": 151.623
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100023",
+        "start": "153.625",
+        "end": 152.242
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-name-Company] okay, thats a partner [noise] airline. It's one of the same thing operated by [redacted-name-Company], [noise] but it's an [redacted-name-Company] flight. Its a better flight, longer flight, [noise] and #uh"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100089",
+        "start": "154.242",
+        "end": 162.643
+    },
+    {
+        "transcriptionData": {
+            "content": "you know the plane and the crew members are also #uh by Air [redacted-name-Company], which is operated by [redacted-name-Company]. [noise] So, I've got the"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100024",
+        "start": "165.093",
+        "end": 168.763
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100025",
+        "start": "170.764",
+        "end": 169.519
+    },
+    {
+        "transcriptionData": {
+            "content": "six thirty <initial>A M</initial>. I have got an afternoon at one <initial>P M</initial> [noise] and I've got twelve thirty-five in the afternoon, [noise] #uh eight forty-five in the evening. [noise] These are all nonstop [noise] flights. These are all direct flights. [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100090",
+        "start": "171.519",
+        "end": 182.8
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay, one <initial>P M</initial> would be good. [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "100026",
+        "start": "184.933",
+        "end": 185.86
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100027",
+        "start": "188.16",
+        "end": 186.882
+    },
+    {
+        "transcriptionData": {
+            "content": "[bg-speech] [noise] That's the departure, right?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "100028",
+        "start": "188.924",
+        "end": 189.64
+    },
+    {
+        "transcriptionData": {
+            "content": "That's departure, yes."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100029",
+        "start": "191.653",
+        "end": 191.383
+    },
+    {
+        "transcriptionData": {
+            "content": "How much is the flight for two?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "100030",
+        "start": "194.26",
+        "end": 195.94
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] #hm"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100031",
+        "start": "198.233",
+        "end": 198.4
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Canadian"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "100032",
+        "start": "201.707",
+        "end": 201.38
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "100033",
+        "start": "203.848",
+        "end": 210.62
+    },
+    {
+        "transcriptionData": {
+            "content": "[bg-speech] Okay, Miss. The price of the flight will cost you six hundred and eighty-seven dollars. [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100034",
+        "start": "213.633",
+        "end": 218.555
+    },
+    {
+        "transcriptionData": {
+            "content": "Yes, that's good."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "100035",
+        "start": "221.788",
+        "end": 221.179
+    },
+    {
+        "transcriptionData": {
+            "content": "Yeah. But on top of that, since there are minors travelling together, there would be an unaccompanied minor fee as well. Is there any adult passenger traveling with them or they are just kids [noise] travelling together?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100036",
+        "start": "223.2",
+        "end": 232.148
+    },
+    {
+        "transcriptionData": {
+            "content": "the the [redacted-age] year old cannot gotta be escorted. No."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "100037",
+        "start": "234.16",
+        "end": 236.95
+    },
+    {
+        "transcriptionData": {
+            "content": "No, no. They they they needs to be escorted Miss."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100038",
+        "start": "238.951",
+        "end": 239.793
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100091",
+        "start": "241.793",
+        "end": 241.61
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Yes, anyone who is below the [redacted-age] years of age [noise] [redacted-age]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100040",
+        "start": "245.139",
+        "end": 249.403
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100041",
+        "start": "251.404",
+        "end": 250.01
+    },
+    {
+        "transcriptionData": {
+            "content": "So, how much [noise] ho~ how much is that fee?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "100092",
+        "start": "252.01",
+        "end": 252.796
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] #uh Well, just a"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100042",
+        "start": "255.42",
+        "end": 256.362
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100093",
+        "start": "258.362",
+        "end": 256.88
+    },
+    {
+        "transcriptionData": {
+            "content": "Last time, last time"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "100043",
+        "start": "258.881",
+        "end": 258.203
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100094",
+        "start": "260.203",
+        "end": 258.814
+    },
+    {
+        "transcriptionData": {
+            "content": "the girls, [noise] (()) last time the girls came up, just had to pay a fee for the [redacted-age] year old, [redacted-age] year old, not for the [redacted-age]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "100095",
+        "start": "260.814",
+        "end": 267.563
+    },
+    {
+        "transcriptionData": {
+            "content": "Yes. [noise] So see if there is an optional service between the age of [redacted-age] to [redacted-age] years of age, [redacted-age] to [redacted-age], [noise] they have an optional. So, if you want to take it or not, [noise] it's an optional. [noise] [bg-speech]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100044",
+        "start": "270.355",
+        "end": 283.02
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Well, I wanted both girls on the same flight."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "100045",
+        "start": "286.344",
+        "end": 287.879
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] #um #hm"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100046",
+        "start": "289.989",
+        "end": 288.892
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] See, in total #uh the total amount that you that you will have to pay, [noise] including all the taxes and fee and including the unaccompanied minor fee will cost you total of eight hundred and seventy-four Canadian dollars."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100047",
+        "start": "292.32",
+        "end": 305.144
+    },
+    {
+        "transcriptionData": {
+            "content": "Each kid?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "100048",
+        "start": "308.04",
+        "end": 306.98
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] No, no for both."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100049",
+        "start": "309.22",
+        "end": 308.783
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Eight hundred and seventy-four dollars that's for the two tickets? [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "100050",
+        "start": "315.52",
+        "end": 318.028
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100051",
+        "start": "320.676",
+        "end": 319.809
+    },
+    {
+        "transcriptionData": {
+            "content": "Two tickets Miss."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100096",
+        "start": "321.809",
+        "end": 321.273
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay, that's that's good. It's good."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "100052",
+        "start": "323.28",
+        "end": 324.312
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Shall I go ahead and book it for you?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100053",
+        "start": "326.76",
+        "end": 327.667
+    },
+    {
+        "transcriptionData": {
+            "content": "[bg-speech] #uh Yes."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "100054",
+        "start": "329.776",
+        "end": 329.114
+    },
+    {
+        "transcriptionData": {
+            "content": "[bg-speech] Okay. I would like to inform you this one <initial>P M</initial> flight that's with [redacted-name-Company]. Okay. [noise] That's also #uh because it's flight number [redacted-number-other]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100055",
+        "start": "331.21",
+        "end": 340.483
+    },
+    {
+        "transcriptionData": {
+            "content": "and the other one is [redacted-name-Company]. [noise] It's a [redacted-name-Company] [redacted-number-other]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100056",
+        "start": "343.1",
+        "end": 345.91
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Okay."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "100079",
+        "start": "347.934",
+        "end": 347.161
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Okay."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100058",
+        "start": "349.596",
+        "end": 348.3
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay. [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "100080",
+        "start": "350.3",
+        "end": 350.067
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Because [redacted-name-Company] does not operate on those dates that you've given me [redacted-name-Company] flight that I am checking here, [noise] [redacted-name-Company] flights, it's showing up like #uh more than [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100060",
+        "start": "352.326",
+        "end": 361.725
+    },
+    {
+        "transcriptionData": {
+            "content": "fifteen hundred, eighteen hundred dollars"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100086",
+        "start": "363.725",
+        "end": 364.05
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100097",
+        "start": "366.05",
+        "end": 365.154
+    },
+    {
+        "transcriptionData": {
+            "content": "So you didn't get me the girls on for [noise] with taxes included eight hundred and seventy-four dollars?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "100062",
+        "start": "367.168",
+        "end": 371.372
+    },
+    {
+        "transcriptionData": {
+            "content": "Yeah. The price that I have given you, that's #uh with [redacted-name-Company] and that's including all the taxes and fees which will cost you [noise] a total of eight hundred and seventy-four dollars."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100063",
+        "start": "373.689",
+        "end": 381.083
+    },
+    {
+        "transcriptionData": {
+            "content": "And that's a return flight or not? [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "100064",
+        "start": "384.245",
+        "end": 384.289
+    },
+    {
+        "transcriptionData": {
+            "content": "That's a return flight. Yeah, going on [redacted-other-date], come back [redacted-other-date]. [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100065",
+        "start": "386.387",
+        "end": 389.585
+    },
+    {
+        "transcriptionData": {
+            "content": "That's right. That's perfect. [bg-speech] [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "100066",
+        "start": "391.618",
+        "end": 391.972
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] All right, so let me go ahead and book that one for you. May I"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100067",
+        "start": "394.7",
+        "end": 395.563
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100098",
+        "start": "397.563",
+        "end": 396.605
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay. It's pretty long [laugh]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "100068",
+        "start": "399.84",
+        "end": 400.598
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100070",
+        "start": "402.858",
+        "end": 403.313
+    },
+    {
+        "transcriptionData": {
+            "content": "send me a text message with that with the name and the date of birth."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100087",
+        "start": "405.313",
+        "end": 406.624
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Yeah, well, I can give it to you now. But #uh like I said, it's long."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "100071",
+        "start": "409.86",
+        "end": 412.292
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100072",
+        "start": "414.342",
+        "end": 414.61
+    },
+    {
+        "transcriptionData": {
+            "content": "make any #uh mistake in that."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100099",
+        "start": "416.61",
+        "end": 416.967
+    },
+    {
+        "transcriptionData": {
+            "content": "mistake"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "100081",
+        "start": "418.967",
+        "end": 417.62
+    },
+    {
+        "transcriptionData": {
+            "content": "[bg-speech] Yeah, sometimes with the long name, #uh"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100082",
+        "start": "419.62",
+        "end": 420.601
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] You know if any mistake"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100073",
+        "start": "422.82",
+        "end": 423.191
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100100",
+        "start": "425.191",
+        "end": 423.951
+    },
+    {
+        "transcriptionData": {
+            "content": "these tickets are like most restricted tickets. These are nonchangeable and nonrefundable tickets. That is why these are cheaper."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100101",
+        "start": "425.951",
+        "end": 431.333
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100083",
+        "start": "433.333",
+        "end": 432.515
+    },
+    {
+        "transcriptionData": {
+            "content": "What is your text message then?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "100102",
+        "start": "434.515",
+        "end": 434.137
+    },
+    {
+        "transcriptionData": {
+            "content": "I've sent you a hi on your number, [redacted-number-phone-fax]. Okay. I have sent you a hi and you must have received it."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "100075",
+        "start": "436.143",
+        "end": 443.112
+    },
+    {
+        "transcriptionData": {
+            "content": "You can"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "200001",
+        "start": "445.156",
+        "end": 444.199
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "200099",
+        "start": "446.199",
+        "end": 448.117
+    },
+    {
+        "transcriptionData": {
+            "content": "#uh You're gonna hang on the phone though?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200089",
+        "start": "450.15",
+        "end": 449.947
+    },
+    {
+        "transcriptionData": {
+            "content": "Yes, I'm still on the line with you."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "200002",
+        "start": "452.02",
+        "end": 451.664
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200076",
+        "start": "453.828",
+        "end": 452.157
+    },
+    {
+        "transcriptionData": {
+            "content": "Hold on a second. Hold on."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200003",
+        "start": "454.158",
+        "end": 453.373
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Sure. [bg-speech]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "200077",
+        "start": "455.373",
+        "end": 456.213
+    },
+    {
+        "transcriptionData": {
+            "content": "[bg-speech] Put you on my speaker phone [noise] and I go to my [noise] text hi. [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200078",
+        "start": "458.213",
+        "end": 463.623
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay, I'm going to give you the the first girl [noise] [bg-speech] [redacted-number-other]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200004",
+        "start": "465.625",
+        "end": 477.805
+    },
+    {
+        "transcriptionData": {
+            "content": "I'm slow at this, you know that, [redacted-number-other]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200005",
+        "start": "482.404",
+        "end": 483.207
+    },
+    {
+        "transcriptionData": {
+            "content": "It's all right. Take your time. [noise] [bg-speech]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "200006",
+        "start": "485.208",
+        "end": 485.684
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-number-other] [bg-speech] [noise] and return her name is [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200007",
+        "start": "487.764",
+        "end": 491.72
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-name-Customer]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200009",
+        "start": "494.75",
+        "end": 496.874
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "200010",
+        "start": "500.824",
+        "end": 509.455
+    },
+    {
+        "transcriptionData": {
+            "content": "I wish to be good, [noise] #uh at least till I gets off the phone. [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200011",
+        "start": "511.767",
+        "end": 513.817
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "200012",
+        "start": "517.765",
+        "end": 524.697
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-name-Customer], I am on the phone here. [redacted-name-Customer], please."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200013",
+        "start": "527.192",
+        "end": 527.824
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "200014",
+        "start": "529.892",
+        "end": 537.715
+    },
+    {
+        "transcriptionData": {
+            "content": "You know, it would have been better if I took you a picture after (()) [laugh]  [noise] Last name is"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200015",
+        "start": "539.899",
+        "end": 545.698
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Noise",
+        "segmentId": "200090",
+        "start": "548.677",
+        "end": 550.311
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-name-Customer], I don't believe. You don't hear what I am saying. [noise] All right, that's the first one."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200016",
+        "start": "552.361",
+        "end": 561.828
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "200017",
+        "start": "563.955",
+        "end": 563.343
+    },
+    {
+        "transcriptionData": {
+            "content": "Second one now."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200018",
+        "start": "565.409",
+        "end": 564.724
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Noise",
+        "segmentId": "200091",
+        "start": "567.288",
+        "end": 578.032
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "200092",
+        "start": "580.032",
+        "end": 583.289
+    },
+    {
+        "transcriptionData": {
+            "content": "I can't concentrate with that [redacted-name-Customer]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200019",
+        "start": "585.529",
+        "end": 592.903
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Noise",
+        "segmentId": "200093",
+        "start": "595.084",
+        "end": 598.308
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] [bg-speech] [redacted-name-Customer] [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200096",
+        "start": "600.795",
+        "end": 602.342
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "200021",
+        "start": "610.644",
+        "end": 609.628
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Noise",
+        "segmentId": "200097",
+        "start": "611.637",
+        "end": 616.27
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Noise",
+        "segmentId": "200098",
+        "start": "618.27",
+        "end": 627.492
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-name-Customer] [noise] no my my nails are too long to typing this, what to do? [noise] [bg-speech]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200022",
+        "start": "629.869",
+        "end": 637.578
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-name-Customer]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200024",
+        "start": "639.698",
+        "end": 650.438
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-name-Customer]. [redacted-name-Customer] maybe it's better for you to take over and do it for me [noise] fixing. My nails are too long. [bg-speech] [redacted-name-Customer]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200025",
+        "start": "653.218",
+        "end": 665.584
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-name-Customer]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200026",
+        "start": "668.22",
+        "end": 675.432
+    },
+    {
+        "transcriptionData": {
+            "content": "Yeah. [redacted-name-Customer] with capital [redacted-name-Customer] I was oh yeah"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200079",
+        "start": "677.432",
+        "end": 679.949
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] [redacted-name-Customer] And then (())"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200027",
+        "start": "684.06",
+        "end": 688.356
+    },
+    {
+        "transcriptionData": {
+            "content": "No, don't put it all together. (()) down under. [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200082",
+        "start": "690.523",
+        "end": 692.261
+    },
+    {
+        "transcriptionData": {
+            "content": "That's another name?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "3155ef90-5708-4f77-974b-56b078324098",
+        "segmentId": "200100",
+        "start": "694.261",
+        "end": 693.3
+    },
+    {
+        "transcriptionData": {
+            "content": "Yeah, that's her last name. Go down under. Return"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200084",
+        "start": "695.31",
+        "end": 697.204
+    },
+    {
+        "transcriptionData": {
+            "content": "[bg-speech] Yeah. [redacted-name-Customer] [no-speech] [noise] [redacted-name-Customer]. [bg-speech]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200030",
+        "start": "700.764",
+        "end": 707.696
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-name-Customer] [noise] Yeah, no, [noise] we don't want to make a mistake. I don't want to make a mistake."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200032",
+        "start": "710.096",
+        "end": 716.335
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-dob]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200034",
+        "start": "718.739",
+        "end": 722.495
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "200035",
+        "start": "724.853",
+        "end": 727.262
+    },
+    {
+        "transcriptionData": {
+            "content": "[bg-speech] [redacted-dob]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200036",
+        "start": "729.363",
+        "end": 731.64
+    },
+    {
+        "transcriptionData": {
+            "content": "[bg-speech] [noise] [redacted-dob]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200038",
+        "start": "734.461",
+        "end": 740.225
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Oh oh [no-speech] [bg-speech] Hold on sir, I'm sorry, I'm (()) [laugh]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200042",
+        "start": "743.949",
+        "end": 754.36
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-dob]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200085",
+        "start": "756.389",
+        "end": 756.966
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-dob]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200043",
+        "start": "761.812",
+        "end": 763.384
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Noise",
+        "segmentId": "200094",
+        "start": "765.384",
+        "end": 768.493
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-dob]. [no-speech] You get it?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200045",
+        "start": "770.78",
+        "end": 773.913
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Yes, I got it."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "200046",
+        "start": "776.98",
+        "end": 777.609
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] [bg-speech] Okay, read it back to me, then I'll make sure I didn't make no mistake myself."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200047",
+        "start": "779.953",
+        "end": 782.57
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Noise",
+        "segmentId": "200048",
+        "start": "784.742",
+        "end": 789.043
+    },
+    {
+        "transcriptionData": {
+            "content": "You've got really long name, yeah. [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "200049",
+        "start": "791.18",
+        "end": 791.686
+    },
+    {
+        "transcriptionData": {
+            "content": "[laugh] I had trouble typing with my nails. [noise] [bg-speech]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200050",
+        "start": "793.92",
+        "end": 798.408
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay, #uh so #uh just to confirm the date of birth [bg-speech] [redacted-dob]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "200051",
+        "start": "800.417",
+        "end": 807.025
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "200052",
+        "start": "810.218",
+        "end": 814.684
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "200095",
+        "start": "816.684",
+        "end": 823.888
+    },
+    {
+        "transcriptionData": {
+            "content": "All right, so the first passenger's first name [redacted-name-Customer]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "200053",
+        "start": "825.893",
+        "end": 834.425
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-name-Customer], the last name #uh [noise] [redacted-name-Customer]. [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "200054",
+        "start": "837.56",
+        "end": 847.065
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "200055",
+        "start": "849.325",
+        "end": 848.125
+    },
+    {
+        "transcriptionData": {
+            "content": "the second passenger's first name is [redacted-name-Customer]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "200101",
+        "start": "850.125",
+        "end": 854.7
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-name-Customer]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "200056",
+        "start": "856.72",
+        "end": 861.848
+    },
+    {
+        "transcriptionData": {
+            "content": "Yes. Yeah. [noise] [bg-speech]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200057",
+        "start": "864.822",
+        "end": 864.464
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "200102",
+        "start": "866.464",
+        "end": 865.398
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-dob] [noise] and this [redacted-name-Customer] #uh [redacted-name-Customer] [redacted-dob]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200103",
+        "start": "867.398",
+        "end": 872.007
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Got you. [bg-speech] [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "200058",
+        "start": "874.401",
+        "end": 876.08
+    },
+    {
+        "transcriptionData": {
+            "content": "What is the <initial>E</initial> mail address where I can send you the"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "200059",
+        "start": "878.399",
+        "end": 879.146
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "200104",
+        "start": "881.146",
+        "end": 880.069
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Okay, <initial>E</initial> mail address is [redacted-email]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200060",
+        "start": "882.292",
+        "end": 890.485
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-email]. [bg-speech] So [redacted-email], [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200061",
+        "start": "893.185",
+        "end": 899.436
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-email]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200062",
+        "start": "901.681",
+        "end": 906.603
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "200105",
+        "start": "909.945",
+        "end": 911.109
+    },
+    {
+        "transcriptionData": {
+            "content": "Got you. [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "200086",
+        "start": "913.129",
+        "end": 912.365
+    },
+    {
+        "transcriptionData": {
+            "content": "#uh May I know which card would you be using to pay for it? [redacted-name-Company]? [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "200065",
+        "start": "914.62",
+        "end": 918.176
+    },
+    {
+        "transcriptionData": {
+            "content": "#uh It's [redacted-name-Company]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200068",
+        "start": "920.709",
+        "end": 922.201
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] #um #hm"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "200069",
+        "start": "925.455",
+        "end": 924.05
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-name-Company]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200070",
+        "start": "926.938",
+        "end": 926.937
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Okay, what's the card number?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "200071",
+        "start": "930.114",
+        "end": 929.855
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Okay. [redacted-number-other]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200072",
+        "start": "932.822",
+        "end": 934.613
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] #um #hm"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "200073",
+        "start": "936.982",
+        "end": 935.761
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-number-other]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200074",
+        "start": "938.115",
+        "end": 942.358
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] #um #hm"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "200087",
+        "start": "944.358",
+        "end": 943.131
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-number-other]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "200088",
+        "start": "945.131",
+        "end": 945.685
+    },
+    {
+        "transcriptionData": {
+            "content": "Name of the card holder?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "200075",
+        "start": "949.561",
+        "end": 949.089
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-name-Customer]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "300001",
+        "start": "952.065",
+        "end": 951.382
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "300091",
+        "start": "954.665",
+        "end": 953.489
+    },
+    {
+        "transcriptionData": {
+            "content": "go back in the [bg-speech] in the <initial>E</initial> mail that you sent me. Hold on."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "300092",
+        "start": "955.489",
+        "end": 959.473
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-name-Customer]. That's right? [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "300002",
+        "start": "961.527",
+        "end": 963.843
+    },
+    {
+        "transcriptionData": {
+            "content": "Yes, [redacted-name-Customer]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "300003",
+        "start": "966.145",
+        "end": 966.372
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "300004",
+        "start": "968.823",
+        "end": 972.964
+    },
+    {
+        "transcriptionData": {
+            "content": "Expiration date on the card? [noise] [bg-speech]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "300077",
+        "start": "974.964",
+        "end": 975.544
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-other-date]. [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "300005",
+        "start": "977.741",
+        "end": 977.928
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "300006",
+        "start": "980.159",
+        "end": 985.185
+    },
+    {
+        "transcriptionData": {
+            "content": "And the card security code?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "300007",
+        "start": "987.42",
+        "end": 987.86
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-number-other]. [noise] [bg-speech]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "300008",
+        "start": "991.086",
+        "end": 991.044
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-number-other]. [noise] [bg-speech]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "300009",
+        "start": "993.141",
+        "end": 993.286
+    },
+    {
+        "transcriptionData": {
+            "content": "Yeah. [noise] [bg-speech]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "300010",
+        "start": "995.462",
+        "end": 995.283
+    },
+    {
+        "transcriptionData": {
+            "content": "(()) #uh What is the billing address on the card? [bg-speech]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "300011",
+        "start": "997.414",
+        "end": 998.645
+    },
+    {
+        "transcriptionData": {
+            "content": "It's [redacted-location]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "300012",
+        "start": "1001.281",
+        "end": 1013.551
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] I'm sorry. The post code again. I'm sorry."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "300013",
+        "start": "1016.241",
+        "end": 1018.975
+    },
+    {
+        "transcriptionData": {
+            "content": "[laugh] Hold on. [noise] Now you got me for that now. [noise] [redacted-location] when #uh you know what? I think I forgot it, when I, hold on a second. I have (()) oh"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "300014",
+        "start": "1022.201",
+        "end": 1035.07
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] #uh Too many postal codes to remember everything."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "300015",
+        "start": "1038.319",
+        "end": 1042.156
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Noise",
+        "segmentId": "300078",
+        "start": "1044.156",
+        "end": 1048.642
+    },
+    {
+        "transcriptionData": {
+            "content": "Hold on. [noise] (()) I have it here (()) [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "300079",
+        "start": "1050.642",
+        "end": 1052.408
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "300017",
+        "start": "1054.815",
+        "end": 1055.337
+    },
+    {
+        "transcriptionData": {
+            "content": "It's #uh let me find it. [bg-speech] [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "300018",
+        "start": "1057.338",
+        "end": 1058.652
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "300019",
+        "start": "1060.705",
+        "end": 1065.321
+    },
+    {
+        "transcriptionData": {
+            "content": "Hold on a second. [noise] (()) [bg-speech] [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "300020",
+        "start": "1067.445",
+        "end": 1072.268
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay, [noise] I got it. [noise] It's [redacted-location]. [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "300022",
+        "start": "1075.155",
+        "end": 1079.88
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] [redacted-location]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "300023",
+        "start": "1083.459",
+        "end": 1088.982
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Noise",
+        "segmentId": "300080",
+        "start": "1090.982",
+        "end": 1098.905
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] #uh How do you spell #uh [redacted-location] like"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "300024",
+        "start": "1101.101",
+        "end": 1103.906
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "300025",
+        "start": "1105.907",
+        "end": 1104.631
+    },
+    {
+        "transcriptionData": {
+            "content": "Hold on. [redacted-location]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "300093",
+        "start": "1106.631",
+        "end": 1114.306
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-location]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "300026",
+        "start": "1117.277",
+        "end": 1119.108
+    },
+    {
+        "transcriptionData": {
+            "content": "Got you. [noise] All right."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "300027",
+        "start": "1121.732",
+        "end": 1122.553
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "300094",
+        "start": "1124.553",
+        "end": 1123.534
+    },
+    {
+        "transcriptionData": {
+            "content": "for the information, Miss. I've got all your details here. [noise] I'll be confirming the tickets [noise] and I'll send you an <initial>E</initial> mail with the confirmation and everything. [noise] #um [bg-speech]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "300095",
+        "start": "1125.534",
+        "end": 1132.027
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "300028",
+        "start": "1134.102",
+        "end": 1132.658
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] So, please stay connected with me while I do that, okay? Please sta~"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "300029",
+        "start": "1134.852",
+        "end": 1136.557
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "300096",
+        "start": "1138.557",
+        "end": 1137.346
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300030",
+        "start": "1140.924",
+        "end": 1149.81
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300076",
+        "start": "1151.81",
+        "end": 1157.301
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300031",
+        "start": "1159.313",
+        "end": 1163.285
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "300032",
+        "start": "1165.286",
+        "end": 1164.846
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300033",
+        "start": "1166.847",
+        "end": 1172.421
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300034",
+        "start": "1174.956",
+        "end": 1183.465
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "300083",
+        "start": "1185.465",
+        "end": 1188.715
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "300081",
+        "start": "1191.442",
+        "end": 1191.066
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300082",
+        "start": "1193.076",
+        "end": 1197.261
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300036",
+        "start": "1199.425",
+        "end": 1204.921
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300037",
+        "start": "1207.963",
+        "end": 1219.963
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300038",
+        "start": "1221.964",
+        "end": 1233.964
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300039",
+        "start": "1235.965",
+        "end": 1243.527
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300040",
+        "start": "1245.61",
+        "end": 1251.543
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300041",
+        "start": "1253.546",
+        "end": 1259.542
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300042",
+        "start": "1261.563",
+        "end": 1264.541
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "300084",
+        "start": "1266.541",
+        "end": 1265.457
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300085",
+        "start": "1267.457",
+        "end": 1274.132
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300043",
+        "start": "1276.133",
+        "end": 1283.217
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300044",
+        "start": "1285.223",
+        "end": 1298.177
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300045",
+        "start": "1300.501",
+        "end": 1313.434
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300046",
+        "start": "1315.454",
+        "end": 1323.768
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300047",
+        "start": "1329.934",
+        "end": 1342.255
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300048",
+        "start": "1347.055",
+        "end": 1359.958
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300049",
+        "start": "1361.959",
+        "end": 1373.959
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300050",
+        "start": "1375.96",
+        "end": 1386.765
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300051",
+        "start": "1388.779",
+        "end": 1400.779
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300052",
+        "start": "1402.78",
+        "end": 1412.986
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300053",
+        "start": "1415.041",
+        "end": 1424.984
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300054",
+        "start": "1426.987",
+        "end": 1431.447
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300055",
+        "start": "1433.448",
+        "end": 1446.057
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300056",
+        "start": "1448.136",
+        "end": 1457.437
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300057",
+        "start": "1459.452",
+        "end": 1471.452
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300058",
+        "start": "1473.453",
+        "end": 1472.993
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300059",
+        "start": "1474.994",
+        "end": 1486.993
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300060",
+        "start": "1488.994",
+        "end": 1498.525
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300061",
+        "start": "1500.525",
+        "end": 1512.525
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300062",
+        "start": "1514.526",
+        "end": 1525.846
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300063",
+        "start": "1527.874",
+        "end": 1540.627
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300064",
+        "start": "1542.743",
+        "end": 1555.455
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300065",
+        "start": "1557.456",
+        "end": 1569.456
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300066",
+        "start": "1571.457",
+        "end": 1583.456
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300067",
+        "start": "1585.457",
+        "end": 1597.456
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300068",
+        "start": "1599.457",
+        "end": 1611.456
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300069",
+        "start": "1613.457",
+        "end": 1621.658
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300070",
+        "start": "1623.797",
+        "end": 1635.797
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300071",
+        "start": "1637.798",
+        "end": 1646.661
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300072",
+        "start": "1651.181",
+        "end": 1662.2
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300088",
+        "start": "1664.2",
+        "end": 1677.012
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300073",
+        "start": "1679.08",
+        "end": 1690.078
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300089",
+        "start": "1692.078",
+        "end": 1700.882
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300074",
+        "start": "1702.958",
+        "end": 1712.702
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "300090",
+        "start": "1714.702",
+        "end": 1719.756
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Hi, Thank you very much for holding the line, Miss. I am sorry for keeping you waiting. [noise] [bg-speech]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "300075",
+        "start": "1721.796",
+        "end": 1726.416
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "400001",
+        "start": "1728.507",
+        "end": 1727.435
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Okay. #uh Miss #uh as I am checking it here, unfortunately the fare that I told you for eight seventy-six [noise] #uh its showing expired on my end. #um"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "400002",
+        "start": "1729.621",
+        "end": 1739.247
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "400113",
+        "start": "1741.248",
+        "end": 1740.001
+    },
+    {
+        "transcriptionData": {
+            "content": "for now nine hundred and seventy-four dollars for two passengers"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "400003",
+        "start": "1742.061",
+        "end": 1744.013
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "400114",
+        "start": "1746.013",
+        "end": 1745.287
+    },
+    {
+        "transcriptionData": {
+            "content": "Yes."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "400115",
+        "start": "1747.288",
+        "end": 1746.365
+    },
+    {
+        "transcriptionData": {
+            "content": "For two passengers?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400004",
+        "start": "1748.418",
+        "end": 1747.735
+    },
+    {
+        "transcriptionData": {
+            "content": "Yes, for two passengers"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "400005",
+        "start": "1749.941",
+        "end": 1749.727
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "400116",
+        "start": "1751.727",
+        "end": 1751.989
+    },
+    {
+        "transcriptionData": {
+            "content": "with all the taxes and fee everything included."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "400117",
+        "start": "1753.989",
+        "end": 1754.247
+    },
+    {
+        "transcriptionData": {
+            "content": "Yes, that's good."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400006",
+        "start": "1756.758",
+        "end": 1756.342
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay. I'm going to send you an <initial>E</initial> mail right now, Miss, with the authorization, so we don't lose the price and so it's gonna take another couple of minutes. Stay connected with"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "400007",
+        "start": "1758.757",
+        "end": 1766.768
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "400118",
+        "start": "1768.826",
+        "end": 1767.359
+    },
+    {
+        "transcriptionData": {
+            "content": "right back, okay. Please bear with me."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "400119",
+        "start": "1769.359",
+        "end": 1768.981
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay. [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400008",
+        "start": "1771.059",
+        "end": 1769.997
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "400009",
+        "start": "1772.061",
+        "end": 1776.424
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "400084",
+        "start": "1778.424",
+        "end": 1777.402
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "400010",
+        "start": "1779.518",
+        "end": 1779.145
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Can you get me some water."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400085",
+        "start": "1781.145",
+        "end": 1780.527
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "400086",
+        "start": "1782.527",
+        "end": 1788.849
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "400076",
+        "start": "1790.849",
+        "end": 1795.061
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "400011",
+        "start": "1797.121",
+        "end": 1797.21
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] (()) for you."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400087",
+        "start": "1799.21",
+        "end": 1802.101
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "400088",
+        "start": "1804.101",
+        "end": 1807.952
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "400077",
+        "start": "1809.952",
+        "end": 1819.684
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "400078",
+        "start": "1821.689",
+        "end": 1821.961
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "400012",
+        "start": "1824.045",
+        "end": 1828.096
+    },
+    {
+        "transcriptionData": {
+            "content": "(()) [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400013",
+        "start": "1830.516",
+        "end": 1830.786
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "400089",
+        "start": "1832.786",
+        "end": 1832.641
+    },
+    {
+        "transcriptionData": {
+            "content": "I accidently accepted it [laugh]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400014",
+        "start": "1834.659",
+        "end": 1834.779
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "400090",
+        "start": "1836.779",
+        "end": 1836.594
+    },
+    {
+        "transcriptionData": {
+            "content": "(())."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400091",
+        "start": "1838.594",
+        "end": 1837.804
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "400092",
+        "start": "1839.804",
+        "end": 1839.777
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "400094",
+        "start": "1841.791",
+        "end": 1843.902
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "400079",
+        "start": "1845.902",
+        "end": 1850.001
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "400015",
+        "start": "1852.453",
+        "end": 1851.357
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] (()) I got (())"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400095",
+        "start": "1853.357",
+        "end": 1853.19
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "400096",
+        "start": "1855.19",
+        "end": 1859.658
+    },
+    {
+        "transcriptionData": {
+            "content": "#uh (())"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400097",
+        "start": "1861.658",
+        "end": 1861.242
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "400098",
+        "start": "1863.242",
+        "end": 1863.114
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "400080",
+        "start": "1865.114",
+        "end": 1866.467
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "400100",
+        "start": "1868.546",
+        "end": 1868.172
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Did your phone ring?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400016",
+        "start": "1870.543",
+        "end": 1870.016
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "400101",
+        "start": "1872.016",
+        "end": 1871.662
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] It's calling you"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400102",
+        "start": "1873.662",
+        "end": 1883.061
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] [bg-speech] I asked (()) [bg-speech]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400017",
+        "start": "1885.95",
+        "end": 1891.521
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "400018",
+        "start": "1893.761",
+        "end": 1894.438
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "400103",
+        "start": "1896.438",
+        "end": 1895.219
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "400104",
+        "start": "1897.268",
+        "end": 1897.515
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "400105",
+        "start": "1899.515",
+        "end": 1899.944
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] (()) Just send it to back (()) [bg-speech] [laugh]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400019",
+        "start": "1901.975",
+        "end": 1911.085
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] what [bg-speech]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400020",
+        "start": "1913.318",
+        "end": 1918.18
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "400106",
+        "start": "1920.18",
+        "end": 1924.113
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] (()) another baby"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400021",
+        "start": "1926.137",
+        "end": 1926.56
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "400022",
+        "start": "1929.1",
+        "end": 1928.85
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "400107",
+        "start": "1930.85",
+        "end": 1938.937
+    },
+    {
+        "transcriptionData": {
+            "content": "say do something (()) [bg-speech] (())"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400024",
+        "start": "1942.887",
+        "end": 1945.342
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "400025",
+        "start": "1947.918",
+        "end": 1947.991
+    },
+    {
+        "transcriptionData": {
+            "content": "(()) [music]  [noise] (()) long"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400108",
+        "start": "1949.991",
+        "end": 1957.066
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "400026",
+        "start": "1959.066",
+        "end": 1963.321
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "400109",
+        "start": "1967.865",
+        "end": 1974.081
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "400028",
+        "start": "1976.102",
+        "end": 1987.861
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "400081",
+        "start": "1989.861",
+        "end": 1992.361
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "400029",
+        "start": "1994.457",
+        "end": 2000.949
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] #um (()) [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400110",
+        "start": "2002.949",
+        "end": 2014.74
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "400031",
+        "start": "2018.866",
+        "end": 2019.731
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "400111",
+        "start": "2021.731",
+        "end": 2031.86
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "400032",
+        "start": "2034.064",
+        "end": 2041.985
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] [redacted-name-Customer] [music] (()) [bg-speech]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400033",
+        "start": "2044.333",
+        "end": 2050.964
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] (()) [bg-speech]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400035",
+        "start": "2052.968",
+        "end": 2054.921
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "400036",
+        "start": "2057.653",
+        "end": 2059.043
+    },
+    {
+        "transcriptionData": {
+            "content": "[music]  [noise] (()) [laugh] [bg-speech]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400112",
+        "start": "2061.043",
+        "end": 2067.938
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] (()) picture of before that guy gets married (()) [laugh]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400037",
+        "start": "2069.939",
+        "end": 2073.44
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "400038",
+        "start": "2075.441",
+        "end": 2085.995
+    },
+    {
+        "transcriptionData": {
+            "content": "[music]  [noise] This is the direct flight (()) [bg-speech] [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400039",
+        "start": "2087.996",
+        "end": 2092.901
+    },
+    {
+        "transcriptionData": {
+            "content": "Hi. Thank you for holding the line, Miss. I am sorry for keeping you waiting. [noise] Okay, #uh are you there? [bg-speech]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "400040",
+        "start": "2095.167",
+        "end": 2100.109
+    },
+    {
+        "transcriptionData": {
+            "content": "Yes, I am. Yes, I am."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400041",
+        "start": "2103.233",
+        "end": 2102.583
+    },
+    {
+        "transcriptionData": {
+            "content": "All right #uh Miss. You must have received an <initial>E</initial> mail with the ticket information, passenger details, flight information and the total charges [noise] [bg-speech] #uh"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "400042",
+        "start": "2104.768",
+        "end": 2112.126
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "400120",
+        "start": "2114.126",
+        "end": 2114.384
+    },
+    {
+        "transcriptionData": {
+            "content": "Can I can I just check?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400043",
+        "start": "2116.544",
+        "end": 2116.5
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "400121",
+        "start": "2118.5",
+        "end": 2118.151
+    },
+    {
+        "transcriptionData": {
+            "content": "No problem. I want you to check everything and authorize the <initial>E</initial> mail. [noise] You'll see us (()) [bg-speech] document. You need to open the document and start signing it."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "400044",
+        "start": "2120.191",
+        "end": 2127.558
+    },
+    {
+        "transcriptionData": {
+            "content": "[bg-speech] #uh Okay, I, I'm, I'm there now. [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400045",
+        "start": "2129.955",
+        "end": 2131.788
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Okay."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "400046",
+        "start": "2134.024",
+        "end": 2132.806
+    },
+    {
+        "transcriptionData": {
+            "content": "Open document okay? [bg-speech]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400047",
+        "start": "2135.041",
+        "end": 2135.27
+    },
+    {
+        "transcriptionData": {
+            "content": "Yes, open"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "400048",
+        "start": "2137.271",
+        "end": 2136.2
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "400122",
+        "start": "2138.2",
+        "end": 2136.949
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] please start signing."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "400123",
+        "start": "2138.95",
+        "end": 2138.122
+    },
+    {
+        "transcriptionData": {
+            "content": "Yeah, it's so slow the internet is [bg-speech] [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400049",
+        "start": "2141.066",
+        "end": 2149.951
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "400050",
+        "start": "2151.952",
+        "end": 2151.824
+    },
+    {
+        "transcriptionData": {
+            "content": "What you need me to do?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400051",
+        "start": "2154.347",
+        "end": 2153.731
+    },
+    {
+        "transcriptionData": {
+            "content": "No. When you open the document, you will see a signature box. [bg-speech] Need to click on that signature box"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "400052",
+        "start": "2156.664",
+        "end": 2161.763
+    },
+    {
+        "transcriptionData": {
+            "content": "Yeah."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400053",
+        "start": "2165.097",
+        "end": 2163.502
+    },
+    {
+        "transcriptionData": {
+            "content": "And then it will #uh maybe it will tell you to start signing [noise] and then complete and finish"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "400054",
+        "start": "2165.861",
+        "end": 2170.07
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "400124",
+        "start": "2172.77",
+        "end": 2172.678
+    },
+    {
+        "transcriptionData": {
+            "content": "It it, it, it's already signed [redacted-name-Customer]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400055",
+        "start": "2176.53",
+        "end": 2178.073
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] [bg-speech] Yeah, it says [redacted-name-Customer] there. Did you click on the"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "400056",
+        "start": "2180.177",
+        "end": 2182.09
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "400057",
+        "start": "2184.091",
+        "end": 2182.905
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Accept and sign"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400125",
+        "start": "2186.2",
+        "end": 2186.128
+    },
+    {
+        "transcriptionData": {
+            "content": "Yeah, accept and sign. Do that. [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "400058",
+        "start": "2188.152",
+        "end": 2189.257
+    },
+    {
+        "transcriptionData": {
+            "content": "And where do I sign it?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400059",
+        "start": "2192.021",
+        "end": 2191.452
+    },
+    {
+        "transcriptionData": {
+            "content": "You don't need to sign anything, just need to click on in that. [laugh]  [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "400060",
+        "start": "2193.683",
+        "end": 2194.761
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400061",
+        "start": "2197.294",
+        "end": 2196.155
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "400126",
+        "start": "2198.155",
+        "end": 2197.859
+    },
+    {
+        "transcriptionData": {
+            "content": "[bg-speech] As soon as you do that, your name will appear there [bg-speech]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "400062",
+        "start": "2200.392",
+        "end": 2202.208
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "400127",
+        "start": "2204.208",
+        "end": 2204.142
+    },
+    {
+        "transcriptionData": {
+            "content": "Yes. [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "400128",
+        "start": "2206.142",
+        "end": 2205.493
+    },
+    {
+        "transcriptionData": {
+            "content": "Yeah. All right."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400065",
+        "start": "2208.361",
+        "end": 2207.427
+    },
+    {
+        "transcriptionData": {
+            "content": "[bg-speech] Now I need one more thing over here Miss. Since there are #uh kids travelling on the ticket and you are using a different card because the name of the card holder is not appearing on the ticket. So I need the picture of the card for the security of your #uh card."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "400066",
+        "start": "2209.572",
+        "end": 2222.254
+    },
+    {
+        "transcriptionData": {
+            "content": "You can hide all the numbers, just the last four numbers #uh which is [noise] [redacted-number-other]. The last [noise] four numbers should be visible. Hi~ you can hide rest of the numbers with the finger [noise] and the name of the"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "400067",
+        "start": "2224.255",
+        "end": 2236.208
+    },
+    {
+        "transcriptionData": {
+            "content": "card holder that should be visible, okay? Take a picture of that and send it to me over the text message that you send the name on. [noise] And also you can"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "400068",
+        "start": "2238.219",
+        "end": 2243.752
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "400129",
+        "start": "2245.752",
+        "end": 2244.473
+    },
+    {
+        "transcriptionData": {
+            "content": "also send me the driver's [noise] license of the card holder, [noise] so we can add it on"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "400130",
+        "start": "2246.473",
+        "end": 2249.209
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "400131",
+        "start": "2251.209",
+        "end": 2250.037
+    },
+    {
+        "transcriptionData": {
+            "content": "is gonna is going to have to do that because the children is (()). He just sent me his card (()). I asked him to send me his driver's license, so give me a few minutes for that."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400069",
+        "start": "2252.038",
+        "end": 2260.972
+    },
+    {
+        "transcriptionData": {
+            "content": "No problem. [noise] So ask him to send me his driver's license. [noise] Also the picture of the card okay, because I need both of the things to add on the ticket."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "400070",
+        "start": "2263.562",
+        "end": 2269.173
+    },
+    {
+        "transcriptionData": {
+            "content": "[bg-speech] Okay, so I'll do that now and text you what?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400071",
+        "start": "2272.03",
+        "end": 2274.404
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Yeah, you do that as soon as you get it. You can text me on the same number that you send me the names on. [noise] And also just in case you want to speak with me, you can call me on the same number that you or or text me on the same number that you send me the names on. [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "400072",
+        "start": "2276.555",
+        "end": 2287.703
+    },
+    {
+        "transcriptionData": {
+            "content": "That's a direct"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "400073",
+        "start": "2289.723",
+        "end": 2288.474
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "400132",
+        "start": "2290.474",
+        "end": 2289.119
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay, I don't do nothing now. It says the keep your own documents signed, start now. I don't do nothing."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400074",
+        "start": "2292.121",
+        "end": 2296.409
+    },
+    {
+        "transcriptionData": {
+            "content": "No, no, you don't need to do anything now. Just go back and and that's all."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "400075",
+        "start": "2298.541",
+        "end": 2300.225
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "400133",
+        "start": "2302.225",
+        "end": 2301.091
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "400134",
+        "start": "2303.091",
+        "end": 2303.274
+    },
+    {
+        "transcriptionData": {
+            "content": "There has been one charge. I would like to tell him as [noise] well because you are not the one using your card. [noise] So you can also tell him that there will be two separate transactions on his card. First transaction for five hundred and fifty-six dollars"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "500001",
+        "start": "2305.281",
+        "end": 2315.74
+    },
+    {
+        "transcriptionData": {
+            "content": "#uh Canadian [noise] that would be charged from the [redacted-name-Company], okay that is one charge and the second charge is for four hundred and eighteen Canadian dollars from [redacted-name-Company]. [noise] There will be two separate transactions. The total amount would"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "500002",
+        "start": "2317.741",
+        "end": 2330.492
+    },
+    {
+        "transcriptionData": {
+            "content": "still remain the same, okay, nine seventy-four Canadian [noise] for both of them."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "500003",
+        "start": "2332.501",
+        "end": 2334.8
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Okay."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "500004",
+        "start": "2337.292",
+        "end": 2336.716
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "500007",
+        "start": "2338.716",
+        "end": 2337.388
+    },
+    {
+        "transcriptionData": {
+            "content": "do that now. (()) contact him."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2722",
+        "segmentId": "500008",
+        "start": "2339.388",
+        "end": 2339.028
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "500006",
+        "start": "2341.028",
+        "end": 2340.773
+    },
+    {
+        "transcriptionData": {
+            "content": "Thank you."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2721",
+        "segmentId": "500005",
+        "start": "2342.774",
+        "end": 2341.576
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "500009",
+        "start": "2343.576",
+        "end": 2343.165
+    }
+]

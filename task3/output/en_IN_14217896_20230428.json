@@ -1,0 +1,324 @@
+[
+    {
+        "transcriptionData": {
+            "content": "Hello?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DCJA1",
+        "segmentId": "100002",
+        "start": "3.09",
+        "end": 1.87
+    },
+    {
+        "transcriptionData": {
+            "content": "Yes."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DC223",
+        "segmentId": "100003",
+        "start": "4.11",
+        "end": 2.69
+    },
+    {
+        "transcriptionData": {
+            "content": "Good Morning Ma'am. My name is [redacted-name-Agent]. How are you doing today?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DCJA1",
+        "segmentId": "100004",
+        "start": "6.19",
+        "end": 8.1
+    },
+    {
+        "transcriptionData": {
+            "content": "Fine."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DC223",
+        "segmentId": "100005",
+        "start": "10.32",
+        "end": 9.07
+    },
+    {
+        "transcriptionData": {
+            "content": "That's wonderful and ma'am the reason for my call is to let you know that your Medicare is getting updated for this year and you are receiving much more additional Medicare benefits at no additional cost to you."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DCJA1",
+        "segmentId": "100006",
+        "start": "11.95",
+        "end": 22.86
+    },
+    {
+        "transcriptionData": {
+            "content": "So ma'am I do believe you can make your own decisions for your Medicare, correct?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DCJA1",
+        "segmentId": "100007",
+        "start": "24.861",
+        "end": 27.435
+    },
+    {
+        "transcriptionData": {
+            "content": "Yes."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DC223",
+        "segmentId": "100008",
+        "start": "29.88",
+        "end": 28.543
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay, and ma'am I do believe your Medicare part A and part B both are active right now, correct?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DCJA1",
+        "segmentId": "100009",
+        "start": "31.65",
+        "end": 35.33
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Yeah, I think so."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DC223",
+        "segmentId": "100010",
+        "start": "37.96",
+        "end": 37.21
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay, and ma'am like I do have your information over here, so correct me if I'm wrong. Like over here, I can see you reside in [redacted-location]. Correct?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DCJA1",
+        "segmentId": "100011",
+        "start": "40.14",
+        "end": 46.7
+    },
+    {
+        "transcriptionData": {
+            "content": "Yes."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DC223",
+        "segmentId": "100012",
+        "start": "49.19",
+        "end": 48.01
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay, and ma'am can just spell me out your first name and your last name? [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DCJA1",
+        "segmentId": "100013",
+        "start": "50.86",
+        "end": 53.282
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-name-Customer]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DC223",
+        "segmentId": "100014",
+        "start": "55.714",
+        "end": 56.764
+    },
+    {
+        "transcriptionData": {
+            "content": "Perfect, I got it right over here ma'am, and ma'am like I do got your malling address is [redacted-location], as in [redacted-location] and the Z I P code is [redacted-location], right?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DCJA1",
+        "segmentId": "100015",
+        "start": "59.58",
+        "end": 68.65
+    },
+    {
+        "transcriptionData": {
+            "content": "Yes."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DC223",
+        "segmentId": "100016",
+        "start": "70.89",
+        "end": 69.66
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay, and ma'am can you please help me with your date of birth? Your happy birthday?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DCJA1",
+        "segmentId": "100017",
+        "start": "72.47",
+        "end": 74.32
+    },
+    {
+        "transcriptionData": {
+            "content": "I don't give that at over the phone."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DC223",
+        "segmentId": "100018",
+        "start": "77.36",
+        "end": 77.33
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay dear, but #uh this is a last piece of information I will be asking. I just want you to put your right age criteria. So that's the reason I was asking your date of birth, so can you please help me with your date of birth?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DCJA1",
+        "segmentId": "100019",
+        "start": "80.22",
+        "end": 91.16
+    },
+    {
+        "transcriptionData": {
+            "content": "Like I do [noise] have your date of birth over here. So just correct me if I am wrong. Like [redacted-dob], correct?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DCJA1",
+        "segmentId": "100020",
+        "start": "93.161",
+        "end": 97.59
+    },
+    {
+        "transcriptionData": {
+            "content": "Yes."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DC223",
+        "segmentId": "100021",
+        "start": "99.75",
+        "end": 98.57
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay, that's wonderful sir ma'am, so I'm really sorry dear, like #uh you are totally eligible and qualified to receive this updated benefit."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DCJA1",
+        "segmentId": "100022",
+        "start": "101.46",
+        "end": 110.34
+    },
+    {
+        "transcriptionData": {
+            "content": "Now, I will get your call connected to the verification officer who will be from your same Z I P code that is [redacted-location] and he will be the right person"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DCJA1",
+        "segmentId": "100023",
+        "start": "112.372",
+        "end": 119.168
+    },
+    {
+        "transcriptionData": {
+            "content": "who will let you know what benefits and savings you are entitled to receive this year at no additional cost to you, so ma'am please stay on the line dear I'm getting your call connected. I do really [noise] appreciate your time and patience."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DCJA1",
+        "segmentId": "100024",
+        "start": "121.188",
+        "end": 130.0
+    }
+]

@@ -1,0 +1,1745 @@
+[
+    {
+        "transcriptionData": {
+            "content": "Hello. Am I talking to [redacted-name-Customer]? [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100001",
+        "start": "2",
+        "end": 2.562
+    },
+    {
+        "transcriptionData": {
+            "content": "Yes."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100034",
+        "start": "4.562",
+        "end": 3.482
+    },
+    {
+        "transcriptionData": {
+            "content": "This is [redacted-name-Agent] calling you from [redacted-name-Company], a loan company. How are you doing today?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100035",
+        "start": "6.342",
+        "end": 10.162
+    },
+    {
+        "transcriptionData": {
+            "content": "Good."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100036",
+        "start": "13.682",
+        "end": 12.151
+    },
+    {
+        "transcriptionData": {
+            "content": "All right. I got [noise] your application online stating that you're looking [noise] for a loan and have been pre-approved anyway from [noise] hundred dollars to [noise] five thousand [noise] dollars. [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100002",
+        "start": "15.362",
+        "end": 23.217
+    },
+    {
+        "transcriptionData": {
+            "content": "How much"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100131",
+        "start": "25.217",
+        "end": 23.758
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100132",
+        "start": "25.758",
+        "end": 24.446
+    },
+    {
+        "transcriptionData": {
+            "content": "today?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100133",
+        "start": "26.446",
+        "end": 25.401
+    },
+    {
+        "transcriptionData": {
+            "content": "#uh [noise] Two thousand."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100037",
+        "start": "27.814",
+        "end": 27.008
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] All right. [noise] Before we [noise] proceed, this [noise] call will be recorded [noise] for training and [noise] quality purpose. [noise] Is that [noise] will be [noise] okay for you? [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100003",
+        "start": "29.842",
+        "end": 35.942
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Yes."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100038",
+        "start": "38.082",
+        "end": 37.842
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] All right. [noise] There are two simple [noise] steps going to do a soft [noise] pull on your credit score [noise] just to reconfirm that you are [noise] the right person [noise] who is opting loan [noise] from us"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100004",
+        "start": "40.222",
+        "end": 47.348
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100134",
+        "start": "49.348",
+        "end": 49.05
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] online [noise] application, all right? [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100135",
+        "start": "51.05",
+        "end": 51.161
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay. [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100039",
+        "start": "53.301",
+        "end": 52.201
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] #um #hm [noise] Do you have a [noise] checking account [noise] to receive [noise] this loan? [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100005",
+        "start": "54.201",
+        "end": 58.941
+    },
+    {
+        "transcriptionData": {
+            "content": "Yes. [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100040",
+        "start": "60.941",
+        "end": 59.704
+    },
+    {
+        "transcriptionData": {
+            "content": "Are you employed? [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100041",
+        "start": "62.661",
+        "end": 62.928
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Yes."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100042",
+        "start": "64.928",
+        "end": 63.981
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] How much do you make [noise] a month? [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100043",
+        "start": "66.221",
+        "end": 67.176
+    },
+    {
+        "transcriptionData": {
+            "content": "#uh"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100136",
+        "start": "69.698",
+        "end": 68.921
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Which is (()). [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100006",
+        "start": "70.921",
+        "end": 72.129
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Sorry."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100044",
+        "start": "74.129",
+        "end": 73.571
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Two thousand [noise] five hundred."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100045",
+        "start": "75.571",
+        "end": 76.391
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Two thousand five hundred. All right. Do you [noise] have a valid credit card [noise] or valid debit card?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100046",
+        "start": "78.391",
+        "end": 81.741
+    },
+    {
+        "transcriptionData": {
+            "content": "Yes."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100047",
+        "start": "84.511",
+        "end": 83.154
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] What card do you use?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100007",
+        "start": "85.481",
+        "end": 87.041
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] I'm using a cash app. [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100048",
+        "start": "89.041",
+        "end": 89.811
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Cash app. [noise] Do you have a single [noise] dollar in your cash app for your [noise] verification process?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100049",
+        "start": "91.811",
+        "end": 94.451
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Excuse me?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100050",
+        "start": "97.531",
+        "end": 97.671
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Do you have a single dollar in your cash app"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100008",
+        "start": "99.681",
+        "end": 101.132
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Noise",
+        "segmentId": "100137",
+        "start": "103.132",
+        "end": 102.974
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Yes."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100051",
+        "start": "104.974",
+        "end": 104.696
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] All right. [noise] Can you place my call on speaker and [noise] open your browser like Google or Chrome?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100052",
+        "start": "106.696",
+        "end": 110.784
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay. [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100009",
+        "start": "113.438",
+        "end": 114.246
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] #um #hm"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100053",
+        "start": "116.246",
+        "end": 114.871
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "100120",
+        "start": "116.871",
+        "end": 121.746
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] and type it [noise] as [redacted-ip-url] [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100010",
+        "start": "123.746",
+        "end": 125.717
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "100054",
+        "start": "127.717",
+        "end": 127.981
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] What's that again?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100121",
+        "start": "129.981",
+        "end": 130.236
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-ip-url] [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100055",
+        "start": "132.236",
+        "end": 133.658
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100056",
+        "start": "136.193",
+        "end": 134.846
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "100108",
+        "start": "136.846",
+        "end": 145.575
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "100109",
+        "start": "147.575",
+        "end": 152.377
+    },
+    {
+        "transcriptionData": {
+            "content": "Have you opened that? [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100011",
+        "start": "154.647",
+        "end": 154.45
+    },
+    {
+        "transcriptionData": {
+            "content": "Yeah, yeah (())"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100057",
+        "start": "156.45",
+        "end": 159.87
+    },
+    {
+        "transcriptionData": {
+            "content": "It's [redacted-name-Company]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100122",
+        "start": "161.87",
+        "end": 162.265
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100138",
+        "start": "164.265",
+        "end": 163.498
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-ip-url] [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100058",
+        "start": "165.498",
+        "end": 166.679
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "100110",
+        "start": "168.679",
+        "end": 180.367
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100012",
+        "start": "182.535",
+        "end": 181.231
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay. Now [noise] do you see [redacted-name-Company] in a brown color box? [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100059",
+        "start": "184.508",
+        "end": 187.839
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Let me see. [noise] Yes."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100060",
+        "start": "189.839",
+        "end": 191.236
+    },
+    {
+        "transcriptionData": {
+            "content": "Do you have a grey box with three lines on your right top corner?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100013",
+        "start": "194.467",
+        "end": 196.515
+    },
+    {
+        "transcriptionData": {
+            "content": "Excuse me."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100061",
+        "start": "199.332",
+        "end": 198.055
+    },
+    {
+        "transcriptionData": {
+            "content": "Do you have a grey box with three lines on your right top corner?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100062",
+        "start": "201.292",
+        "end": 204.447
+    },
+    {
+        "transcriptionData": {
+            "content": "Let me see."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100063",
+        "start": "207.062",
+        "end": 205.898
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Noise",
+        "segmentId": "100111",
+        "start": "207.898",
+        "end": 210.023
+    },
+    {
+        "transcriptionData": {
+            "content": "A small grey box with three lines on it."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100014",
+        "start": "212.646",
+        "end": 213.732
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "100112",
+        "start": "215.732",
+        "end": 225.242
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "100015",
+        "start": "227.508",
+        "end": 229.599
+    },
+    {
+        "transcriptionData": {
+            "content": "It's, it's is loading right now. [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100123",
+        "start": "231.599",
+        "end": 231.307
+    },
+    {
+        "transcriptionData": {
+            "content": "#um #hm [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100064",
+        "start": "233.615",
+        "end": 232.9
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "100113",
+        "start": "235.24",
+        "end": 246.409
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "100114",
+        "start": "248.409",
+        "end": 251.034
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay. [noise] This is #uh"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100016",
+        "start": "253.128",
+        "end": 252.327
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "100124",
+        "start": "254.327",
+        "end": 254.419
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] I'm sorry."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100065",
+        "start": "256.471",
+        "end": 255.035
+    },
+    {
+        "transcriptionData": {
+            "content": "Five three six five credit is what it says."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100066",
+        "start": "257.056",
+        "end": 257.471
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-ip-url]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100017",
+        "start": "259.894",
+        "end": 261.28
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100140",
+        "start": "263.28",
+        "end": 262.314
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-name-Company] in a grey color box, [noise] correct? In a brown color box? [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100139",
+        "start": "264.314",
+        "end": 267.291
+    },
+    {
+        "transcriptionData": {
+            "content": "Do you see that?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100018",
+        "start": "273.303",
+        "end": 272.448
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay. I'm on the browser."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100067",
+        "start": "275.147",
+        "end": 274.433
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "100125",
+        "start": "276.433",
+        "end": 276.85
+    },
+    {
+        "transcriptionData": {
+            "content": "What do I do?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100126",
+        "start": "278.85",
+        "end": 277.389
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100068",
+        "start": "279.389",
+        "end": 278.4
+    },
+    {
+        "transcriptionData": {
+            "content": "Open it."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100019",
+        "start": "281.285",
+        "end": 280.082
+    },
+    {
+        "transcriptionData": {
+            "content": "Type. Open a browser and type it as [redacted-ip-url]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100069",
+        "start": "282.082",
+        "end": 286.205
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay. I'm on the website."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100070",
+        "start": "291.214",
+        "end": 290.819
+    },
+    {
+        "transcriptionData": {
+            "content": "All right. Do you have a small grey box with three black lines on your right top corner?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100020",
+        "start": "293.462",
+        "end": 297.843
+    },
+    {
+        "transcriptionData": {
+            "content": "Yes."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100071",
+        "start": "302.774",
+        "end": 301.087
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] On your right top corner, just click that. [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100072",
+        "start": "303.087",
+        "end": 303.282
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100073",
+        "start": "306.219",
+        "end": 304.65
+    },
+    {
+        "transcriptionData": {
+            "content": "You have options like home, about us,"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100021",
+        "start": "307.849",
+        "end": 308.516
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100141",
+        "start": "310.516",
+        "end": 310.027
+    },
+    {
+        "transcriptionData": {
+            "content": "Click on to credit score. [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100142",
+        "start": "312.826",
+        "end": 312.586
+    },
+    {
+        "transcriptionData": {
+            "content": "Credit score?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100074",
+        "start": "315.917",
+        "end": 314.683
+    },
+    {
+        "transcriptionData": {
+            "content": "Yes."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100075",
+        "start": "317.375",
+        "end": 315.961
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "100115",
+        "start": "317.961",
+        "end": 323.951
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100022",
+        "start": "326.175",
+        "end": 324.595
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay. [noise] Now just scroll down your page. You'll have [noise] a seventh [noise] option called your score and more, your score and more."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100076",
+        "start": "327.278",
+        "end": 334.195
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100077",
+        "start": "336.627",
+        "end": 335.306
+    },
+    {
+        "transcriptionData": {
+            "content": "Just open that. Do you see that?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100023",
+        "start": "339.306",
+        "end": 338.883
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "100127",
+        "start": "340.883",
+        "end": 342.938
+    },
+    {
+        "transcriptionData": {
+            "content": "Your score and more."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100128",
+        "start": "344.938",
+        "end": 344.381
+    },
+    {
+        "transcriptionData": {
+            "content": "(()) which one? [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100078",
+        "start": "348.627",
+        "end": 347.498
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Your score and more. Just scroll down your page. You'll [noise] have [noise] your score and more at the [noise] seventh option."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100024",
+        "start": "349.766",
+        "end": 354.21
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Okay."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100079",
+        "start": "356.964",
+        "end": 355.556
+    },
+    {
+        "transcriptionData": {
+            "content": "Do you see that there?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100080",
+        "start": "358.671",
+        "end": 357.778
+    },
+    {
+        "transcriptionData": {
+            "content": "Hello. [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100025",
+        "start": "366.351",
+        "end": 365.034
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "100116",
+        "start": "367.034",
+        "end": 370.045
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] #uh When it says your score and more?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100081",
+        "start": "372.878",
+        "end": 373.347
+    },
+    {
+        "transcriptionData": {
+            "content": "Yes. [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100082",
+        "start": "375.92",
+        "end": 375.535
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100083",
+        "start": "377.535",
+        "end": 376.019
+    },
+    {
+        "transcriptionData": {
+            "content": "Just click that."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100084",
+        "start": "379.306",
+        "end": 378.389
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "100117",
+        "start": "380.389",
+        "end": 384.42
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay. [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100026",
+        "start": "386.941",
+        "end": 385.555
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "100118",
+        "start": "387.555",
+        "end": 388.285
+    },
+    {
+        "transcriptionData": {
+            "content": "Now just tell me what it's asking you there?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100085",
+        "start": "390.305",
+        "end": 390.618
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "100119",
+        "start": "392.618",
+        "end": 397.68
+    },
+    {
+        "transcriptionData": {
+            "content": "It says to en~ enter my information to locate my [noise] file."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100027",
+        "start": "399.68",
+        "end": 400.691
+    },
+    {
+        "transcriptionData": {
+            "content": "Yes, like your name, last name,"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100086",
+        "start": "403.316",
+        "end": 403.285
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100143",
+        "start": "405.285",
+        "end": 404.939
+    },
+    {
+        "transcriptionData": {
+            "content": "Yes. Please provide your details there. [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100144",
+        "start": "406.939",
+        "end": 406.972
+    },
+    {
+        "transcriptionData": {
+            "content": "Go ahead"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100087",
+        "start": "410.128",
+        "end": 408.635
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100145",
+        "start": "410.635",
+        "end": 409.681
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] I'm sorry."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100088",
+        "start": "412.483",
+        "end": 411.722
+    },
+    {
+        "transcriptionData": {
+            "content": "Enter, enter all that stuff?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100028",
+        "start": "414.024",
+        "end": 413.608
+    },
+    {
+        "transcriptionData": {
+            "content": "Yes, en~ [noise] en~ enter all the details [noise] given there. [noise] Meanwhile, I'll be doing with your [noise] paperwork here."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100089",
+        "start": "416.243",
+        "end": 419.955
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100146",
+        "start": "421.955",
+        "end": 421.04
+    },
+    {
+        "transcriptionData": {
+            "content": "please let me know. [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100147",
+        "start": "423.04",
+        "end": 422.42
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay. [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100090",
+        "start": "424.42",
+        "end": 423.347
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] #um #hm"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100091",
+        "start": "425.795",
+        "end": 424.451
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "100092",
+        "start": "426.451",
+        "end": 439.17
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "100093",
+        "start": "441.17",
+        "end": 453.045
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "100094",
+        "start": "455.045",
+        "end": 466.545
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "100095",
+        "start": "468.545",
+        "end": 481.046
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "100096",
+        "start": "483.046",
+        "end": 494.171
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "100097",
+        "start": "496.171",
+        "end": 501.785
+    },
+    {
+        "transcriptionData": {
+            "content": "Are you done with the step one? [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100029",
+        "start": "504.931",
+        "end": 504.983
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Yes. It's [noise] my phone (())"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100098",
+        "start": "507.869",
+        "end": 508.468
+    },
+    {
+        "transcriptionData": {
+            "content": "I'm sorry. [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100099",
+        "start": "511.348",
+        "end": 510.432
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Doesn't want to take my phone number."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECC128",
+        "segmentId": "100100",
+        "start": "513.754",
+        "end": 513.494
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] #um #hm"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100101",
+        "start": "517.358",
+        "end": 516.327
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "100102",
+        "start": "518.327",
+        "end": 530.983
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "100103",
+        "start": "532.983",
+        "end": 545.65
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "100104",
+        "start": "547.66",
+        "end": 559.056
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "100105",
+        "start": "561.056",
+        "end": 572.171
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Are you done with that?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100032",
+        "start": "574.285",
+        "end": 573.697
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "100129",
+        "start": "575.697",
+        "end": 579.937
+    },
+    {
+        "transcriptionData": {
+            "content": "Hello!"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100130",
+        "start": "581.937",
+        "end": 580.65
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "100106",
+        "start": "582.65",
+        "end": 592.796
+    },
+    {
+        "transcriptionData": {
+            "content": "Hello!"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "DECA128",
+        "segmentId": "100033",
+        "start": "595.088",
+        "end": 593.994
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "100107",
+        "start": "598.807",
+        "end": 602.15
+    }
+]

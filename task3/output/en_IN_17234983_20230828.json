@@ -1,0 +1,306 @@
+[
+    {
+        "transcriptionData": {
+            "content": "[noise] Flight [noise] reservation. My name is [redacted-name-Agent]. How may I help you?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2185",
+        "segmentId": "100001",
+        "start": "2.78",
+        "end": 5.28
+    },
+    {
+        "transcriptionData": {
+            "content": "#uh Hi, #uh I booked #uh flight #uh for #uh next #uh [redacted-other-date] #um"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2186",
+        "segmentId": "100002",
+        "start": "8.142",
+        "end": 14.442
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100102",
+        "start": "16.582",
+        "end": 15.489
+    },
+    {
+        "transcriptionData": {
+            "content": "it's actually from [redacted-location], the the whole trip is from [redacted-location] to #uh"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2186",
+        "segmentId": "100103",
+        "start": "17.489",
+        "end": 19.98
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-location] and #uh"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2186",
+        "segmentId": "100003",
+        "start": "21.99",
+        "end": 22.725
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100104",
+        "start": "24.725",
+        "end": 23.178
+    },
+    {
+        "transcriptionData": {
+            "content": "flight we're taking is [redacted-location] [noise] and I've received the email #uh from my [redacted-name-Company], which is the the"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2186",
+        "segmentId": "100105",
+        "start": "25.178",
+        "end": 32.113
+    },
+    {
+        "transcriptionData": {
+            "content": "whole flight kind of it belongs to them, but the my first flight is operated by [redacted-name-Company]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2186",
+        "segmentId": "100004",
+        "start": "34.113",
+        "end": 38.903
+    },
+    {
+        "transcriptionData": {
+            "content": "And #uh"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2186",
+        "segmentId": "100005",
+        "start": "41.362",
+        "end": 40.45
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100106",
+        "start": "42.45",
+        "end": 40.911
+    },
+    {
+        "transcriptionData": {
+            "content": "very weird because #uh [redacted-name-Company] are telling me that the three flights are canceled and they're rebooking me on two other flights on the return."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2186",
+        "segmentId": "100107",
+        "start": "42.911",
+        "end": 51.887
+    },
+    {
+        "transcriptionData": {
+            "content": "Then they kind of like they're leaving me in [redacted-location] and the flight that was operated by [redacted-name-Company] missing."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2186",
+        "segmentId": "100006",
+        "start": "53.906",
+        "end": 57.842
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100007",
+        "start": "60.002",
+        "end": 59.142
+    },
+    {
+        "transcriptionData": {
+            "content": "confirmation number for the reservation, sir? [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2185",
+        "segmentId": "100108",
+        "start": "61.145",
+        "end": 61.565
+    },
+    {
+        "transcriptionData": {
+            "content": "#uh Yeah, I have a reservation number. It's like a reservation number from [redacted-name-Company]. Will you be able to #uh use this?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2186",
+        "segmentId": "100008",
+        "start": "63.607",
+        "end": 69.404
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] I will check #uh what I can do. I need your confirmation number"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2185",
+        "segmentId": "100009",
+        "start": "72.662",
+        "end": 74.779
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100109",
+        "start": "76.779",
+        "end": 77.172
+    },
+    {
+        "transcriptionData": {
+            "content": "Yeah, yeah, I have it, just give me a sec. #uh [noise] let's say its [redacted-number-other]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2186",
+        "segmentId": "100010",
+        "start": "79.426",
+        "end": 89.82
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-number-other] and what is the last [noise] #uh alphabet?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2185",
+        "segmentId": "100011",
+        "start": "94.1",
+        "end": 96.588
+    },
+    {
+        "transcriptionData": {
+            "content": "#uh"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2186",
+        "segmentId": "100093",
+        "start": "100.02",
+        "end": 99.56
+    },
+    {
+        "transcriptionData": {
+            "content": "[bg-speech] Like its [redacted-number-other]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2185",
+        "segmentId": "100092",
+        "start": "102.899",
+        "end": 104.602
+    },
+    {
+        "transcriptionData": {
+            "content": "Yeah."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2186",
+        "segmentId": "100094",
+        "start": "106.844",
+        "end": 105.51
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-number-other]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2185",
+        "segmentId": "100015",
+        "start": "108.262",
+        "end": 109.841
+    },
+    {
+        "transcriptionData": {
+            "content": "Yeah."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2186",
+        "segmentId": "100095",
+        "start": "111.841",
+        "end": 110.42
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-number-other]"
+        

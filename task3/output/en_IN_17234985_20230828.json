@@ -1,0 +1,191 @@
+[
+    {
+        "transcriptionData": {
+            "content": "[music] Your call is very important to us. Please stay on the line. We will transfer to the next available agent."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "f8a6f07e-3877-4da2-9503-b787ebf1ecc7",
+        "segmentId": "100001",
+        "start": "3.332",
+        "end": 8.965
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "100002",
+        "start": "12.292",
+        "end": 22.405
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "100003",
+        "start": "24.706",
+        "end": 33.232
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Music",
+        "segmentId": "100014",
+        "start": "35.265",
+        "end": 43.791
+    },
+    {
+        "transcriptionData": {
+            "content": "Thank you for holding the line, your call has been connected to the reservation desk. This is [redacted-name-Agent]. How can I help you?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2225",
+        "segmentId": "100013",
+        "start": "46.193",
+        "end": 50.937
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay, I currently don't need a reservation desk. My name is [redacted-name-Customer]. My husband flew on your airline, [redacted-name-Company], back from #uh [redacted-location] #uh maybe [redacted-location]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2226",
+        "segmentId": "100005",
+        "start": "53.956",
+        "end": 64.876
+    },
+    {
+        "transcriptionData": {
+            "content": "and in doing so, when we got to the airport in [redacted-location] from there and to [redacted-location], and once we got into [redacted-location] the #uh his luggage had been damaged. We filed a claim. We went and did a claim."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2226",
+        "segmentId": "100006",
+        "start": "67.618",
+        "end": 79.494
+    },
+    {
+        "transcriptionData": {
+            "content": "on it as a damaged flight [noise] and we have not heard anything since. We would like to know"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2226",
+        "segmentId": "100007",
+        "start": "81.5",
+        "end": 86.117
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100015",
+        "start": "88.118",
+        "end": 86.894
+    },
+    {
+        "transcriptionData": {
+            "content": "claim."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2226",
+        "segmentId": "100016",
+        "start": "88.934",
+        "end": 87.573
+    },
+    {
+        "transcriptionData": {
+            "content": "Miss you have dialed the wrong number actually. [noise] This is not [redacted-name-Company]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2225",
+        "segmentId": "100008",
+        "start": "89.691",
+        "end": 93.04
+    },
+    {
+        "transcriptionData": {
+            "content": "Oh okay, (())"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2226",
+        "segmentId": "100009",
+        "start": "96.61",
+        "end": 96.692
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100017",
+        "start": "98.753",
+        "end": 97.512
+    },
+    {
+        "transcriptionData": {
+            "content": "[laugh] This is this is the global reservation desk. This is the third party."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2225",
+        "segmentId": "100010",
+        "start": "99.973",
+        "end": 102.676
+    },
+    {
+        "transcriptionData": {
+            "content": "Well, shoot, okay. Thank you."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "US281076",
+        "segmentId": "100011",
+        "start": "106.144",
+        "end": 106.405
+    },
+    {
+        "transcriptionData": {
+            "content": "No problem thank you"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2225",
+        "segmentId": "100012",
+        "start": "109.283",
+        "end": 108.413
+    }
+]

@@ -1,0 +1,2249 @@
+[
+    {
+        "transcriptionData": {
+            "content": "Reservations, you are speaking to [redacted-name-Agent], how can I help you?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100001",
+        "start": "3.038",
+        "end": 3.518
+    },
+    {
+        "transcriptionData": {
+            "content": "Hi #uh I just want to #uh return my plane ticket."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100002",
+        "start": "7.206",
+        "end": 8.429
+    },
+    {
+        "transcriptionData": {
+            "content": "#uh Do you have the confirmation code sir?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100003",
+        "start": "11.88",
+        "end": 11.602
+    },
+    {
+        "transcriptionData": {
+            "content": "#uh Yeah, gimme one second. Sorry."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100004",
+        "start": "15.407",
+        "end": 15.306
+    },
+    {
+        "transcriptionData": {
+            "content": "Sure."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100076",
+        "start": "17.306",
+        "end": 15.779
+    },
+    {
+        "transcriptionData": {
+            "content": "#um [noise] Confirmation code like as in #uh like on the ticket."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100077",
+        "start": "24.178",
+        "end": 27.32
+    },
+    {
+        "transcriptionData": {
+            "content": "Exactly, sir. It would be of six digits and would be alphanumeric."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100005",
+        "start": "29.92",
+        "end": 31.78
+    },
+    {
+        "transcriptionData": {
+            "content": "#uh Okay #um"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100006",
+        "start": "36.062",
+        "end": 35.941
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] #uh [redacted-number-other]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100095",
+        "start": "41.442",
+        "end": 41.02
+    },
+    {
+        "transcriptionData": {
+            "content": "#uh #hm"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100007",
+        "start": "43.381",
+        "end": 41.942
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-number-other]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100008",
+        "start": "44.557",
+        "end": 43.717
+    },
+    {
+        "transcriptionData": {
+            "content": "#uh #hm"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100009",
+        "start": "46.373",
+        "end": 44.643
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-number-other]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100010",
+        "start": "47.857",
+        "end": 47.082
+    },
+    {
+        "transcriptionData": {
+            "content": "#uh that's actually the flight number sir."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100011",
+        "start": "49.632",
+        "end": 49.742
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay. #um"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100078",
+        "start": "53.63",
+        "end": 53.621
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100079",
+        "start": "56.001",
+        "end": 56.368
+    },
+    {
+        "transcriptionData": {
+            "content": "There's like so many numbers on on my boarding pass, but"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100013",
+        "start": "60.965",
+        "end": 62.444
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100014",
+        "start": "64.452",
+        "end": 64.222
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-number-other]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100096",
+        "start": "66.222",
+        "end": 65.862
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-number-other]. Okay, give me a second. I will (())."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100015",
+        "start": "68.9",
+        "end": 70.191
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay [noise] yeah, so it's #uh [redacted-number-other]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100097",
+        "start": "77.948",
+        "end": 78.357
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Overlap",
+        "segmentId": "100080",
+        "start": "81.117",
+        "end": 81.411
+    },
+    {
+        "transcriptionData": {
+            "content": "Yeah, [redacted-number-other] So it's [redacted-number-other]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100016",
+        "start": "85.204",
+        "end": 86.642
+    },
+    {
+        "transcriptionData": {
+            "content": "#uh #hm"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100086",
+        "start": "89.482",
+        "end": 87.922
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-number-other]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100087",
+        "start": "89.922",
+        "end": 90.222
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] #uh #hm"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100088",
+        "start": "92.657",
+        "end": 91.412
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-number-other]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100089",
+        "start": "94.502",
+        "end": 94.376
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-number-other]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100017",
+        "start": "96.645",
+        "end": 95.802
+    },
+    {
+        "transcriptionData": {
+            "content": "#uh Sorry it's it's [redacted-number-other]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100018",
+        "start": "100.022",
+        "end": 100.702
+    },
+    {
+        "transcriptionData": {
+            "content": "Oh [noise] I'm sorry. It's [redacted-number-other]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100019",
+        "start": "103.174",
+        "end": 103.241
+    },
+    {
+        "transcriptionData": {
+            "content": "Yeah, and the last three is [redacted-number-other]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100020",
+        "start": "106.633",
+        "end": 108.594
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-number-other]. Can I have the first and the last name of the passenger?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100021",
+        "start": "111.223",
+        "end": 112.561
+    },
+    {
+        "transcriptionData": {
+            "content": "Sure, #uh it's [redacted-name-Customer]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100022",
+        "start": "116.185",
+        "end": 116.547
+    },
+    {
+        "transcriptionData": {
+            "content": "and last name is [redacted-name-Customer]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100024",
+        "start": "121.245",
+        "end": 122.761
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] #uh #hm"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100090",
+        "start": "124.821",
+        "end": 123.475
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-name-Customer]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100091",
+        "start": "126.385",
+        "end": 125.712
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-name-Customer]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100025",
+        "start": "129.571",
+        "end": 129.489
+    },
+    {
+        "transcriptionData": {
+            "content": "Yeah."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100026",
+        "start": "133.245",
+        "end": 131.515
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay. Allow me a moment, sir. Let me pull out your reservation."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100027",
+        "start": "134.359",
+        "end": 134.789
+    },
+    {
+        "transcriptionData": {
+            "content": "Sure."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100028",
+        "start": "137.802",
+        "end": 136.072
+    },
+    {
+        "transcriptionData": {
+            "content": "I'm not able to pull up your reservation sir, would like to confirm your #uh details one more time. So that the ticket number that you gave me was [noise] [redacted-number-other]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100029",
+        "start": "180.647",
+        "end": 188.305
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-number-other]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100030",
+        "start": "190.841",
+        "end": 193.939
+    },
+    {
+        "transcriptionData": {
+            "content": "Yup."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100031",
+        "start": "197.783",
+        "end": 196.181
+    },
+    {
+        "transcriptionData": {
+            "content": "And your first name is [redacted-name-Customer], which is [redacted-name-Customer]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100032",
+        "start": "199.986",
+        "end": 201.992
+    },
+    {
+        "transcriptionData": {
+            "content": "and the last name that you gave me was [redacted-name-Customer]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100033",
+        "start": "204.541",
+        "end": 213.599
+    },
+    {
+        "transcriptionData": {
+            "content": "Yeah correct."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100034",
+        "start": "218.005",
+        "end": 216.781
+    },
+    {
+        "transcriptionData": {
+            "content": "Is there any other last name apart from this one?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100035",
+        "start": "219.808",
+        "end": 219.982
+    },
+    {
+        "transcriptionData": {
+            "content": "No, it's just #uh my first and last name, but I can like repeat #uh my boarding pass, so it's #uh [no-speech] [redacted-number-other]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100036",
+        "start": "223.797",
+        "end": 233.601
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-number-other] #uh sorry #uh [redacted-number-other] and then the last #uh number is [redacted-number-other] with, has a (()) a space beside it."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100037",
+        "start": "236.731",
+        "end": 248.307
+    },
+    {
+        "transcriptionData": {
+            "content": "#uh Do you also see"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100038",
+        "start": "256.551",
+        "end": 255.9
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Overlap",
+        "segmentId": "100092",
+        "start": "257.9",
+        "end": 257.099
+    },
+    {
+        "transcriptionData": {
+            "content": "code, sir"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100093",
+        "start": "259.114",
+        "end": 257.656
+    },
+    {
+        "transcriptionData": {
+            "content": "#uh Reservation code. No, I do not."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100039",
+        "start": "261.698",
+        "end": 261.908
+    },
+    {
+        "transcriptionData": {
+            "content": "And you made the reservations by yourself."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100040",
+        "start": "266.997",
+        "end": 266.937
+    },
+    {
+        "transcriptionData": {
+            "content": "Yeah."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100041",
+        "start": "270.945",
+        "end": 269.232
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay, so when you made the reservation [noise] by yourself, sir, you actually must have received an email from [redacted-name-Company] that would be having the confirmation code. Do you mind looking up that email for me, please? Because I'm not able"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100042",
+        "start": "271.964",
+        "end": 280.755
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100098",
+        "start": "282.765",
+        "end": 282.175
+    },
+    {
+        "transcriptionData": {
+            "content": "Oh no worries, no worries #uh give me one second #uh I would like to check."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100043",
+        "start": "285.88",
+        "end": 288.284
+    },
+    {
+        "transcriptionData": {
+            "content": "Yup. So it's #uh [redacted-number-other]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100044",
+        "start": "311.648",
+        "end": 319.882
+    },
+    {
+        "transcriptionData": {
+            "content": "I'm not able to pull up your reservation, sir. Are you sure you should be having a different name on the reservation or the confirmation code should be different because if there was a confirmation, [noise] #uh a reservation on this confirmation number, it would have pulled up already."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100045",
+        "start": "357.917",
+        "end": 369.313
+    },
+    {
+        "transcriptionData": {
+            "content": "So, are you sure that your last name of the reservation is [redacted-name-Customer]? Do you have any other middle name?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100046",
+        "start": "371.433",
+        "end": 373.688
+    },
+    {
+        "transcriptionData": {
+            "content": "#uh So the last name is (()) me for sure and, and it's #uh it's just my sister that booked the ticket."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100047",
+        "start": "377.327",
+        "end": 381.13
+    },
+    {
+        "transcriptionData": {
+            "content": "#uh #hm"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100048",
+        "start": "383.532",
+        "end": 381.937
+    },
+    {
+        "transcriptionData": {
+            "content": "So #uh it might be her name, which is [redacted-name-Customer] and same last name. [noise]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100049",
+        "start": "383.958",
+        "end": 386.439
+    },
+    {
+        "transcriptionData": {
+            "content": "So, it's [redacted-name-Customer]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100050",
+        "start": "393.279",
+        "end": 393.481
+    },
+    {
+        "transcriptionData": {
+            "content": "Yeah, correct."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100051",
+        "start": "396.599",
+        "end": 395.801
+    },
+    {
+        "transcriptionData": {
+            "content": "And followed by [redacted-name-Customer]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100052",
+        "start": "397.961",
+        "end": 397.265
+    },
+    {
+        "transcriptionData": {
+            "content": "Yeah."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100053",
+        "start": "401.068",
+        "end": 400.033
+    },
+    {
+        "transcriptionData": {
+            "content": "It's the same like card information and everything else, but #uh"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100081",
+        "start": "406.481",
+        "end": 407.848
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100104",
+        "start": "409.848",
+        "end": 409.145
+    },
+    {
+        "transcriptionData": {
+            "content": "for the trip, so."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100105",
+        "start": "411.145",
+        "end": 410.375
+    },
+    {
+        "transcriptionData": {
+            "content": "#um So sorry, sir. I'm not able to pull up your information. I would have to provide you my email address on which you can forward me the email that you got from [redacted-name-Company]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100054",
+        "start": "414.121",
+        "end": 420.967
+    },
+    {
+        "transcriptionData": {
+            "content": "So #uh it's hardly gonna be taking the next one second, if you can forward me the email that I can check it from my end."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100055",
+        "start": "423.187",
+        "end": 427.079
+    },
+    {
+        "transcriptionData": {
+            "content": "Sure. Yes, that's fine."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100082",
+        "start": "430.679",
+        "end": 430.339
+    },
+    {
+        "transcriptionData": {
+            "content": "Yup, okay, so let me know whenever you're ready. I'll repeat my emails here."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100057",
+        "start": "432.977",
+        "end": 433.991
+    },
+    {
+        "transcriptionData": {
+            "content": "Yup."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100083",
+        "start": "438.623",
+        "end": 437.041
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100099",
+        "start": "439.49",
+        "end": 438.194
+    },
+    {
+        "transcriptionData": {
+            "content": "So my email is [redacted-email]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100084",
+        "start": "440.543",
+        "end": 442.779
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-email] one word. [redacted-email]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100058",
+        "start": "445.21",
+        "end": 450.667
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-email]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100059",
+        "start": "455.522",
+        "end": 456.823
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-email],"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100060",
+        "start": "459.253",
+        "end": 460.879
+    },
+    {
+        "transcriptionData": {
+            "content": "Oh, [redacted-number-other]. Okay"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100061",
+        "start": "464.043",
+        "end": 464.241
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100106",
+        "start": "466.262",
+        "end": 465.37
+    },
+    {
+        "transcriptionData": {
+            "content": "Yup, lemme just see if I"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100062",
+        "start": "467.73",
+        "end": 467.423
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100094",
+        "start": "469.488",
+        "end": 468.408
+    },
+    {
+        "transcriptionData": {
+            "content": "Can I just double check. Like I have the #uh confirmation like #uh [noise] number over here, just to make it easier"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100063",
+        "start": "470.838",
+        "end": 477.238
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100101",
+        "start": "479.53",
+        "end": 478.235
+    },
+    {
+        "transcriptionData": {
+            "content": "but"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100102",
+        "start": "480.867",
+        "end": 479.647
+    },
+    {
+        "transcriptionData": {
+            "content": "like it says confirmation number over here. #um [noise] Can I just like do it one more [noise] time?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100064",
+        "start": "482.508",
+        "end": 486.281
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100085",
+        "start": "488.359",
+        "end": 487.171
+    },
+    {
+        "transcriptionData": {
+            "content": "For sure."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100107",
+        "start": "489.231",
+        "end": 487.925
+    },
+    {
+        "transcriptionData": {
+            "content": "Yeah, so it's just #uh I think it's like capital and maybe it's capital, but I'm not sure, but it's [redacted-number-other]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100065",
+        "start": "492.919",
+        "end": 497.679
+    },
+    {
+        "transcriptionData": {
+            "content": "#uh #hm"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100066",
+        "start": "500.112",
+        "end": 498.587
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-number-other]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100067",
+        "start": "502.579",
+        "end": 501.804
+    },
+    {
+        "transcriptionData": {
+            "content": "#uh #hm"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100068",
+        "start": "504.327",
+        "end": 502.664
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-number-other]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100069",
+        "start": "505.319",
+        "end": 504.444
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay, [redacted-number-other]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100070",
+        "start": "508.534",
+        "end": 514.428
+    },
+    {
+        "transcriptionData": {
+            "content": "Yeah."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100071",
+        "start": "518.046",
+        "end": 516.35
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "100072",
+        "start": "520.948",
+        "end": 520.99
+    },
+    {
+        "transcriptionData": {
+            "content": "No, sir. I'm not able to pull it up. [laugh] I'm sorry."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "100073",
+        "start": "525.825",
+        "end": 525.8
+    },
+    {
+        "transcriptionData": {
+            "content": "#uh No worries, don't apologize. It's fine. [laugh] All right. Okay, I'll send you an email"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100074",
+        "start": "529.373",
+        "end": 532.022
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "100108",
+        "start": "534.022",
+        "end": 533.099
+    },
+    {
+        "transcriptionData": {
+            "content": "Yeah. We'll we'll we'll we'll look afterwards. No worries."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100103",
+        "start": "536.378",
+        "end": 537.865
+    },
+    {
+        "transcriptionData": {
+            "content": "That's fine, alright, thank you so much for your, for your help. I appreciate it."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "100075",
+        "start": "539.946",
+        "end": 541.641
+    },
+    {
+        "transcriptionData": {
+            "content": "Sure are you, are we, are you forwarding me the email sir, so that I can check it from my end?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "200001",
+        "start": "543.814",
+        "end": 545.577
+    },
+    {
+        "transcriptionData": {
+            "content": "Sorry?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "200002",
+        "start": "549.698",
+        "end": 548.311
+    },
+    {
+        "transcriptionData": {
+            "content": "Are you, are you, are you gonna send me the email that you have?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "200003",
+        "start": "550.902",
+        "end": 551.938
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "200067",
+        "start": "554.125",
+        "end": 553.362
+    },
+    {
+        "transcriptionData": {
+            "content": "Yeah, yeah."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "200060",
+        "start": "555.362",
+        "end": 553.9
+    },
+    {
+        "transcriptionData": {
+            "content": "Yeah, for sure. It's [redacted-name-Customer]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "200004",
+        "start": "556.877",
+        "end": 557.892
+    },
+    {
+        "transcriptionData": {
+            "content": "Oh, no, I was actually asking for you to forward me the email that you have, sir, so that I can pull it up from my end."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "200005",
+        "start": "560.319",
+        "end": 564.1
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay sure. [laugh]"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "200061",
+        "start": "567.46",
+        "end": 566.975
+    },
+    {
+        "transcriptionData": {
+            "content": "So #uh sorry #uh [laugh] my and my [noise] (()) my cat just #uh walked in."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "200006",
+        "start": "569.475",
+        "end": 572.408
+    },
+    {
+        "transcriptionData": {
+            "content": "But so its, its #uh [redacted-email], at was it at"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "200007",
+        "start": "575.293",
+        "end": 580.036
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "200062",
+        "start": "582.061",
+        "end": 582.138
+    },
+    {
+        "transcriptionData": {
+            "content": "Oh Gmail Gmail, okay."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "200063",
+        "start": "584.418",
+        "end": 584.693
+    },
+    {
+        "transcriptionData": {
+            "content": "I'm sending #uh I just gave you the Gmail address #uh email address of mine because it's very much faster. If I give you the one, which is an official [redacted-name-Company] one, that would be a little time taking. [noise] So just to make the process quicker, I'm"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "200008",
+        "start": "588.353",
+        "end": 597.653
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "200009",
+        "start": "599.678",
+        "end": 598.177
+    },
+    {
+        "transcriptionData": {
+            "content": "Gmail address. So I hope that's okay."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "200068",
+        "start": "600.177",
+        "end": 600.233
+    },
+    {
+        "transcriptionData": {
+            "content": "For sure, and I appreciate that #um okay, all right."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "200010",
+        "start": "603.707",
+        "end": 605.568
+    },
+    {
+        "transcriptionData": {
+            "content": "Let me know once you've sent it."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "200011",
+        "start": "650.413",
+        "end": 649.561
+    },
+    {
+        "transcriptionData": {
+            "content": "Yup. Yup."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "200012",
+        "start": "654.27",
+        "end": 653.152
+    },
+    {
+        "transcriptionData": {
+            "content": "#um It's saying #uh at gmail dot com (())"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "200069",
+        "start": "662.699",
+        "end": 664.697
+    },
+    {
+        "transcriptionData": {
+            "content": "I'm trying to send but saying, #uh found zero contacts #uh contacts."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "200013",
+        "start": "673.245",
+        "end": 676.73
+    },
+    {
+        "transcriptionData": {
+            "content": "Is it not going through?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "200014",
+        "start": "681.976",
+        "end": 681.187
+    },
+    {
+        "transcriptionData": {
+            "content": "No."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "200064",
+        "start": "684.948",
+        "end": 683.738
+    },
+    {
+        "transcriptionData": {
+            "content": "Do you want me to send you a test email so that you can reply on the same?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "200016",
+        "start": "688.77",
+        "end": 690.107
+    },
+    {
+        "transcriptionData": {
+            "content": "Sure, yeah, that would be great."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "200065",
+        "start": "693.277",
+        "end": 693.021
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay, can you help me out with your email address?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "200066",
+        "start": "695.345",
+        "end": 695.309
+    },
+    {
+        "transcriptionData": {
+            "content": "#uh it's [redacted-email] #uh sorry, I'm going (())."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "200017",
+        "start": "698.928",
+        "end": 701.705
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "200018",
+        "start": "704.127",
+        "end": 702.862
+    },
+    {
+        "transcriptionData": {
+            "content": "[redacted-email]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "200019",
+        "start": "704.962",
+        "end": 710.925
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay. Lemme just shoot you a test email. Okay?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "200020",
+        "start": "716.58",
+        "end": 716.84
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay, sounds good."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "200021",
+        "start": "720.204",
+        "end": 719.337
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "200022",
+        "start": "753.047",
+        "end": 754.102
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay, [redacted-name-Customer], I have sent you an email on your email address which you just provided me. Can you please check if you have received it?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "200023",
+        "start": "763.783",
+        "end": 767.652
+    },
+    {
+        "transcriptionData": {
+            "content": "Sure."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "200024",
+        "start": "771.364",
+        "end": 769.873
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "200025",
+        "start": "774.647",
+        "end": 774.487
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "200026",
+        "start": "784.958",
+        "end": 789.168
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "200027",
+        "start": "791.826",
+        "end": 801.993
+    },
+    {
+        "transcriptionData": {
+            "content": "#um I don't see anything as of yet, but"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "200028",
+        "start": "806.696",
+        "end": 808.436
+    },
+    {
+        "transcriptionData": {
+            "content": "Let's try sending it to you one more time."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "200029",
+        "start": "810.71",
+        "end": 810.863
+    },
+    {
+        "transcriptionData": {
+            "content": "Sure."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "200030",
+        "start": "814.675",
+        "end": 813.063
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "200031",
+        "start": "818.353",
+        "end": 824.487
+    },
+    {
+        "transcriptionData": {
+            "content": "You can also check your"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "200032",
+        "start": "829.153",
+        "end": 827.954
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "200070",
+        "start": "829.954",
+        "end": 828.978
+    },
+    {
+        "transcriptionData": {
+            "content": "There you go. [noise] I just got it."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "200033",
+        "start": "831.058",
+        "end": 831.862
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay, perfect."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "200034",
+        "start": "834.587",
+        "end": 833.498
+    },
+    {
+        "transcriptionData": {
+            "content": "Where, where did it go? No. (()) [noise] No."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "200035",
+        "start": "838.75",
+        "end": 843.256
+    },
+    {
+        "transcriptionData": {
+            "content": "So it just #uh disappeared. [laugh] I don't know why, just what just happened. It just I just received like I'm #uh [noise] I'm using this from my phone, so it just disappeared for some reason, but I saw the notification."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "200036",
+        "start": "862.486",
+        "end": 873.003
+    },
+    {
+        "transcriptionData": {
+            "content": "#uh Do you mind sending to you one more time? Can I send it again to you?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "200037",
+        "start": "875.391",
+        "end": 876.04
+    },
+    {
+        "transcriptionData": {
+            "content": "Yeah, sure. Thank you. I'm sorry. I'm"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "200040",
+        "start": "878.652",
+        "end": 878.454
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "200073",
+        "start": "880.454",
+        "end": 879.854
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "200041",
+        "start": "884.959",
+        "end": 892.696
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "200042",
+        "start": "899.59",
+        "end": 902.483
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay, I've sent that you again. [noise] #uh Let's see if you receive it."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "200043",
+        "start": "907.118",
+        "end": 909.634
+    },
+    {
+        "transcriptionData": {
+            "content": "[noise] Okay, sounds good."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "200044",
+        "start": "912.14",
+        "end": 911.495
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "200045",
+        "start": "913.766",
+        "end": 923.037
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "200046",
+        "start": "927.957",
+        "end": 933.483
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay, I got it. Finally. [noise] So it's got [redacted-name-Company], Reservations desk confirmation code #uh (()) okay."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "200047",
+        "start": "939.739",
+        "end": 949.345
+    },
+    {
+        "transcriptionData": {
+            "content": "(()) my phone. #uh I think it's my phone #uh that keeps like every single time I try to apply it, it #uh just #uh [noise] denies it, but it says #uh please enter your email here."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "200048",
+        "start": "961.655",
+        "end": 973.142
+    },
+    {
+        "transcriptionData": {
+            "content": "Once I try, it says it goes #uh to draft."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "200049",
+        "start": "975.862",
+        "end": 977.175
+    },
+    {
+        "transcriptionData": {
+            "content": "#uh Do you want me to go ahead and hold on the lines for? I mean, like #uh if you can send me the email"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "200050",
+        "start": "981.935",
+        "end": 984.748
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "200071",
+        "start": "986.768",
+        "end": 985.447
+    },
+    {
+        "transcriptionData": {
+            "content": "so I can try calling you back on the same number once I receive the email,"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "200072",
+        "start": "987.515",
+        "end": 989.126
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Babble",
+        "segmentId": "200051",
+        "start": "993.448",
+        "end": 1001.962
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay, I have the email in front of me here."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "200052",
+        "start": "1066.011",
+        "end": 1066.677
+    },
+    {
+        "transcriptionData": {
+            "content": "Oh yeah, I'm sorry #uh I am still trying to look for the draft, but #uh it just every single time I open the #uh [noise] like like the [noise] your email #um"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "200053",
+        "start": "1081.334",
+        "end": 1090.568
+    },
+    {
+        "transcriptionData": {
+            "content": "and I accepted my email, it just disappeared [noise] like it. #uh Just I think it may be like, it's my phone I'm not sure, but #uh"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "200054",
+        "start": "1093.004",
+        "end": 1099.33
+    },
+    {
+        "transcriptionData": {
+            "content": "Well, in that case, sir, what I can do is I can [noise] provide you the next five to ten minutes, #uh you can try sending me the email and as soon as I receive the email [noise] I would be calling you back on [redacted-number-phone-fax]."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "200055",
+        "start": "1102.765",
+        "end": 1113.259
+    },
+    {
+        "transcriptionData": {
+            "content": "Yeah correct,"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "200056",
+        "start": "1116.774",
+        "end": 1115.615
+    },
+    {
+        "transcriptionData": {
+            "content": "Okay?"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "200057",
+        "start": "1117.616",
+        "end": 1115.962
+    },
+    {
+        "loudnessLevel": "Normal",
+        "primaryType": "Crosstalk",
+        "segmentId": "200074",
+        "start": "1117.962",
+        "end": 1116.765
+    },
+    {
+        "transcriptionData": {
+            "content": "in the next five minutes, and I'll be waiting for the email now."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "200075",
+        "start": "1118.78",
+        "end": 1118.821
+    },
+    {
+        "transcriptionData": {
+            "content": "Sounds good. Thank you so much. Appreciate it."
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2744",
+        "segmentId": "200058",
+        "start": "1121.894",
+        "end": 1121.814
+    },
+    {
+        "transcriptionData": {
+            "content": "Sure. Not a pro~"
+        },
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": [
+            "en_IN"
+        ],
+        "speakerId": "RC_2743",
+        "segmentId": "200059",
+        "start": "1123.834",
+        "end": 1122.532
+    }
+]
