@@ -6,3 +6,5 @@ y=arr.view()
 
 print(x.base)
 print(y.base)
+# print(x.base)
+# print(y.base)

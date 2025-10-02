@@ -17,3 +17,5 @@ else:
 
 
 
+ar1=np.array([1,23.5,45,54])
+print(ar1.astype('M'))
