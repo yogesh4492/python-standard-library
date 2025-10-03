@@ -18,3 +18,9 @@ print(var.loc[1])
 print(var.loc[[0,1,2]])
 
 
+""" # Most Import thing is : import csv or any file in csv """
+
+df=pd.read_csv("/home/yogesh/Desktop/python standard library/task1/1.csv")
+print(df)
+
+
