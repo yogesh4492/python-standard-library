@@ -182,11 +182,6 @@ class Main:
                         res=i.result()
                         p.update(tab,advance=1)
                         csw.writerows(res)
-
-
-
-
-
 @app.command()
 def main(input,field,output):
     obj=Main(input,field,output)
