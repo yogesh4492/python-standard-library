@@ -1,0 +1,8 @@
+aws s3 cp s3://shaip-production-bucket/eztrans/EZBS/data/Us114/audio/33808/20230809/Insurance_DCA07_1_15640.wav "nov3_1/"
+aws s3 cp s3://shaip-production-bucket/eztrans/EZBS/data/Us114/audio/33808/20230809/Insurance_DCA20_1_15640.wav "nov3_1/"
+aws s3 cp s3://shaip-production-bucket/eztrans/EZBS/data/Us114/audio/33808/20230810/Insurance_DCA10_1_15640.wav "nov3_1/"
+aws s3 cp s3://shaip-production-bucket/eztrans/EZBS/data/Us114/audio/33808/20230810/Insurance_RC_7070_1_15640.wav "nov3_1/"
+aws s3 cp s3://shaip-production-bucket/eztrans/EZBS/data/Us114/audio/33808/20230810/Insurance_RC_7094_1_15640.wav "nov3_1/"
+aws s3 cp s3://shaip-production-bucket/eztrans/EZBS/data/Us114/audio/33808/20230819/Insurance_DCA08_1_ru_15640.wav "nov3_1/"
+aws s3 cp s3://shaip-production-bucket/eztrans/EZBS/data/Us114/audio/33808/20230819/Insurance_PV_10435_1_ru_15640.wav "nov3_1/"
+aws s3 cp s3://shaip-production-bucket/eztrans/EZBS/data/Us114/audio/33808/20230819/Insurance_DCA15_1_ru_15640.wav "nov3_1/"
