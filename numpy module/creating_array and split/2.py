@@ -1,5 +1,5 @@
 """ Spliting array """
-# 1. using .split() but its fail when element are less
+# 1. using .split() but its fail when elementpairs are less
 
 import numpy as np
 
