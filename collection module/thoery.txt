@@ -1,0 +1,23 @@
+The collections module in Python provides specialized containers
+(different from general purpose built-in containers like dict, list, tuple and set). 
+These specialized containers are designed to address specific 
+programming needs efficiently and offer additional functionalities.
+
+================================================================
+1)deque
+2)counter
+3)defaultdict
+4)Orderedict
+5)namedTuple
+
+---------------------------------------------------------------------
+1)counter : its is mainly used to check the frequency of the elements means how many time element comes in list
+
+syntax: collection.counter(iterable or mapping or keywordargu)
+
+iterable means the list,tuple
+mapping means dictonary with key and value pair
+keywordargument: string with name=value
+
+-------------------------------------------------------------------------
+2)
